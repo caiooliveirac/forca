@@ -1,0 +1,259 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Fredericka the Great";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/frederickathegreat/v21/9Bt93lCfGf-cFiMFldsos0Mdpil2a7OrWR1hoDc.woff2") format("woff2");
+}
+
+@theme {
+  --font-chalk: "Fredericka the Great", cursive;
+  --font-body: "Fira Sans", sans-serif;
+
+  --color-chalk: #F5F0E6;
+  --color-board: #1e293b;
+  --color-board-dark: #1a1f2e;
+  --color-accent: #f59e0b;
+  --color-error: #ef4444;
+  --color-success: #22c55e;
+  --color-chalk-dim: #94a3b8;
+  --color-chalk-worn: #D4CAB8;
+  --color-wood: #8B6914;
+}
+
+/* ===== CHALKBOARD BACKGROUND ===== */
+.chalkboard-bg {
+  background-color: #1a1f2e;
+  background-image:
+    radial-gradient(ellipse at 30% 50%, rgba(255,255,255,0.03) 0%, transparent 70%),
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+}
+
+/* ===== CHALKBOARD FRAME ===== */
+.chalkboard-frame {
+  border: 6px solid #8B6914;
+  box-shadow:
+    inset 0 0 30px rgba(0,0,0,0.4),
+    inset 0 0 4px rgba(139,105,20,0.3),
+    0 4px 20px rgba(0,0,0,0.5);
+}
+
+/* ===== KEYFRAMES ===== */
+
+@keyframes swing {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(3deg); }
+  75% { transform: rotate(-3deg); }
+}
+
+@keyframes fadeInScale {
+  from { opacity: 0; transform: scale(1.3); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes bounce-letter {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+@keyframes confetti-fall {
+  0% { transform: translateY(-100%) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
+}
+
+@keyframes chalk-appear {
+  from { opacity: 0; filter: blur(2px); }
+  to { opacity: 1; filter: blur(0); }
+}
+
+@keyframes pendulum-death {
+  0%   { transform: rotate(0deg) translateY(0); }
+  5%   { transform: rotate(0deg) translateY(12px); }
+  12%  { transform: rotate(18deg) translateY(8px); }
+  25%  { transform: rotate(-14deg) translateY(6px); }
+  40%  { transform: rotate(10deg) translateY(5px); }
+  55%  { transform: rotate(-6deg) translateY(5px); }
+  70%  { transform: rotate(3deg) translateY(5px); }
+  85%  { transform: rotate(-1.5deg) translateY(5px); }
+  100% { transform: rotate(0deg) translateY(5px); }
+}
+
+@keyframes drop-free {
+  0%   { transform: translateY(0); }
+  55%  { transform: translateY(65px); }
+  70%  { transform: translateY(58px); }
+  85%  { transform: translateY(65px); }
+  100% { transform: translateY(65px); }
+}
+
+@keyframes arms-raise {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes rope-break {
+  0% { opacity: 1; }
+  30% { opacity: 1; stroke-dasharray: 4 2; }
+  100% { opacity: 0; stroke-dasharray: 1 8; }
+}
+
+@keyframes pulse-star {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+@keyframes fade-up-out {
+  from { opacity: 1; transform: translateY(0); }
+  to { opacity: 0; transform: translateY(-20px); }
+}
+
+@keyframes fade-up-in {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes board-shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-3px); }
+  40% { transform: translateX(3px); }
+  60% { transform: translateX(-2px); }
+  80% { transform: translateX(2px); }
+}
+
+@keyframes key-press {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
+/* ===== UTILITY CLASSES ===== */
+
+@utility animate-swing {
+  animation: swing 2s ease-in-out infinite;
+  transform-origin: top center;
+}
+
+@utility animate-fade-in-scale {
+  animation: fadeInScale 0.4s ease-out forwards;
+}
+
+@utility animate-bounce-letter {
+  animation: bounce-letter 0.6s ease-in-out;
+}
+
+@utility animate-confetti {
+  animation: confetti-fall 3s ease-in forwards;
+}
+
+@utility animate-chalk {
+  animation: chalk-appear 0.4s ease-out forwards;
+}
+
+@utility animate-pendulum-death {
+  animation: pendulum-death 1.5s ease-in-out forwards;
+}
+
+@utility animate-rope-break {
+  animation: rope-break 0.4s ease-out forwards;
+}
+
+@utility animate-drop-free {
+  animation: drop-free 0.6s ease-in forwards;
+}
+
+@utility animate-arms-raise {
+  animation: arms-raise 0.3s ease-out forwards;
+}
+
+@utility animate-pulse-star {
+  animation: pulse-star 0.5s ease-in-out;
+}
+
+@utility animate-fade-up-out {
+  animation: fade-up-out 0.3s ease-in forwards;
+}
+
+@utility animate-fade-up-in {
+  animation: fade-up-in 0.4s ease-out forwards;
+}
+
+@utility animate-board-shake {
+  animation: board-shake 0.4s ease-in-out;
+}
+
+@utility animate-key-press {
+  animation: key-press 50ms ease-out;
+}
+
+@keyframes modal-backdrop-enter {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes modal-enter {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@utility animate-modal-backdrop {
+  animation: modal-backdrop-enter 0.4s ease-out forwards;
+}
+
+@utility animate-modal-enter {
+  animation: modal-enter 0.4s ease-out forwards;
+}
+
+/* ===== SCORING ANIMATIONS ===== */
+
+@keyframes score-line-enter {
+  from { opacity: 0; transform: translateX(-12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes combo-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.08); }
+}
+
+@keyframes score-highlight-glow {
+  0% { text-shadow: none; transform: scale(1); }
+  50% { text-shadow: 0 0 12px rgba(251,191,36,0.5); transform: scale(1.04); }
+  100% { text-shadow: 0 0 6px rgba(251,191,36,0.2); transform: scale(1); }
+}
+
+@utility animate-score-line {
+  opacity: 0;
+  animation: score-line-enter 0.35s ease-out forwards;
+}
+
+@utility animate-combo-pulse {
+  animation: combo-pulse 1.5s ease-in-out infinite;
+}
+
+@utility animate-score-highlight {
+  opacity: 0;
+  animation: score-line-enter 0.35s ease-out forwards, score-highlight-glow 0.6s ease-out 0.5s;
+}
+
+/* ===== PARTIAL UMLAUT ANIMATIONS ===== */
+
+@keyframes partial-pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+@keyframes key-hint-pulse {
+  0%, 100% { border-color: rgba(245,158,11,0.3); box-shadow: none; }
+  50% { border-color: rgba(245,158,11,0.8); box-shadow: 0 0 8px rgba(245,158,11,0.3); }
+}
+
+@utility animate-partial-pulse {
+  animation: partial-pulse 1.8s ease-in-out infinite;
+}
+
+@utility animate-key-hint-pulse {
+  animation: key-hint-pulse 1.5s ease-in-out infinite;
+}

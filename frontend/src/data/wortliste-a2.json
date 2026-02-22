@@ -1,0 +1,5623 @@
+{
+  "metadata": {
+    "level": "A2",
+    "source": "Goethe-Institut Wortliste A2",
+    "sourceUrl": "https://www.goethe.de/",
+    "totalWords": 360,
+    "lastUpdated": "2026-02-22"
+  },
+  "categories": [
+    {
+      "id": "essen",
+      "name": "Essen & Trinken",
+      "icon": "🍽️"
+    },
+    {
+      "id": "familie",
+      "name": "Familie & Freunde",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "arbeit",
+      "name": "Arbeit & Beruf",
+      "icon": "💼"
+    },
+    {
+      "id": "reisen",
+      "name": "Reisen & Verkehr",
+      "icon": "✈️"
+    },
+    {
+      "id": "wohnen",
+      "name": "Wohnen & Haushalt",
+      "icon": "🏠"
+    },
+    {
+      "id": "freizeit",
+      "name": "Freizeit & Hobby",
+      "icon": "⚽"
+    },
+    {
+      "id": "gesundheit",
+      "name": "Gesundheit & Körper",
+      "icon": "🏥"
+    },
+    {
+      "id": "einkaufen",
+      "name": "Einkaufen & Kleidung",
+      "icon": "🛒"
+    },
+    {
+      "id": "schule",
+      "name": "Schule & Bildung",
+      "icon": "📚"
+    },
+    {
+      "id": "natur",
+      "name": "Natur & Wetter",
+      "icon": "🌿"
+    }
+  ],
+  "words": [
+    {
+      "id": "w001",
+      "word": "Frühstück",
+      "article": "das",
+      "translation": {
+        "pt": "café da manhã",
+        "en": "breakfast"
+      },
+      "category": "essen",
+      "example": "Zum Frühstück esse ich Brot mit Käse.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w002",
+      "word": "Mittagessen",
+      "article": "das",
+      "translation": {
+        "pt": "almoço",
+        "en": "lunch"
+      },
+      "category": "essen",
+      "example": "Das Mittagessen ist um 12 Uhr.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w003",
+      "word": "Abendessen",
+      "article": "das",
+      "translation": {
+        "pt": "jantar",
+        "en": "dinner"
+      },
+      "category": "essen",
+      "example": "Was gibt es zum Abendessen?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w004",
+      "word": "Kuchen",
+      "article": "der",
+      "translation": {
+        "pt": "bolo",
+        "en": "cake"
+      },
+      "category": "essen",
+      "example": "Der Kuchen schmeckt sehr gut.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "süßigkeit"
+      ]
+    },
+    {
+      "id": "w005",
+      "word": "Kartoffel",
+      "article": "die",
+      "translation": {
+        "pt": "batata",
+        "en": "potato"
+      },
+      "category": "essen",
+      "example": "Ich möchte Kartoffeln mit Fleisch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "gemüse"
+      ]
+    },
+    {
+      "id": "w006",
+      "word": "Gemüse",
+      "article": "das",
+      "translation": {
+        "pt": "legumes/verduras",
+        "en": "vegetables"
+      },
+      "category": "essen",
+      "example": "Gemüse ist sehr gesund.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w007",
+      "word": "Fleisch",
+      "article": "das",
+      "translation": {
+        "pt": "carne",
+        "en": "meat"
+      },
+      "category": "essen",
+      "example": "Ich esse nicht so gern Fleisch.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w008",
+      "word": "Hähnchen",
+      "article": "das",
+      "translation": {
+        "pt": "frango",
+        "en": "chicken"
+      },
+      "category": "essen",
+      "example": "Hähnchen mit Reis ist mein Lieblingsgericht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w009",
+      "word": "Getränk",
+      "article": "das",
+      "translation": {
+        "pt": "bebida",
+        "en": "beverage"
+      },
+      "category": "essen",
+      "example": "Welches Getränk möchten Sie?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "trinken"
+      ]
+    },
+    {
+      "id": "w010",
+      "word": "Saft",
+      "article": "der",
+      "translation": {
+        "pt": "suco",
+        "en": "juice"
+      },
+      "category": "essen",
+      "example": "Ich trinke gern Orangensaft.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "trinken"
+      ]
+    },
+    {
+      "id": "w011",
+      "word": "Milch",
+      "article": "die",
+      "translation": {
+        "pt": "leite",
+        "en": "milk"
+      },
+      "category": "essen",
+      "example": "Trinkst du deinen Kaffee mit Milch?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "trinken"
+      ]
+    },
+    {
+      "id": "w012",
+      "word": "Käse",
+      "article": "der",
+      "translation": {
+        "pt": "queijo",
+        "en": "cheese"
+      },
+      "category": "essen",
+      "example": "Ich hätte gern ein Brot mit Käse.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w013",
+      "word": "Butter",
+      "article": "die",
+      "translation": {
+        "pt": "manteiga",
+        "en": "butter"
+      },
+      "category": "essen",
+      "example": "Möchten Sie Butter auf das Brot?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w014",
+      "word": "Zucker",
+      "article": "der",
+      "translation": {
+        "pt": "açúcar",
+        "en": "sugar"
+      },
+      "category": "essen",
+      "example": "Nehmen Sie Zucker in den Tee?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w015",
+      "word": "Salz",
+      "article": "das",
+      "translation": {
+        "pt": "sal",
+        "en": "salt"
+      },
+      "category": "essen",
+      "example": "Kannst du mir bitte das Salz geben?",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w016",
+      "word": "Reis",
+      "article": "der",
+      "translation": {
+        "pt": "arroz",
+        "en": "rice"
+      },
+      "category": "essen",
+      "example": "Reis ist in vielen Ländern ein Grundnahrungsmittel.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w017",
+      "word": "Nudeln",
+      "article": "die",
+      "translation": {
+        "pt": "macarrão",
+        "en": "pasta/noodles"
+      },
+      "category": "essen",
+      "example": "Zum Mittagessen gibt es Nudeln mit Soße.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w018",
+      "word": "Suppe",
+      "article": "die",
+      "translation": {
+        "pt": "sopa",
+        "en": "soup"
+      },
+      "category": "essen",
+      "example": "Im Winter esse ich gern heiße Suppe.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w019",
+      "word": "Gabel",
+      "article": "die",
+      "translation": {
+        "pt": "garfo",
+        "en": "fork"
+      },
+      "category": "essen",
+      "example": "Ich brauche eine Gabel und ein Messer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "besteck"
+      ]
+    },
+    {
+      "id": "w020",
+      "word": "Messer",
+      "article": "das",
+      "translation": {
+        "pt": "faca",
+        "en": "knife"
+      },
+      "category": "essen",
+      "example": "Das Messer ist sehr scharf.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "besteck"
+      ]
+    },
+    {
+      "id": "w021",
+      "word": "Löffel",
+      "article": "der",
+      "translation": {
+        "pt": "colher",
+        "en": "spoon"
+      },
+      "category": "essen",
+      "example": "Für die Suppe brauche ich einen Löffel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "besteck"
+      ]
+    },
+    {
+      "id": "w022",
+      "word": "Teller",
+      "article": "der",
+      "translation": {
+        "pt": "prato",
+        "en": "plate"
+      },
+      "category": "essen",
+      "example": "Der Teller ist leer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "geschirr"
+      ]
+    },
+    {
+      "id": "w023",
+      "word": "Tasse",
+      "article": "die",
+      "translation": {
+        "pt": "xícara",
+        "en": "cup"
+      },
+      "category": "essen",
+      "example": "Eine Tasse Kaffee, bitte.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "geschirr"
+      ]
+    },
+    {
+      "id": "w024",
+      "word": "Flasche",
+      "article": "die",
+      "translation": {
+        "pt": "garrafa",
+        "en": "bottle"
+      },
+      "category": "essen",
+      "example": "Eine Flasche Wasser, bitte.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "geschirr"
+      ]
+    },
+    {
+      "id": "w025",
+      "word": "Restaurant",
+      "article": "das",
+      "translation": {
+        "pt": "restaurante",
+        "en": "restaurant"
+      },
+      "category": "essen",
+      "example": "Gehen wir heute Abend ins Restaurant?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w026",
+      "word": "Rechnung",
+      "article": "die",
+      "translation": {
+        "pt": "conta",
+        "en": "bill"
+      },
+      "category": "essen",
+      "example": "Die Rechnung, bitte!",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "geld"
+      ]
+    },
+    {
+      "id": "w027",
+      "word": "bestellen",
+      "article": null,
+      "translation": {
+        "pt": "pedir/encomendar",
+        "en": "to order"
+      },
+      "category": "essen",
+      "example": "Ich möchte eine Pizza bestellen.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w028",
+      "word": "kochen",
+      "article": null,
+      "translation": {
+        "pt": "cozinhar",
+        "en": "to cook"
+      },
+      "category": "essen",
+      "example": "Meine Mutter kocht sehr gut.",
+      "difficulty": 2,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w029",
+      "word": "schmecken",
+      "article": null,
+      "translation": {
+        "pt": "ter gosto/saborear",
+        "en": "to taste"
+      },
+      "category": "essen",
+      "example": "Die Suppe schmeckt lecker.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w030",
+      "word": "Rezept",
+      "article": "das",
+      "translation": {
+        "pt": "receita",
+        "en": "recipe"
+      },
+      "category": "essen",
+      "example": "Hast du ein gutes Rezept für Kuchen?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w031",
+      "word": "hungrig",
+      "article": null,
+      "translation": {
+        "pt": "com fome",
+        "en": "hungry"
+      },
+      "category": "essen",
+      "example": "Ich bin sehr hungrig.",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w032",
+      "word": "durstig",
+      "article": null,
+      "translation": {
+        "pt": "com sede",
+        "en": "thirsty"
+      },
+      "category": "essen",
+      "example": "Bist du durstig?",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w033",
+      "word": "lecker",
+      "article": null,
+      "translation": {
+        "pt": "gostoso/delicioso",
+        "en": "delicious"
+      },
+      "category": "essen",
+      "example": "Das Essen war wirklich lecker.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w034",
+      "word": "Obst",
+      "article": "das",
+      "translation": {
+        "pt": "fruta(s)",
+        "en": "fruit"
+      },
+      "category": "essen",
+      "example": "Ich esse jeden Tag frisches Obst.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w035",
+      "word": "Bäckerei",
+      "article": "die",
+      "translation": {
+        "pt": "padaria",
+        "en": "bakery"
+      },
+      "category": "essen",
+      "example": "Ich kaufe Brot in der Bäckerei.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w036",
+      "word": "Mutter",
+      "article": "die",
+      "translation": {
+        "pt": "mãe",
+        "en": "mother"
+      },
+      "category": "familie",
+      "example": "Meine Mutter heißt Maria.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w037",
+      "word": "Vater",
+      "article": "der",
+      "translation": {
+        "pt": "pai",
+        "en": "father"
+      },
+      "category": "familie",
+      "example": "Mein Vater arbeitet als Lehrer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w038",
+      "word": "Bruder",
+      "article": "der",
+      "translation": {
+        "pt": "irmão",
+        "en": "brother"
+      },
+      "category": "familie",
+      "example": "Mein Bruder ist zwei Jahre älter als ich.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w039",
+      "word": "Schwester",
+      "article": "die",
+      "translation": {
+        "pt": "irmã",
+        "en": "sister"
+      },
+      "category": "familie",
+      "example": "Meine Schwester studiert Medizin.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w040",
+      "word": "Großmutter",
+      "article": "die",
+      "translation": {
+        "pt": "avó",
+        "en": "grandmother"
+      },
+      "category": "familie",
+      "example": "Meine Großmutter wohnt auf dem Land.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w041",
+      "word": "Großvater",
+      "article": "der",
+      "translation": {
+        "pt": "avô",
+        "en": "grandfather"
+      },
+      "category": "familie",
+      "example": "Mein Großvater ist 80 Jahre alt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w042",
+      "word": "Tochter",
+      "article": "die",
+      "translation": {
+        "pt": "filha",
+        "en": "daughter"
+      },
+      "category": "familie",
+      "example": "Unsere Tochter geht in die Schule.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w043",
+      "word": "Sohn",
+      "article": "der",
+      "translation": {
+        "pt": "filho",
+        "en": "son"
+      },
+      "category": "familie",
+      "example": "Unser Sohn ist drei Jahre alt.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w044",
+      "word": "Ehemann",
+      "article": "der",
+      "translation": {
+        "pt": "marido",
+        "en": "husband"
+      },
+      "category": "familie",
+      "example": "Mein Ehemann kocht heute Abend.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w045",
+      "word": "Ehefrau",
+      "article": "die",
+      "translation": {
+        "pt": "esposa",
+        "en": "wife"
+      },
+      "category": "familie",
+      "example": "Meine Ehefrau arbeitet als Ärztin.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w046",
+      "word": "Freund",
+      "article": "der",
+      "translation": {
+        "pt": "amigo/namorado",
+        "en": "friend/boyfriend"
+      },
+      "category": "familie",
+      "example": "Mein bester Freund wohnt in Berlin.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "beziehung"
+      ]
+    },
+    {
+      "id": "w047",
+      "word": "Freundin",
+      "article": "die",
+      "translation": {
+        "pt": "amiga/namorada",
+        "en": "friend/girlfriend"
+      },
+      "category": "familie",
+      "example": "Meine Freundin kommt aus Brasilien.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "beziehung"
+      ]
+    },
+    {
+      "id": "w048",
+      "word": "Nachbar",
+      "article": "der",
+      "translation": {
+        "pt": "vizinho",
+        "en": "neighbor"
+      },
+      "category": "familie",
+      "example": "Unser Nachbar ist sehr freundlich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "beziehung"
+      ]
+    },
+    {
+      "id": "w049",
+      "word": "Hochzeit",
+      "article": "die",
+      "translation": {
+        "pt": "casamento",
+        "en": "wedding"
+      },
+      "category": "familie",
+      "example": "Die Hochzeit war sehr schön.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ereignis"
+      ]
+    },
+    {
+      "id": "w050",
+      "word": "Geburtstag",
+      "article": "der",
+      "translation": {
+        "pt": "aniversário",
+        "en": "birthday"
+      },
+      "category": "familie",
+      "example": "Herzlichen Glückwunsch zum Geburtstag!",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ereignis"
+      ]
+    },
+    {
+      "id": "w051",
+      "word": "Einladung",
+      "article": "die",
+      "translation": {
+        "pt": "convite",
+        "en": "invitation"
+      },
+      "category": "familie",
+      "example": "Danke für die Einladung zur Party.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "ereignis"
+      ]
+    },
+    {
+      "id": "w052",
+      "word": "Geschenk",
+      "article": "das",
+      "translation": {
+        "pt": "presente",
+        "en": "gift"
+      },
+      "category": "familie",
+      "example": "Das Geschenk hat ihr sehr gefallen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w053",
+      "word": "heiraten",
+      "article": null,
+      "translation": {
+        "pt": "casar",
+        "en": "to marry"
+      },
+      "category": "familie",
+      "example": "Sie wollen nächstes Jahr heiraten.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w054",
+      "word": "verheiratet",
+      "article": null,
+      "translation": {
+        "pt": "casado(a)",
+        "en": "married"
+      },
+      "category": "familie",
+      "example": "Sind Sie verheiratet?",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w055",
+      "word": "ledig",
+      "article": null,
+      "translation": {
+        "pt": "solteiro(a)",
+        "en": "single"
+      },
+      "category": "familie",
+      "example": "Er ist noch ledig.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w056",
+      "word": "Verwandte",
+      "article": "die",
+      "translation": {
+        "pt": "parentes",
+        "en": "relatives"
+      },
+      "category": "familie",
+      "example": "Meine Verwandten leben in Süddeutschland.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w057",
+      "word": "Onkel",
+      "article": "der",
+      "translation": {
+        "pt": "tio",
+        "en": "uncle"
+      },
+      "category": "familie",
+      "example": "Mein Onkel wohnt in München.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w058",
+      "word": "Tante",
+      "article": "die",
+      "translation": {
+        "pt": "tia",
+        "en": "aunt"
+      },
+      "category": "familie",
+      "example": "Meine Tante hat zwei Kinder.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w059",
+      "word": "Beruf",
+      "article": "der",
+      "translation": {
+        "pt": "profissão",
+        "en": "profession"
+      },
+      "category": "arbeit",
+      "example": "Was ist Ihr Beruf?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w060",
+      "word": "Kollege",
+      "article": "der",
+      "translation": {
+        "pt": "colega (m)",
+        "en": "colleague"
+      },
+      "category": "arbeit",
+      "example": "Mein Kollege hilft mir bei der Arbeit.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w061",
+      "word": "Kollegin",
+      "article": "die",
+      "translation": {
+        "pt": "colega (f)",
+        "en": "colleague (f)"
+      },
+      "category": "arbeit",
+      "example": "Meine Kollegin spricht drei Sprachen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w062",
+      "word": "Chef",
+      "article": "der",
+      "translation": {
+        "pt": "chefe",
+        "en": "boss"
+      },
+      "category": "arbeit",
+      "example": "Mein Chef ist sehr nett.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w063",
+      "word": "Büro",
+      "article": "das",
+      "translation": {
+        "pt": "escritório",
+        "en": "office"
+      },
+      "category": "arbeit",
+      "example": "Ich arbeite in einem großen Büro.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w064",
+      "word": "Firma",
+      "article": "die",
+      "translation": {
+        "pt": "empresa",
+        "en": "company"
+      },
+      "category": "arbeit",
+      "example": "Die Firma hat 200 Mitarbeiter.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w065",
+      "word": "Gehalt",
+      "article": "das",
+      "translation": {
+        "pt": "salário",
+        "en": "salary"
+      },
+      "category": "arbeit",
+      "example": "Das Gehalt kommt am Ende des Monats.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "geld"
+      ]
+    },
+    {
+      "id": "w066",
+      "word": "Termin",
+      "article": "der",
+      "translation": {
+        "pt": "compromisso/horário",
+        "en": "appointment"
+      },
+      "category": "arbeit",
+      "example": "Ich habe morgen einen wichtigen Termin.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w067",
+      "word": "Besprechung",
+      "article": "die",
+      "translation": {
+        "pt": "reunião",
+        "en": "meeting"
+      },
+      "category": "arbeit",
+      "example": "Die Besprechung beginnt um 10 Uhr.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w068",
+      "word": "Urlaub",
+      "article": "der",
+      "translation": {
+        "pt": "férias",
+        "en": "vacation"
+      },
+      "category": "arbeit",
+      "example": "Nächste Woche habe ich Urlaub.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w069",
+      "word": "Bewerbung",
+      "article": "die",
+      "translation": {
+        "pt": "candidatura",
+        "en": "application"
+      },
+      "category": "arbeit",
+      "example": "Ich schreibe eine Bewerbung für die Stelle.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w070",
+      "word": "Lebenslauf",
+      "article": "der",
+      "translation": {
+        "pt": "currículo",
+        "en": "CV/resume"
+      },
+      "category": "arbeit",
+      "example": "Bitte schicken Sie Ihren Lebenslauf.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w071",
+      "word": "Erfahrung",
+      "article": "die",
+      "translation": {
+        "pt": "experiência",
+        "en": "experience"
+      },
+      "category": "arbeit",
+      "example": "Haben Sie Erfahrung in diesem Bereich?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w072",
+      "word": "verdienen",
+      "article": null,
+      "translation": {
+        "pt": "ganhar (dinheiro)",
+        "en": "to earn"
+      },
+      "category": "arbeit",
+      "example": "Er verdient gut in seiner Firma.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w073",
+      "word": "Aufgabe",
+      "article": "die",
+      "translation": {
+        "pt": "tarefa",
+        "en": "task"
+      },
+      "category": "arbeit",
+      "example": "Die Aufgabe ist nicht schwer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w074",
+      "word": "Vertrag",
+      "article": "der",
+      "translation": {
+        "pt": "contrato",
+        "en": "contract"
+      },
+      "category": "arbeit",
+      "example": "Ich habe den Vertrag unterschrieben.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w075",
+      "word": "Praktikum",
+      "article": "das",
+      "translation": {
+        "pt": "estágio",
+        "en": "internship"
+      },
+      "category": "arbeit",
+      "example": "Im Sommer mache ich ein Praktikum.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w076",
+      "word": "kündigen",
+      "article": null,
+      "translation": {
+        "pt": "demitir-se/demitir",
+        "en": "to quit/fire"
+      },
+      "category": "arbeit",
+      "example": "Er hat seine Stelle gekündigt.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w077",
+      "word": "Flughafen",
+      "article": "der",
+      "translation": {
+        "pt": "aeroporto",
+        "en": "airport"
+      },
+      "category": "reisen",
+      "example": "Der Flughafen ist 30 Kilometer entfernt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w078",
+      "word": "Flugzeug",
+      "article": "das",
+      "translation": {
+        "pt": "avião",
+        "en": "airplane"
+      },
+      "category": "reisen",
+      "example": "Das Flugzeug fliegt nach London.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verkehrsmittel"
+      ]
+    },
+    {
+      "id": "w079",
+      "word": "Bahnhof",
+      "article": "der",
+      "translation": {
+        "pt": "estação (de trem)",
+        "en": "train station"
+      },
+      "category": "reisen",
+      "example": "Wie komme ich zum Bahnhof?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w080",
+      "word": "Fahrkarte",
+      "article": "die",
+      "translation": {
+        "pt": "passagem/bilhete",
+        "en": "ticket"
+      },
+      "category": "reisen",
+      "example": "Eine Fahrkarte nach Hamburg, bitte.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w081",
+      "word": "Gepäck",
+      "article": "das",
+      "translation": {
+        "pt": "bagagem",
+        "en": "luggage"
+      },
+      "category": "reisen",
+      "example": "Wo ist mein Gepäck?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w082",
+      "word": "Koffer",
+      "article": "der",
+      "translation": {
+        "pt": "mala",
+        "en": "suitcase"
+      },
+      "category": "reisen",
+      "example": "Ich muss meinen Koffer noch packen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w083",
+      "word": "Reisepass",
+      "article": "der",
+      "translation": {
+        "pt": "passaporte",
+        "en": "passport"
+      },
+      "category": "reisen",
+      "example": "Haben Sie Ihren Reisepass dabei?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "dokument"
+      ]
+    },
+    {
+      "id": "w084",
+      "word": "Haltestelle",
+      "article": "die",
+      "translation": {
+        "pt": "ponto de ônibus/parada",
+        "en": "bus stop"
+      },
+      "category": "reisen",
+      "example": "Die Haltestelle ist gleich um die Ecke.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w085",
+      "word": "Straßenbahn",
+      "article": "die",
+      "translation": {
+        "pt": "bonde/trem urbano",
+        "en": "tram"
+      },
+      "category": "reisen",
+      "example": "Die Straßenbahn kommt alle zehn Minuten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "verkehrsmittel"
+      ]
+    },
+    {
+      "id": "w086",
+      "word": "Fahrrad",
+      "article": "das",
+      "translation": {
+        "pt": "bicicleta",
+        "en": "bicycle"
+      },
+      "category": "reisen",
+      "example": "Ich fahre mit dem Fahrrad zur Arbeit.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verkehrsmittel"
+      ]
+    },
+    {
+      "id": "w087",
+      "word": "Führerschein",
+      "article": "der",
+      "translation": {
+        "pt": "carteira de motorista",
+        "en": "driver's license"
+      },
+      "category": "reisen",
+      "example": "Ich habe meinen Führerschein mit 18 gemacht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "dokument"
+      ]
+    },
+    {
+      "id": "w088",
+      "word": "Ausland",
+      "article": "das",
+      "translation": {
+        "pt": "exterior/estrangeiro",
+        "en": "abroad"
+      },
+      "category": "reisen",
+      "example": "Warst du schon mal im Ausland?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w089",
+      "word": "Landkarte",
+      "article": "die",
+      "translation": {
+        "pt": "mapa",
+        "en": "map"
+      },
+      "category": "reisen",
+      "example": "Hast du eine Landkarte von Deutschland?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w090",
+      "word": "Grenze",
+      "article": "die",
+      "translation": {
+        "pt": "fronteira",
+        "en": "border"
+      },
+      "category": "reisen",
+      "example": "An der Grenze muss man den Pass zeigen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w091",
+      "word": "abfahren",
+      "article": null,
+      "translation": {
+        "pt": "partir",
+        "en": "to depart"
+      },
+      "category": "reisen",
+      "example": "Der Zug fährt um 8 Uhr ab.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w092",
+      "word": "ankommen",
+      "article": null,
+      "translation": {
+        "pt": "chegar",
+        "en": "to arrive"
+      },
+      "category": "reisen",
+      "example": "Wann kommt der Zug in Berlin an?",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w093",
+      "word": "umsteigen",
+      "article": null,
+      "translation": {
+        "pt": "fazer baldeação",
+        "en": "to transfer/change"
+      },
+      "category": "reisen",
+      "example": "Sie müssen in Frankfurt umsteigen.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w094",
+      "word": "Verspätung",
+      "article": "die",
+      "translation": {
+        "pt": "atraso",
+        "en": "delay"
+      },
+      "category": "reisen",
+      "example": "Der Zug hat 20 Minuten Verspätung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w095",
+      "word": "Unterkunft",
+      "article": "die",
+      "translation": {
+        "pt": "hospedagem",
+        "en": "accommodation"
+      },
+      "category": "reisen",
+      "example": "Wir suchen eine günstige Unterkunft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w096",
+      "word": "Wohnung",
+      "article": "die",
+      "translation": {
+        "pt": "apartamento",
+        "en": "apartment"
+      },
+      "category": "wohnen",
+      "example": "Die Wohnung hat drei Zimmer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w097",
+      "word": "Küche",
+      "article": "die",
+      "translation": {
+        "pt": "cozinha",
+        "en": "kitchen"
+      },
+      "category": "wohnen",
+      "example": "Die Küche ist groß und hell.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "raum"
+      ]
+    },
+    {
+      "id": "w098",
+      "word": "Badezimmer",
+      "article": "das",
+      "translation": {
+        "pt": "banheiro",
+        "en": "bathroom"
+      },
+      "category": "wohnen",
+      "example": "Das Badezimmer hat eine Dusche.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "raum"
+      ]
+    },
+    {
+      "id": "w099",
+      "word": "Schlafzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "quarto de dormir",
+        "en": "bedroom"
+      },
+      "category": "wohnen",
+      "example": "Das Schlafzimmer ist sehr gemütlich.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "raum"
+      ]
+    },
+    {
+      "id": "w100",
+      "word": "Wohnzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "sala de estar",
+        "en": "living room"
+      },
+      "category": "wohnen",
+      "example": "Wir sitzen im Wohnzimmer und sehen fern.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "raum"
+      ]
+    },
+    {
+      "id": "w101",
+      "word": "Erdgeschoss",
+      "article": "das",
+      "translation": {
+        "pt": "térreo",
+        "en": "ground floor"
+      },
+      "category": "wohnen",
+      "example": "Die Wohnung ist im Erdgeschoss.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w102",
+      "word": "Treppe",
+      "article": "die",
+      "translation": {
+        "pt": "escada",
+        "en": "stairs"
+      },
+      "category": "wohnen",
+      "example": "Die Treppe ist sehr steil.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w103",
+      "word": "Aufzug",
+      "article": "der",
+      "translation": {
+        "pt": "elevador",
+        "en": "elevator"
+      },
+      "category": "wohnen",
+      "example": "Im Haus gibt es keinen Aufzug.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w104",
+      "word": "Möbel",
+      "article": "die",
+      "translation": {
+        "pt": "móveis",
+        "en": "furniture"
+      },
+      "category": "wohnen",
+      "example": "Wir brauchen neue Möbel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w105",
+      "word": "Schrank",
+      "article": "der",
+      "translation": {
+        "pt": "armário",
+        "en": "wardrobe/cabinet"
+      },
+      "category": "wohnen",
+      "example": "Der Schrank ist aus Holz.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w106",
+      "word": "Regal",
+      "article": "das",
+      "translation": {
+        "pt": "estante/prateleira",
+        "en": "shelf"
+      },
+      "category": "wohnen",
+      "example": "Die Bücher stehen im Regal.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w107",
+      "word": "Spiegel",
+      "article": "der",
+      "translation": {
+        "pt": "espelho",
+        "en": "mirror"
+      },
+      "category": "wohnen",
+      "example": "Im Badezimmer hängt ein großer Spiegel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w108",
+      "word": "Miete",
+      "article": "die",
+      "translation": {
+        "pt": "aluguel",
+        "en": "rent"
+      },
+      "category": "wohnen",
+      "example": "Die Miete ist 500 Euro im Monat.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "geld"
+      ]
+    },
+    {
+      "id": "w109",
+      "word": "Vermieter",
+      "article": "der",
+      "translation": {
+        "pt": "locador/proprietário",
+        "en": "landlord"
+      },
+      "category": "wohnen",
+      "example": "Der Vermieter repariert die Heizung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w110",
+      "word": "Heizung",
+      "article": "die",
+      "translation": {
+        "pt": "aquecimento/calefação",
+        "en": "heating"
+      },
+      "category": "wohnen",
+      "example": "Die Heizung funktioniert nicht.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w111",
+      "word": "Schlüssel",
+      "article": "der",
+      "translation": {
+        "pt": "chave",
+        "en": "key"
+      },
+      "category": "wohnen",
+      "example": "Wo ist mein Schlüssel?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w112",
+      "word": "Garten",
+      "article": "der",
+      "translation": {
+        "pt": "jardim",
+        "en": "garden"
+      },
+      "category": "wohnen",
+      "example": "Wir haben einen schönen Garten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w113",
+      "word": "Balkon",
+      "article": "der",
+      "translation": {
+        "pt": "varanda/sacada",
+        "en": "balcony"
+      },
+      "category": "wohnen",
+      "example": "Im Sommer frühstücken wir auf dem Balkon.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w114",
+      "word": "umziehen",
+      "article": null,
+      "translation": {
+        "pt": "mudar-se",
+        "en": "to move (house)"
+      },
+      "category": "wohnen",
+      "example": "Nächsten Monat ziehen wir um.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w115",
+      "word": "Waschmaschine",
+      "article": "die",
+      "translation": {
+        "pt": "máquina de lavar",
+        "en": "washing machine"
+      },
+      "category": "wohnen",
+      "example": "Die Waschmaschine steht im Keller.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w116",
+      "word": "Kühlschrank",
+      "article": "der",
+      "translation": {
+        "pt": "geladeira",
+        "en": "refrigerator"
+      },
+      "category": "wohnen",
+      "example": "Die Milch ist im Kühlschrank.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w117",
+      "word": "Fußball",
+      "article": "der",
+      "translation": {
+        "pt": "futebol",
+        "en": "soccer/football"
+      },
+      "category": "freizeit",
+      "example": "Am Wochenende spiele ich Fußball.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "sport"
+      ]
+    },
+    {
+      "id": "w118",
+      "word": "Schwimmbad",
+      "article": "das",
+      "translation": {
+        "pt": "piscina",
+        "en": "swimming pool"
+      },
+      "category": "freizeit",
+      "example": "Im Sommer gehen wir ins Schwimmbad.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w119",
+      "word": "Kino",
+      "article": "das",
+      "translation": {
+        "pt": "cinema",
+        "en": "cinema"
+      },
+      "category": "freizeit",
+      "example": "Gehen wir heute Abend ins Kino?",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w120",
+      "word": "Theater",
+      "article": "das",
+      "translation": {
+        "pt": "teatro",
+        "en": "theater"
+      },
+      "category": "freizeit",
+      "example": "Gestern waren wir im Theater.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w121",
+      "word": "Museum",
+      "article": "das",
+      "translation": {
+        "pt": "museu",
+        "en": "museum"
+      },
+      "category": "freizeit",
+      "example": "Das Museum ist montags geschlossen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w122",
+      "word": "Konzert",
+      "article": "das",
+      "translation": {
+        "pt": "concerto",
+        "en": "concert"
+      },
+      "category": "freizeit",
+      "example": "Das Konzert war fantastisch.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ereignis"
+      ]
+    },
+    {
+      "id": "w123",
+      "word": "Mannschaft",
+      "article": "die",
+      "translation": {
+        "pt": "equipe/time",
+        "en": "team"
+      },
+      "category": "freizeit",
+      "example": "Unsere Mannschaft hat gewonnen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "sport"
+      ]
+    },
+    {
+      "id": "w124",
+      "word": "Zeitschrift",
+      "article": "die",
+      "translation": {
+        "pt": "revista",
+        "en": "magazine"
+      },
+      "category": "freizeit",
+      "example": "Ich lese gern Zeitschriften.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w125",
+      "word": "Zeitung",
+      "article": "die",
+      "translation": {
+        "pt": "jornal",
+        "en": "newspaper"
+      },
+      "category": "freizeit",
+      "example": "Morgens lese ich die Zeitung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w126",
+      "word": "Spaziergang",
+      "article": "der",
+      "translation": {
+        "pt": "passeio/caminhada",
+        "en": "walk/stroll"
+      },
+      "category": "freizeit",
+      "example": "Wollen wir einen Spaziergang machen?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w127",
+      "word": "wandern",
+      "article": null,
+      "translation": {
+        "pt": "fazer trilha/caminhar",
+        "en": "to hike"
+      },
+      "category": "freizeit",
+      "example": "Am Wochenende gehen wir wandern.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w128",
+      "word": "fotografieren",
+      "article": null,
+      "translation": {
+        "pt": "fotografar",
+        "en": "to photograph"
+      },
+      "category": "freizeit",
+      "example": "Ich fotografiere gern Landschaften.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w129",
+      "word": "Ausstellung",
+      "article": "die",
+      "translation": {
+        "pt": "exposição",
+        "en": "exhibition"
+      },
+      "category": "freizeit",
+      "example": "Die Ausstellung dauert bis März.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ereignis"
+      ]
+    },
+    {
+      "id": "w130",
+      "word": "Verein",
+      "article": "der",
+      "translation": {
+        "pt": "associação/clube",
+        "en": "club/association"
+      },
+      "category": "freizeit",
+      "example": "Ich bin in einem Sportverein.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w131",
+      "word": "langweilig",
+      "article": null,
+      "translation": {
+        "pt": "entediante",
+        "en": "boring"
+      },
+      "category": "freizeit",
+      "example": "Der Film war langweilig.",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w132",
+      "word": "spannend",
+      "article": null,
+      "translation": {
+        "pt": "emocionante",
+        "en": "exciting"
+      },
+      "category": "freizeit",
+      "example": "Das Buch ist sehr spannend.",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w133",
+      "word": "Spielplatz",
+      "article": "der",
+      "translation": {
+        "pt": "parquinho",
+        "en": "playground"
+      },
+      "category": "freizeit",
+      "example": "Die Kinder spielen auf dem Spielplatz.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w134",
+      "word": "Arzt",
+      "article": "der",
+      "translation": {
+        "pt": "médico",
+        "en": "doctor"
+      },
+      "category": "gesundheit",
+      "example": "Ich muss zum Arzt gehen.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w135",
+      "word": "Ärztin",
+      "article": "die",
+      "translation": {
+        "pt": "médica",
+        "en": "doctor (f)"
+      },
+      "category": "gesundheit",
+      "example": "Die Ärztin untersucht den Patienten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w136",
+      "word": "Krankenhaus",
+      "article": "das",
+      "translation": {
+        "pt": "hospital",
+        "en": "hospital"
+      },
+      "category": "gesundheit",
+      "example": "Er liegt im Krankenhaus.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w137",
+      "word": "Apotheke",
+      "article": "die",
+      "translation": {
+        "pt": "farmácia",
+        "en": "pharmacy"
+      },
+      "category": "gesundheit",
+      "example": "In der Apotheke gibt es Medikamente.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w138",
+      "word": "Medikament",
+      "article": "das",
+      "translation": {
+        "pt": "medicamento",
+        "en": "medication"
+      },
+      "category": "gesundheit",
+      "example": "Nehmen Sie dieses Medikament dreimal täglich.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w139",
+      "word": "Erkältung",
+      "article": "die",
+      "translation": {
+        "pt": "resfriado",
+        "en": "cold"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe eine Erkältung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w140",
+      "word": "Kopfschmerzen",
+      "article": "die",
+      "translation": {
+        "pt": "dor de cabeça",
+        "en": "headache"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe starke Kopfschmerzen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w141",
+      "word": "Fieber",
+      "article": "das",
+      "translation": {
+        "pt": "febre",
+        "en": "fever"
+      },
+      "category": "gesundheit",
+      "example": "Das Kind hat Fieber.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w142",
+      "word": "Husten",
+      "article": "der",
+      "translation": {
+        "pt": "tosse",
+        "en": "cough"
+      },
+      "category": "gesundheit",
+      "example": "Er hat einen starken Husten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w143",
+      "word": "Schnupfen",
+      "article": "der",
+      "translation": {
+        "pt": "coriza",
+        "en": "runny nose"
+      },
+      "category": "gesundheit",
+      "example": "Bei Schnupfen hilft viel trinken.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w144",
+      "word": "Rücken",
+      "article": "der",
+      "translation": {
+        "pt": "costas",
+        "en": "back"
+      },
+      "category": "gesundheit",
+      "example": "Mein Rücken tut weh.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "körperteil"
+      ]
+    },
+    {
+      "id": "w145",
+      "word": "Zahnarzt",
+      "article": "der",
+      "translation": {
+        "pt": "dentista",
+        "en": "dentist"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe einen Termin beim Zahnarzt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w146",
+      "word": "Versicherung",
+      "article": "die",
+      "translation": {
+        "pt": "seguro",
+        "en": "insurance"
+      },
+      "category": "gesundheit",
+      "example": "Haben Sie eine Krankenversicherung?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w147",
+      "word": "Untersuchung",
+      "article": "die",
+      "translation": {
+        "pt": "exame/consulta",
+        "en": "examination"
+      },
+      "category": "gesundheit",
+      "example": "Die Untersuchung dauert 30 Minuten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w148",
+      "word": "Pflaster",
+      "article": "das",
+      "translation": {
+        "pt": "curativo/band-aid",
+        "en": "bandage/plaster"
+      },
+      "category": "gesundheit",
+      "example": "Hast du ein Pflaster?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w149",
+      "word": "gesund",
+      "article": null,
+      "translation": {
+        "pt": "saudável",
+        "en": "healthy"
+      },
+      "category": "gesundheit",
+      "example": "Sport ist gesund.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w150",
+      "word": "krank",
+      "article": null,
+      "translation": {
+        "pt": "doente",
+        "en": "sick"
+      },
+      "category": "gesundheit",
+      "example": "Ich bin krank und bleibe zu Hause.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w151",
+      "word": "Schmerzen",
+      "article": "die",
+      "translation": {
+        "pt": "dores",
+        "en": "pain"
+      },
+      "category": "gesundheit",
+      "example": "Wo haben Sie Schmerzen?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w152",
+      "word": "Krankenwagen",
+      "article": "der",
+      "translation": {
+        "pt": "ambulância",
+        "en": "ambulance"
+      },
+      "category": "gesundheit",
+      "example": "Rufen Sie den Krankenwagen!",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w153",
+      "word": "Supermarkt",
+      "article": "der",
+      "translation": {
+        "pt": "supermercado",
+        "en": "supermarket"
+      },
+      "category": "einkaufen",
+      "example": "Ich gehe in den Supermarkt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w154",
+      "word": "Geschäft",
+      "article": "das",
+      "translation": {
+        "pt": "loja",
+        "en": "shop/store"
+      },
+      "category": "einkaufen",
+      "example": "Das Geschäft öffnet um 9 Uhr.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w155",
+      "word": "Kleidung",
+      "article": "die",
+      "translation": {
+        "pt": "roupa(s)",
+        "en": "clothing"
+      },
+      "category": "einkaufen",
+      "example": "Ich brauche neue Kleidung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w156",
+      "word": "Hose",
+      "article": "die",
+      "translation": {
+        "pt": "calça",
+        "en": "trousers/pants"
+      },
+      "category": "einkaufen",
+      "example": "Die Hose ist zu lang.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w157",
+      "word": "Hemd",
+      "article": "das",
+      "translation": {
+        "pt": "camisa",
+        "en": "shirt"
+      },
+      "category": "einkaufen",
+      "example": "Das Hemd passt gut.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w158",
+      "word": "Kleid",
+      "article": "das",
+      "translation": {
+        "pt": "vestido",
+        "en": "dress"
+      },
+      "category": "einkaufen",
+      "example": "Das Kleid ist sehr schön.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w159",
+      "word": "Jacke",
+      "article": "die",
+      "translation": {
+        "pt": "jaqueta/casaco",
+        "en": "jacket"
+      },
+      "category": "einkaufen",
+      "example": "Zieh eine Jacke an, es ist kalt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w160",
+      "word": "Mantel",
+      "article": "der",
+      "translation": {
+        "pt": "casaco/sobretudo",
+        "en": "coat"
+      },
+      "category": "einkaufen",
+      "example": "Im Winter trage ich einen warmen Mantel.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w161",
+      "word": "Schuhe",
+      "article": "die",
+      "translation": {
+        "pt": "sapatos",
+        "en": "shoes"
+      },
+      "category": "einkaufen",
+      "example": "Ich brauche neue Schuhe.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w162",
+      "word": "Handschuhe",
+      "article": "die",
+      "translation": {
+        "pt": "luvas",
+        "en": "gloves"
+      },
+      "category": "einkaufen",
+      "example": "Vergiss deine Handschuhe nicht!",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w163",
+      "word": "Mütze",
+      "article": "die",
+      "translation": {
+        "pt": "gorro/touca",
+        "en": "cap/beanie"
+      },
+      "category": "einkaufen",
+      "example": "Setz eine Mütze auf, es ist kalt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w164",
+      "word": "Größe",
+      "article": "die",
+      "translation": {
+        "pt": "tamanho",
+        "en": "size"
+      },
+      "category": "einkaufen",
+      "example": "Welche Größe haben Sie?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w165",
+      "word": "Sonderangebot",
+      "article": "das",
+      "translation": {
+        "pt": "oferta especial",
+        "en": "special offer"
+      },
+      "category": "einkaufen",
+      "example": "Heute gibt es ein Sonderangebot.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w166",
+      "word": "Kasse",
+      "article": "die",
+      "translation": {
+        "pt": "caixa (pagamento)",
+        "en": "checkout/cash register"
+      },
+      "category": "einkaufen",
+      "example": "Bitte zahlen Sie an der Kasse.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w167",
+      "word": "Quittung",
+      "article": "die",
+      "translation": {
+        "pt": "recibo",
+        "en": "receipt"
+      },
+      "category": "einkaufen",
+      "example": "Möchten Sie eine Quittung?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w168",
+      "word": "umtauschen",
+      "article": null,
+      "translation": {
+        "pt": "trocar (produto)",
+        "en": "to exchange"
+      },
+      "category": "einkaufen",
+      "example": "Kann ich den Pullover umtauschen?",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w169",
+      "word": "günstig",
+      "article": null,
+      "translation": {
+        "pt": "barato/bom preço",
+        "en": "cheap/affordable"
+      },
+      "category": "einkaufen",
+      "example": "Das Angebot ist sehr günstig.",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w170",
+      "word": "teuer",
+      "article": null,
+      "translation": {
+        "pt": "caro",
+        "en": "expensive"
+      },
+      "category": "einkaufen",
+      "example": "Das Auto ist zu teuer.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w171",
+      "word": "Pullover",
+      "article": "der",
+      "translation": {
+        "pt": "suéter/pulôver",
+        "en": "sweater/pullover"
+      },
+      "category": "einkaufen",
+      "example": "Der Pullover ist aus Wolle.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w172",
+      "word": "Tasche",
+      "article": "die",
+      "translation": {
+        "pt": "bolsa/sacola",
+        "en": "bag"
+      },
+      "category": "einkaufen",
+      "example": "Meine Tasche ist sehr schwer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w173",
+      "word": "Geldbeutel",
+      "article": "der",
+      "translation": {
+        "pt": "carteira (de dinheiro)",
+        "en": "wallet"
+      },
+      "category": "einkaufen",
+      "example": "Mein Geldbeutel liegt im Auto.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w174",
+      "word": "Schule",
+      "article": "die",
+      "translation": {
+        "pt": "escola",
+        "en": "school"
+      },
+      "category": "schule",
+      "example": "Die Kinder gehen in die Schule.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w175",
+      "word": "Universität",
+      "article": "die",
+      "translation": {
+        "pt": "universidade",
+        "en": "university"
+      },
+      "category": "schule",
+      "example": "Sie studiert an der Universität München.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w176",
+      "word": "Lehrer",
+      "article": "der",
+      "translation": {
+        "pt": "professor",
+        "en": "teacher (m)"
+      },
+      "category": "schule",
+      "example": "Der Lehrer erklärt die Aufgabe.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w177",
+      "word": "Lehrerin",
+      "article": "die",
+      "translation": {
+        "pt": "professora",
+        "en": "teacher (f)"
+      },
+      "category": "schule",
+      "example": "Die Lehrerin ist sehr geduldig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w178",
+      "word": "Schüler",
+      "article": "der",
+      "translation": {
+        "pt": "aluno",
+        "en": "student (m)"
+      },
+      "category": "schule",
+      "example": "Der Schüler macht seine Hausaufgaben.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w179",
+      "word": "Prüfung",
+      "article": "die",
+      "translation": {
+        "pt": "prova/exame",
+        "en": "exam"
+      },
+      "category": "schule",
+      "example": "Die Prüfung war sehr schwer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w180",
+      "word": "Hausaufgabe",
+      "article": "die",
+      "translation": {
+        "pt": "dever de casa",
+        "en": "homework"
+      },
+      "category": "schule",
+      "example": "Hast du deine Hausaufgaben gemacht?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w181",
+      "word": "Unterricht",
+      "article": "der",
+      "translation": {
+        "pt": "aula",
+        "en": "lesson/class"
+      },
+      "category": "schule",
+      "example": "Der Unterricht beginnt um 8 Uhr.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w182",
+      "word": "Wörterbuch",
+      "article": "das",
+      "translation": {
+        "pt": "dicionário",
+        "en": "dictionary"
+      },
+      "category": "schule",
+      "example": "Ich brauche ein Wörterbuch.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w183",
+      "word": "Kugelschreiber",
+      "article": "der",
+      "translation": {
+        "pt": "caneta esferográfica",
+        "en": "ballpoint pen"
+      },
+      "category": "schule",
+      "example": "Hast du einen Kugelschreiber?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w184",
+      "word": "Bleistift",
+      "article": "der",
+      "translation": {
+        "pt": "lápis",
+        "en": "pencil"
+      },
+      "category": "schule",
+      "example": "Schreib mit dem Bleistift.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w185",
+      "word": "Heft",
+      "article": "das",
+      "translation": {
+        "pt": "caderno",
+        "en": "notebook"
+      },
+      "category": "schule",
+      "example": "Schreib das in dein Heft.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w186",
+      "word": "Fehler",
+      "article": "der",
+      "translation": {
+        "pt": "erro",
+        "en": "mistake/error"
+      },
+      "category": "schule",
+      "example": "Im Text sind drei Fehler.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w187",
+      "word": "Bibliothek",
+      "article": "die",
+      "translation": {
+        "pt": "biblioteca",
+        "en": "library"
+      },
+      "category": "schule",
+      "example": "Ich lerne in der Bibliothek.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w188",
+      "word": "Zeugnis",
+      "article": "das",
+      "translation": {
+        "pt": "boletim/certificado",
+        "en": "report card/certificate"
+      },
+      "category": "schule",
+      "example": "Mein Zeugnis war gut.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w189",
+      "word": "bestehen",
+      "article": null,
+      "translation": {
+        "pt": "passar (em prova)",
+        "en": "to pass (exam)"
+      },
+      "category": "schule",
+      "example": "Ich habe die Prüfung bestanden.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w190",
+      "word": "Übung",
+      "article": "die",
+      "translation": {
+        "pt": "exercício",
+        "en": "exercise"
+      },
+      "category": "schule",
+      "example": "Machen Sie Übung drei auf Seite 20.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w191",
+      "word": "übersetzen",
+      "article": null,
+      "translation": {
+        "pt": "traduzir",
+        "en": "to translate"
+      },
+      "category": "schule",
+      "example": "Können Sie diesen Satz übersetzen?",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w192",
+      "word": "Bedeutung",
+      "article": "die",
+      "translation": {
+        "pt": "significado",
+        "en": "meaning"
+      },
+      "category": "schule",
+      "example": "Was ist die Bedeutung dieses Wortes?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w193",
+      "word": "Sonne",
+      "article": "die",
+      "translation": {
+        "pt": "sol",
+        "en": "sun"
+      },
+      "category": "natur",
+      "example": "Die Sonne scheint heute.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w194",
+      "word": "Regen",
+      "article": "der",
+      "translation": {
+        "pt": "chuva",
+        "en": "rain"
+      },
+      "category": "natur",
+      "example": "Morgen gibt es Regen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w195",
+      "word": "Schnee",
+      "article": "der",
+      "translation": {
+        "pt": "neve",
+        "en": "snow"
+      },
+      "category": "natur",
+      "example": "Im Winter gibt es viel Schnee.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w196",
+      "word": "Wind",
+      "article": "der",
+      "translation": {
+        "pt": "vento",
+        "en": "wind"
+      },
+      "category": "natur",
+      "example": "Heute weht ein starker Wind.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w197",
+      "word": "Wolke",
+      "article": "die",
+      "translation": {
+        "pt": "nuvem",
+        "en": "cloud"
+      },
+      "category": "natur",
+      "example": "Am Himmel sind viele Wolken.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w198",
+      "word": "Gewitter",
+      "article": "das",
+      "translation": {
+        "pt": "tempestade",
+        "en": "thunderstorm"
+      },
+      "category": "natur",
+      "example": "Heute Nachmittag gibt es ein Gewitter.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w199",
+      "word": "Temperatur",
+      "article": "die",
+      "translation": {
+        "pt": "temperatura",
+        "en": "temperature"
+      },
+      "category": "natur",
+      "example": "Die Temperatur liegt bei 20 Grad.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "wetter"
+      ]
+    },
+    {
+      "id": "w200",
+      "word": "Frühling",
+      "article": "der",
+      "translation": {
+        "pt": "primavera",
+        "en": "spring"
+      },
+      "category": "natur",
+      "example": "Im Frühling blühen die Blumen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "w201",
+      "word": "Sommer",
+      "article": "der",
+      "translation": {
+        "pt": "verão",
+        "en": "summer"
+      },
+      "category": "natur",
+      "example": "Im Sommer fahren wir ans Meer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "w202",
+      "word": "Herbst",
+      "article": "der",
+      "translation": {
+        "pt": "outono",
+        "en": "autumn"
+      },
+      "category": "natur",
+      "example": "Im Herbst fallen die Blätter.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "w203",
+      "word": "Winter",
+      "article": "der",
+      "translation": {
+        "pt": "inverno",
+        "en": "winter"
+      },
+      "category": "natur",
+      "example": "Im Winter ist es kalt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "w204",
+      "word": "Blume",
+      "article": "die",
+      "translation": {
+        "pt": "flor",
+        "en": "flower"
+      },
+      "category": "natur",
+      "example": "Die Blumen im Garten sind schön.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "pflanze"
+      ]
+    },
+    {
+      "id": "w205",
+      "word": "Baum",
+      "article": "der",
+      "translation": {
+        "pt": "árvore",
+        "en": "tree"
+      },
+      "category": "natur",
+      "example": "Unter dem Baum sitzt eine Katze.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "pflanze"
+      ]
+    },
+    {
+      "id": "w206",
+      "word": "Wald",
+      "article": "der",
+      "translation": {
+        "pt": "floresta",
+        "en": "forest"
+      },
+      "category": "natur",
+      "example": "Wir wandern gern im Wald.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w207",
+      "word": "Berg",
+      "article": "der",
+      "translation": {
+        "pt": "montanha",
+        "en": "mountain"
+      },
+      "category": "natur",
+      "example": "Der Berg ist 2000 Meter hoch.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w208",
+      "word": "Fluss",
+      "article": "der",
+      "translation": {
+        "pt": "rio",
+        "en": "river"
+      },
+      "category": "natur",
+      "example": "Der Fluss fließt durch die Stadt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w209",
+      "word": "See",
+      "article": "der",
+      "translation": {
+        "pt": "lago",
+        "en": "lake"
+      },
+      "category": "natur",
+      "example": "Am See kann man gut schwimmen.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w210",
+      "word": "Meer",
+      "article": "das",
+      "translation": {
+        "pt": "mar",
+        "en": "sea"
+      },
+      "category": "natur",
+      "example": "Im Urlaub fahren wir ans Meer.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w211",
+      "word": "Strand",
+      "article": "der",
+      "translation": {
+        "pt": "praia",
+        "en": "beach"
+      },
+      "category": "natur",
+      "example": "Wir liegen am Strand.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w212",
+      "word": "Tier",
+      "article": "das",
+      "translation": {
+        "pt": "animal",
+        "en": "animal"
+      },
+      "category": "natur",
+      "example": "Mein Lieblingstier ist der Hund.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w213",
+      "word": "Hund",
+      "article": "der",
+      "translation": {
+        "pt": "cachorro",
+        "en": "dog"
+      },
+      "category": "natur",
+      "example": "Unser Hund heißt Max.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "tier"
+      ]
+    },
+    {
+      "id": "w214",
+      "word": "Katze",
+      "article": "die",
+      "translation": {
+        "pt": "gato",
+        "en": "cat"
+      },
+      "category": "natur",
+      "example": "Die Katze schläft auf dem Sofa.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "tier"
+      ]
+    },
+    {
+      "id": "w215",
+      "word": "Vogel",
+      "article": "der",
+      "translation": {
+        "pt": "pássaro",
+        "en": "bird"
+      },
+      "category": "natur",
+      "example": "Die Vögel singen am Morgen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "tier"
+      ]
+    },
+    {
+      "id": "w216",
+      "word": "Pferd",
+      "article": "das",
+      "translation": {
+        "pt": "cavalo",
+        "en": "horse"
+      },
+      "category": "natur",
+      "example": "Das Pferd steht auf der Wiese.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "tier"
+      ]
+    },
+    {
+      "id": "w217",
+      "word": "Umwelt",
+      "article": "die",
+      "translation": {
+        "pt": "meio ambiente",
+        "en": "environment"
+      },
+      "category": "natur",
+      "example": "Wir müssen die Umwelt schützen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w218",
+      "word": "Computer",
+      "article": "der",
+      "translation": {
+        "pt": "computador",
+        "en": "computer"
+      },
+      "category": "arbeit",
+      "example": "Ich arbeite am Computer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w219",
+      "word": "Handy",
+      "article": "das",
+      "translation": {
+        "pt": "celular",
+        "en": "mobile phone"
+      },
+      "category": "freizeit",
+      "example": "Mein Handy ist neu.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w220",
+      "word": "Internet",
+      "article": "das",
+      "translation": {
+        "pt": "internet",
+        "en": "internet"
+      },
+      "category": "freizeit",
+      "example": "Ich suche die Informationen im Internet.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w221",
+      "word": "Nachricht",
+      "article": "die",
+      "translation": {
+        "pt": "mensagem/notícia",
+        "en": "message/news"
+      },
+      "category": "freizeit",
+      "example": "Ich habe eine Nachricht bekommen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w222",
+      "word": "Anruf",
+      "article": "der",
+      "translation": {
+        "pt": "ligação/chamada",
+        "en": "phone call"
+      },
+      "category": "arbeit",
+      "example": "Ich erwarte einen wichtigen Anruf.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w223",
+      "word": "anrufen",
+      "article": null,
+      "translation": {
+        "pt": "ligar/telefonar",
+        "en": "to call"
+      },
+      "category": "arbeit",
+      "example": "Ich rufe dich morgen an.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w224",
+      "word": "Drucker",
+      "article": "der",
+      "translation": {
+        "pt": "impressora",
+        "en": "printer"
+      },
+      "category": "arbeit",
+      "example": "Der Drucker funktioniert nicht.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w225",
+      "word": "Bildschirm",
+      "article": "der",
+      "translation": {
+        "pt": "tela/monitor",
+        "en": "screen/monitor"
+      },
+      "category": "arbeit",
+      "example": "Der Bildschirm ist zu klein.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w226",
+      "word": "drucken",
+      "article": null,
+      "translation": {
+        "pt": "imprimir",
+        "en": "to print"
+      },
+      "category": "arbeit",
+      "example": "Kannst du das Dokument drucken?",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w227",
+      "word": "Marktplatz",
+      "article": "der",
+      "translation": {
+        "pt": "praça do mercado",
+        "en": "marketplace"
+      },
+      "category": "einkaufen",
+      "example": "Wir treffen uns am Marktplatz.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w228",
+      "word": "Brot",
+      "article": "das",
+      "translation": {
+        "pt": "pão",
+        "en": "bread"
+      },
+      "category": "essen",
+      "example": "Ich kaufe frisches Brot.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w229",
+      "word": "Brötchen",
+      "article": "das",
+      "translation": {
+        "pt": "pãozinho",
+        "en": "bread roll"
+      },
+      "category": "essen",
+      "example": "Zum Frühstück esse ich zwei Brötchen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w230",
+      "word": "Wurst",
+      "article": "die",
+      "translation": {
+        "pt": "linguiça/salsicha",
+        "en": "sausage"
+      },
+      "category": "essen",
+      "example": "In Deutschland gibt es viele Wurstsorten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "lebensmittel"
+      ]
+    },
+    {
+      "id": "w231",
+      "word": "Schwimmen",
+      "article": "das",
+      "translation": {
+        "pt": "natação",
+        "en": "swimming"
+      },
+      "category": "freizeit",
+      "example": "Schwimmen ist mein Lieblingssport.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "sport"
+      ]
+    },
+    {
+      "id": "w232",
+      "word": "Rathaus",
+      "article": "das",
+      "translation": {
+        "pt": "prefeitura",
+        "en": "town hall"
+      },
+      "category": "reisen",
+      "example": "Das Rathaus ist im Stadtzentrum.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w233",
+      "word": "Polizei",
+      "article": "die",
+      "translation": {
+        "pt": "polícia",
+        "en": "police"
+      },
+      "category": "reisen",
+      "example": "Rufen Sie die Polizei!",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w234",
+      "word": "Feuerwehr",
+      "article": "die",
+      "translation": {
+        "pt": "corpo de bombeiros",
+        "en": "fire department"
+      },
+      "category": "reisen",
+      "example": "Die Feuerwehr kommt schnell.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w235",
+      "word": "Briefkasten",
+      "article": "der",
+      "translation": {
+        "pt": "caixa de correio",
+        "en": "mailbox"
+      },
+      "category": "wohnen",
+      "example": "Der Brief ist im Briefkasten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w236",
+      "word": "Ampel",
+      "article": "die",
+      "translation": {
+        "pt": "semáforo",
+        "en": "traffic light"
+      },
+      "category": "reisen",
+      "example": "An der Ampel müssen Sie links abbiegen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w237",
+      "word": "Kreuzung",
+      "article": "die",
+      "translation": {
+        "pt": "cruzamento",
+        "en": "intersection"
+      },
+      "category": "reisen",
+      "example": "An der nächsten Kreuzung rechts abbiegen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w238",
+      "word": "Brücke",
+      "article": "die",
+      "translation": {
+        "pt": "ponte",
+        "en": "bridge"
+      },
+      "category": "reisen",
+      "example": "Die Brücke führt über den Fluss.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w239",
+      "word": "Parkplatz",
+      "article": "der",
+      "translation": {
+        "pt": "estacionamento",
+        "en": "parking lot"
+      },
+      "category": "reisen",
+      "example": "Gibt es hier einen Parkplatz?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w240",
+      "word": "Stau",
+      "article": "der",
+      "translation": {
+        "pt": "engarrafamento",
+        "en": "traffic jam"
+      },
+      "category": "reisen",
+      "example": "Auf der Autobahn war ein langer Stau.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w241",
+      "word": "Bett",
+      "article": "das",
+      "translation": {
+        "pt": "cama",
+        "en": "bed"
+      },
+      "category": "wohnen",
+      "example": "Das Bett ist sehr bequem.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w242",
+      "word": "Stuhl",
+      "article": "der",
+      "translation": {
+        "pt": "cadeira",
+        "en": "chair"
+      },
+      "category": "wohnen",
+      "example": "Setz dich auf den Stuhl.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w243",
+      "word": "Tisch",
+      "article": "der",
+      "translation": {
+        "pt": "mesa",
+        "en": "table"
+      },
+      "category": "wohnen",
+      "example": "Das Essen steht auf dem Tisch.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w244",
+      "word": "Lampe",
+      "article": "die",
+      "translation": {
+        "pt": "lâmpada/luminária",
+        "en": "lamp"
+      },
+      "category": "wohnen",
+      "example": "Mach bitte die Lampe an.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w245",
+      "word": "Fenster",
+      "article": "das",
+      "translation": {
+        "pt": "janela",
+        "en": "window"
+      },
+      "category": "wohnen",
+      "example": "Mach bitte das Fenster auf.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w246",
+      "word": "Tür",
+      "article": "die",
+      "translation": {
+        "pt": "porta",
+        "en": "door"
+      },
+      "category": "wohnen",
+      "example": "Die Tür ist geschlossen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w247",
+      "word": "Wand",
+      "article": "die",
+      "translation": {
+        "pt": "parede",
+        "en": "wall"
+      },
+      "category": "wohnen",
+      "example": "An der Wand hängt ein Bild.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w248",
+      "word": "Sofa",
+      "article": "das",
+      "translation": {
+        "pt": "sofá",
+        "en": "sofa"
+      },
+      "category": "wohnen",
+      "example": "Wir sitzen auf dem Sofa und sehen fern.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w249",
+      "word": "Teppich",
+      "article": "der",
+      "translation": {
+        "pt": "tapete",
+        "en": "carpet"
+      },
+      "category": "wohnen",
+      "example": "Der Teppich ist weich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w250",
+      "word": "Vorhang",
+      "article": "der",
+      "translation": {
+        "pt": "cortina",
+        "en": "curtain"
+      },
+      "category": "wohnen",
+      "example": "Bitte mach den Vorhang zu.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w251",
+      "word": "anfangen",
+      "article": null,
+      "translation": {
+        "pt": "começar",
+        "en": "to begin"
+      },
+      "category": "arbeit",
+      "example": "Wann fängt die Arbeit an?",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w252",
+      "word": "aufhören",
+      "article": null,
+      "translation": {
+        "pt": "parar/cessar",
+        "en": "to stop"
+      },
+      "category": "arbeit",
+      "example": "Hör bitte auf zu reden.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w253",
+      "word": "besuchen",
+      "article": null,
+      "translation": {
+        "pt": "visitar",
+        "en": "to visit"
+      },
+      "category": "familie",
+      "example": "Am Wochenende besuche ich meine Eltern.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w254",
+      "word": "einladen",
+      "article": null,
+      "translation": {
+        "pt": "convidar",
+        "en": "to invite"
+      },
+      "category": "familie",
+      "example": "Ich lade dich zum Essen ein.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w255",
+      "word": "erzählen",
+      "article": null,
+      "translation": {
+        "pt": "contar/narrar",
+        "en": "to tell/narrate"
+      },
+      "category": "familie",
+      "example": "Erzähl mir von deinem Urlaub.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w256",
+      "word": "verstehen",
+      "article": null,
+      "translation": {
+        "pt": "entender",
+        "en": "to understand"
+      },
+      "category": "schule",
+      "example": "Ich verstehe die Aufgabe nicht.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w257",
+      "word": "erklären",
+      "article": null,
+      "translation": {
+        "pt": "explicar",
+        "en": "to explain"
+      },
+      "category": "schule",
+      "example": "Können Sie das bitte erklären?",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w258",
+      "word": "vergessen",
+      "article": null,
+      "translation": {
+        "pt": "esquecer",
+        "en": "to forget"
+      },
+      "category": "schule",
+      "example": "Ich habe meinen Schirm vergessen.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w259",
+      "word": "empfehlen",
+      "article": null,
+      "translation": {
+        "pt": "recomendar",
+        "en": "to recommend"
+      },
+      "category": "essen",
+      "example": "Was können Sie empfehlen?",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w260",
+      "word": "sparen",
+      "article": null,
+      "translation": {
+        "pt": "economizar",
+        "en": "to save (money)"
+      },
+      "category": "einkaufen",
+      "example": "Ich spare Geld für den Urlaub.",
+      "difficulty": 2,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w261",
+      "word": "ausgeben",
+      "article": null,
+      "translation": {
+        "pt": "gastar",
+        "en": "to spend (money)"
+      },
+      "category": "einkaufen",
+      "example": "Ich gebe zu viel Geld aus.",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w262",
+      "word": "bezahlen",
+      "article": null,
+      "translation": {
+        "pt": "pagar",
+        "en": "to pay"
+      },
+      "category": "einkaufen",
+      "example": "Kann ich mit Karte bezahlen?",
+      "difficulty": 3,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w263",
+      "word": "reparieren",
+      "article": null,
+      "translation": {
+        "pt": "consertar",
+        "en": "to repair"
+      },
+      "category": "wohnen",
+      "example": "Können Sie das Fahrrad reparieren?",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w264",
+      "word": "aufräumen",
+      "article": null,
+      "translation": {
+        "pt": "arrumar/organizar",
+        "en": "to tidy up"
+      },
+      "category": "wohnen",
+      "example": "Ich muss mein Zimmer aufräumen.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w265",
+      "word": "schwimmen",
+      "article": null,
+      "translation": {
+        "pt": "nadar",
+        "en": "to swim"
+      },
+      "category": "freizeit",
+      "example": "Im Sommer gehen wir schwimmen.",
+      "difficulty": 4,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w266",
+      "word": "laufen",
+      "article": null,
+      "translation": {
+        "pt": "correr/andar",
+        "en": "to run/walk"
+      },
+      "category": "freizeit",
+      "example": "Ich laufe jeden Morgen fünf Kilometer.",
+      "difficulty": 2,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w267",
+      "word": "Regenschirm",
+      "article": "der",
+      "translation": {
+        "pt": "guarda-chuva",
+        "en": "umbrella"
+      },
+      "category": "einkaufen",
+      "example": "Vergiss deinen Regenschirm nicht!",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w268",
+      "word": "Briefmarke",
+      "article": "die",
+      "translation": {
+        "pt": "selo postal",
+        "en": "postage stamp"
+      },
+      "category": "einkaufen",
+      "example": "Ich brauche eine Briefmarke für den Brief.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w269",
+      "word": "Kalender",
+      "article": "der",
+      "translation": {
+        "pt": "calendário",
+        "en": "calendar"
+      },
+      "category": "arbeit",
+      "example": "Der Termin steht im Kalender.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w270",
+      "word": "Wecker",
+      "article": "der",
+      "translation": {
+        "pt": "despertador",
+        "en": "alarm clock"
+      },
+      "category": "wohnen",
+      "example": "Der Wecker klingelt um 6 Uhr.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w271",
+      "word": "Schlange",
+      "article": "die",
+      "translation": {
+        "pt": "fila/cobra",
+        "en": "queue/snake"
+      },
+      "category": "einkaufen",
+      "example": "An der Kasse war eine lange Schlange.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w272",
+      "word": "Nachbarschaft",
+      "article": "die",
+      "translation": {
+        "pt": "vizinhança",
+        "en": "neighborhood"
+      },
+      "category": "wohnen",
+      "example": "Die Nachbarschaft ist ruhig und grün.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w273",
+      "word": "Sehenswürdigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "ponto turístico",
+        "en": "tourist attraction"
+      },
+      "category": "reisen",
+      "example": "Das Brandenburger Tor ist eine Sehenswürdigkeit.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w274",
+      "word": "Doppelzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "quarto duplo",
+        "en": "double room"
+      },
+      "category": "reisen",
+      "example": "Ich möchte ein Doppelzimmer für zwei Nächte.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w275",
+      "word": "Einzelzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "quarto individual",
+        "en": "single room"
+      },
+      "category": "reisen",
+      "example": "Haben Sie noch ein Einzelzimmer frei?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w276",
+      "word": "Empfang",
+      "article": "der",
+      "translation": {
+        "pt": "recepção",
+        "en": "reception"
+      },
+      "category": "reisen",
+      "example": "Bitte melden Sie sich am Empfang.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w277",
+      "word": "Hauptstadt",
+      "article": "die",
+      "translation": {
+        "pt": "capital",
+        "en": "capital city"
+      },
+      "category": "reisen",
+      "example": "Berlin ist die Hauptstadt von Deutschland.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w278",
+      "word": "Ausgang",
+      "article": "der",
+      "translation": {
+        "pt": "saída",
+        "en": "exit"
+      },
+      "category": "reisen",
+      "example": "Wo ist der Ausgang?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w279",
+      "word": "Eingang",
+      "article": "der",
+      "translation": {
+        "pt": "entrada",
+        "en": "entrance"
+      },
+      "category": "reisen",
+      "example": "Der Eingang ist auf der anderen Seite.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w280",
+      "word": "Handtuch",
+      "article": "das",
+      "translation": {
+        "pt": "toalha",
+        "en": "towel"
+      },
+      "category": "wohnen",
+      "example": "Hast du ein sauberes Handtuch?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w281",
+      "word": "Seife",
+      "article": "die",
+      "translation": {
+        "pt": "sabonete/sabão",
+        "en": "soap"
+      },
+      "category": "wohnen",
+      "example": "Die Seife riecht gut.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w282",
+      "word": "Zahnbürste",
+      "article": "die",
+      "translation": {
+        "pt": "escova de dentes",
+        "en": "toothbrush"
+      },
+      "category": "gesundheit",
+      "example": "Ich brauche eine neue Zahnbürste.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w283",
+      "word": "Sonnencreme",
+      "article": "die",
+      "translation": {
+        "pt": "protetor solar",
+        "en": "sunscreen"
+      },
+      "category": "gesundheit",
+      "example": "Vergiss die Sonnencreme nicht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w284",
+      "word": "Fahrplan",
+      "article": "der",
+      "translation": {
+        "pt": "horário (transporte)",
+        "en": "timetable/schedule"
+      },
+      "category": "reisen",
+      "example": "Der Fahrplan hängt an der Haltestelle.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w285",
+      "word": "Rückfahrt",
+      "article": "die",
+      "translation": {
+        "pt": "viagem de volta",
+        "en": "return journey"
+      },
+      "category": "reisen",
+      "example": "Wann ist die Rückfahrt?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w286",
+      "word": "wichtig",
+      "article": null,
+      "translation": {
+        "pt": "importante",
+        "en": "important"
+      },
+      "category": "arbeit",
+      "example": "Das ist eine wichtige Information.",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w287",
+      "word": "möglich",
+      "article": null,
+      "translation": {
+        "pt": "possível",
+        "en": "possible"
+      },
+      "category": "arbeit",
+      "example": "Ist das möglich?",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w288",
+      "word": "notwendig",
+      "article": null,
+      "translation": {
+        "pt": "necessário",
+        "en": "necessary"
+      },
+      "category": "arbeit",
+      "example": "Es ist notwendig, pünktlich zu sein.",
+      "difficulty": 4,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w289",
+      "word": "zufrieden",
+      "article": null,
+      "translation": {
+        "pt": "satisfeito",
+        "en": "satisfied"
+      },
+      "category": "arbeit",
+      "example": "Der Chef ist zufrieden mit der Arbeit.",
+      "difficulty": 4,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w290",
+      "word": "gefährlich",
+      "article": null,
+      "translation": {
+        "pt": "perigoso",
+        "en": "dangerous"
+      },
+      "category": "natur",
+      "example": "Die Straße ist gefährlich.",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w291",
+      "word": "gemütlich",
+      "article": null,
+      "translation": {
+        "pt": "aconchegante",
+        "en": "cozy"
+      },
+      "category": "wohnen",
+      "example": "Die Wohnung ist sehr gemütlich.",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w292",
+      "word": "sauber",
+      "article": null,
+      "translation": {
+        "pt": "limpo",
+        "en": "clean"
+      },
+      "category": "wohnen",
+      "example": "Die Küche ist sauber.",
+      "difficulty": 2,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w293",
+      "word": "schmutzig",
+      "article": null,
+      "translation": {
+        "pt": "sujo",
+        "en": "dirty"
+      },
+      "category": "wohnen",
+      "example": "Die Schuhe sind schmutzig.",
+      "difficulty": 4,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w294",
+      "word": "freundlich",
+      "article": null,
+      "translation": {
+        "pt": "simpático/amigável",
+        "en": "friendly"
+      },
+      "category": "familie",
+      "example": "Die Nachbarn sind sehr freundlich.",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w295",
+      "word": "traurig",
+      "article": null,
+      "translation": {
+        "pt": "triste",
+        "en": "sad"
+      },
+      "category": "familie",
+      "example": "Warum bist du traurig?",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w296",
+      "word": "glücklich",
+      "article": null,
+      "translation": {
+        "pt": "feliz",
+        "en": "happy"
+      },
+      "category": "familie",
+      "example": "Sie sind sehr glücklich zusammen.",
+      "difficulty": 5,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w297",
+      "word": "müde",
+      "article": null,
+      "translation": {
+        "pt": "cansado",
+        "en": "tired"
+      },
+      "category": "gesundheit",
+      "example": "Ich bin heute sehr müde.",
+      "difficulty": 3,
+      "tags": [
+        "adjektiv"
+      ]
+    },
+    {
+      "id": "w298",
+      "word": "Ausflug",
+      "article": "der",
+      "translation": {
+        "pt": "excursão/passeio",
+        "en": "excursion/outing"
+      },
+      "difficulty": 3,
+      "category": "freizeit",
+      "example": "Am Sonntag machen wir einen Ausflug.",
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w299",
+      "word": "Eintrittskarte",
+      "article": "die",
+      "translation": {
+        "pt": "ingresso",
+        "en": "entrance ticket"
+      },
+      "category": "freizeit",
+      "example": "Die Eintrittskarte kostet 10 Euro.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w300",
+      "word": "verabreden",
+      "article": null,
+      "translation": {
+        "pt": "marcar encontro",
+        "en": "to make a date/appointment"
+      },
+      "category": "freizeit",
+      "example": "Wir haben uns für heute Abend verabredet.",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w301",
+      "word": "Grippe",
+      "article": "die",
+      "translation": {
+        "pt": "gripe",
+        "en": "flu"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe die Grippe.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w302",
+      "word": "Allergie",
+      "article": "die",
+      "translation": {
+        "pt": "alergia",
+        "en": "allergy"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe eine Allergie gegen Pollen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "w303",
+      "word": "Notfall",
+      "article": "der",
+      "translation": {
+        "pt": "emergência",
+        "en": "emergency"
+      },
+      "category": "gesundheit",
+      "example": "Im Notfall rufen Sie die 112.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w304",
+      "word": "Sprechstunde",
+      "article": "die",
+      "translation": {
+        "pt": "horário de consulta",
+        "en": "office hours"
+      },
+      "category": "gesundheit",
+      "example": "Die Sprechstunde ist von 9 bis 12 Uhr.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w305",
+      "word": "Wartezimmer",
+      "article": "das",
+      "translation": {
+        "pt": "sala de espera",
+        "en": "waiting room"
+      },
+      "category": "gesundheit",
+      "example": "Bitte warten Sie im Wartezimmer.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w306",
+      "word": "Einkaufswagen",
+      "article": "der",
+      "translation": {
+        "pt": "carrinho de compras",
+        "en": "shopping cart"
+      },
+      "category": "einkaufen",
+      "example": "Der Einkaufswagen ist voll.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w307",
+      "word": "Sonderpreis",
+      "article": "der",
+      "translation": {
+        "pt": "preço especial",
+        "en": "special price"
+      },
+      "category": "einkaufen",
+      "example": "Das gibt es heute zum Sonderpreis.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w308",
+      "word": "anprobieren",
+      "article": null,
+      "translation": {
+        "pt": "experimentar (roupa)",
+        "en": "to try on"
+      },
+      "category": "einkaufen",
+      "example": "Kann ich das Kleid anprobieren?",
+      "difficulty": 5,
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "w309",
+      "word": "Grundschule",
+      "article": "die",
+      "translation": {
+        "pt": "escola primária",
+        "en": "elementary school"
+      },
+      "category": "schule",
+      "example": "Mein Sohn geht in die Grundschule.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w310",
+      "word": "Kindergarten",
+      "article": "der",
+      "translation": {
+        "pt": "jardim de infância",
+        "en": "kindergarten"
+      },
+      "category": "schule",
+      "example": "Meine Tochter geht in den Kindergarten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w311",
+      "word": "Gymnasium",
+      "article": "das",
+      "translation": {
+        "pt": "ginásio (ensino médio)",
+        "en": "grammar school"
+      },
+      "category": "schule",
+      "example": "Nach der Grundschule geht er aufs Gymnasium.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w312",
+      "word": "Wanderung",
+      "article": "die",
+      "translation": {
+        "pt": "caminhada/trilha",
+        "en": "hike"
+      },
+      "category": "freizeit",
+      "example": "Die Wanderung dauert drei Stunden.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w313",
+      "word": "Sportverein",
+      "article": "der",
+      "translation": {
+        "pt": "clube esportivo",
+        "en": "sports club"
+      },
+      "category": "freizeit",
+      "example": "Mein Sohn ist im Sportverein.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w314",
+      "word": "Radtour",
+      "article": "die",
+      "translation": {
+        "pt": "passeio de bicicleta",
+        "en": "bicycle tour"
+      },
+      "category": "freizeit",
+      "example": "Am Sonntag machen wir eine Radtour.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w315",
+      "word": "Blatt",
+      "article": "das",
+      "translation": {
+        "pt": "folha",
+        "en": "leaf/sheet"
+      },
+      "category": "natur",
+      "example": "Im Herbst fallen die Blätter von den Bäumen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w316",
+      "word": "Wiese",
+      "article": "die",
+      "translation": {
+        "pt": "prado/campina",
+        "en": "meadow"
+      },
+      "category": "natur",
+      "example": "Die Kinder spielen auf der Wiese.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w317",
+      "word": "Insel",
+      "article": "die",
+      "translation": {
+        "pt": "ilha",
+        "en": "island"
+      },
+      "category": "natur",
+      "example": "Die Insel liegt im Meer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w318",
+      "word": "Luft",
+      "article": "die",
+      "translation": {
+        "pt": "ar",
+        "en": "air"
+      },
+      "category": "natur",
+      "example": "Die Luft ist frisch und sauber.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w319",
+      "word": "Ergebnis",
+      "article": "das",
+      "translation": {
+        "pt": "resultado",
+        "en": "result"
+      },
+      "category": "schule",
+      "example": "Das Ergebnis der Prüfung war gut.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w320",
+      "word": "Beispiel",
+      "article": "das",
+      "translation": {
+        "pt": "exemplo",
+        "en": "example"
+      },
+      "category": "schule",
+      "example": "Können Sie ein Beispiel geben?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w321",
+      "word": "Antwort",
+      "article": "die",
+      "translation": {
+        "pt": "resposta",
+        "en": "answer"
+      },
+      "category": "schule",
+      "example": "Die Antwort ist richtig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w322",
+      "word": "Frage",
+      "article": "die",
+      "translation": {
+        "pt": "pergunta",
+        "en": "question"
+      },
+      "category": "schule",
+      "example": "Haben Sie noch eine Frage?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w323",
+      "word": "Lösung",
+      "article": "die",
+      "translation": {
+        "pt": "solução",
+        "en": "solution"
+      },
+      "category": "schule",
+      "example": "Die Lösung ist einfach.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w324",
+      "word": "Aufenthalt",
+      "article": "der",
+      "translation": {
+        "pt": "estadia",
+        "en": "stay"
+      },
+      "category": "reisen",
+      "example": "Wie lange dauert der Aufenthalt?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w325",
+      "word": "Reiseleiterin",
+      "article": "die",
+      "translation": {
+        "pt": "guia turística",
+        "en": "tour guide (f)"
+      },
+      "category": "reisen",
+      "example": "Die Reiseleiterin spricht sehr gut Deutsch.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "person"
+      ]
+    },
+    {
+      "id": "w326",
+      "word": "Abflug",
+      "article": "der",
+      "translation": {
+        "pt": "partida (avião)",
+        "en": "departure (flight)"
+      },
+      "category": "reisen",
+      "example": "Der Abflug ist um 14 Uhr.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w327",
+      "word": "Ankunft",
+      "article": "die",
+      "translation": {
+        "pt": "chegada",
+        "en": "arrival"
+      },
+      "category": "reisen",
+      "example": "Die Ankunft ist um 18 Uhr.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w328",
+      "word": "Steckdose",
+      "article": "die",
+      "translation": {
+        "pt": "tomada",
+        "en": "power outlet"
+      },
+      "category": "wohnen",
+      "example": "Wo ist die nächste Steckdose?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w329",
+      "word": "Mikrowelle",
+      "article": "die",
+      "translation": {
+        "pt": "micro-ondas",
+        "en": "microwave"
+      },
+      "category": "wohnen",
+      "example": "Die Mikrowelle steht in der Küche.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w330",
+      "word": "Spülmaschine",
+      "article": "die",
+      "translation": {
+        "pt": "lava-louças",
+        "en": "dishwasher"
+      },
+      "category": "wohnen",
+      "example": "Die Spülmaschine ist kaputt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w331",
+      "word": "Staubsauger",
+      "article": "der",
+      "translation": {
+        "pt": "aspirador de pó",
+        "en": "vacuum cleaner"
+      },
+      "category": "wohnen",
+      "example": "Wo ist der Staubsauger?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w332",
+      "word": "Werkstatt",
+      "article": "die",
+      "translation": {
+        "pt": "oficina",
+        "en": "workshop/garage"
+      },
+      "category": "arbeit",
+      "example": "Das Auto ist in der Werkstatt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w333",
+      "word": "Überstunden",
+      "article": "die",
+      "translation": {
+        "pt": "horas extras",
+        "en": "overtime"
+      },
+      "category": "arbeit",
+      "example": "Er macht viele Überstunden.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w334",
+      "word": "Feierabend",
+      "article": "der",
+      "translation": {
+        "pt": "fim do expediente",
+        "en": "end of workday"
+      },
+      "category": "arbeit",
+      "example": "Um 17 Uhr habe ich Feierabend.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w335",
+      "word": "Besprechungsraum",
+      "article": "der",
+      "translation": {
+        "pt": "sala de reunião",
+        "en": "meeting room"
+      },
+      "category": "arbeit",
+      "example": "Die Besprechung ist im Besprechungsraum 3.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w336",
+      "word": "Tankstelle",
+      "article": "die",
+      "translation": {
+        "pt": "posto de gasolina",
+        "en": "gas station"
+      },
+      "category": "reisen",
+      "example": "Wir müssen zur Tankstelle fahren.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "ort"
+      ]
+    },
+    {
+      "id": "w337",
+      "word": "Apfelsaft",
+      "article": "der",
+      "translation": {
+        "pt": "suco de maçã",
+        "en": "apple juice"
+      },
+      "category": "essen",
+      "example": "Ich trinke gern Apfelsaft.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "trinken"
+      ]
+    },
+    {
+      "id": "w338",
+      "word": "Mineralwasser",
+      "article": "das",
+      "translation": {
+        "pt": "água mineral",
+        "en": "mineral water"
+      },
+      "category": "essen",
+      "example": "Ein Glas Mineralwasser, bitte.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "trinken"
+      ]
+    },
+    {
+      "id": "w339",
+      "word": "Speisekarte",
+      "article": "die",
+      "translation": {
+        "pt": "cardápio",
+        "en": "menu"
+      },
+      "category": "essen",
+      "example": "Kann ich die Speisekarte sehen?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w340",
+      "word": "Trinkgeld",
+      "article": "das",
+      "translation": {
+        "pt": "gorjeta",
+        "en": "tip"
+      },
+      "category": "essen",
+      "example": "Wir geben immer Trinkgeld.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "geld"
+      ]
+    },
+    {
+      "id": "w341",
+      "word": "Spielzeug",
+      "article": "das",
+      "translation": {
+        "pt": "brinquedo",
+        "en": "toy"
+      },
+      "category": "einkaufen",
+      "example": "Die Kinder bekommen neues Spielzeug.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w342",
+      "word": "Schreibtisch",
+      "article": "der",
+      "translation": {
+        "pt": "escrivaninha",
+        "en": "desk"
+      },
+      "category": "arbeit",
+      "example": "Auf meinem Schreibtisch liegt viel Arbeit.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "möbel"
+      ]
+    },
+    {
+      "id": "w343",
+      "word": "Krawatte",
+      "article": "die",
+      "translation": {
+        "pt": "gravata",
+        "en": "tie"
+      },
+      "category": "einkaufen",
+      "example": "Die Krawatte passt zum Hemd.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w344",
+      "word": "Strümpfe",
+      "article": "die",
+      "translation": {
+        "pt": "meias (compridas)",
+        "en": "stockings"
+      },
+      "category": "einkaufen",
+      "example": "Im Winter trage ich dicke Strümpfe.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "kleidung"
+      ]
+    },
+    {
+      "id": "w345",
+      "word": "Sonnenbrille",
+      "article": "die",
+      "translation": {
+        "pt": "óculos de sol",
+        "en": "sunglasses"
+      },
+      "category": "einkaufen",
+      "example": "Vergiss deine Sonnenbrille nicht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w346",
+      "word": "Schmuck",
+      "article": "der",
+      "translation": {
+        "pt": "joia/bijuteria",
+        "en": "jewelry"
+      },
+      "category": "einkaufen",
+      "example": "Sie trägt schönen Schmuck.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w347",
+      "word": "Geschmack",
+      "article": "der",
+      "translation": {
+        "pt": "gosto/sabor",
+        "en": "taste/flavor"
+      },
+      "category": "essen",
+      "example": "Der Geschmack ist ausgezeichnet.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w348",
+      "word": "Schüssel",
+      "article": "die",
+      "translation": {
+        "pt": "tigela",
+        "en": "bowl"
+      },
+      "category": "essen",
+      "example": "Gib die Suppe in eine Schüssel.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "geschirr"
+      ]
+    },
+    {
+      "id": "w349",
+      "word": "Pfanne",
+      "article": "die",
+      "translation": {
+        "pt": "frigideira",
+        "en": "frying pan"
+      },
+      "category": "essen",
+      "example": "Brate das Fleisch in der Pfanne.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w350",
+      "word": "Topf",
+      "article": "der",
+      "translation": {
+        "pt": "panela",
+        "en": "pot"
+      },
+      "category": "essen",
+      "example": "Das Wasser kocht im Topf.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "w351",
+      "word": "Nachspeise",
+      "article": "die",
+      "translation": {
+        "pt": "sobremesa",
+        "en": "dessert"
+      },
+      "category": "essen",
+      "example": "Als Nachspeise gibt es Eis.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w352",
+      "word": "Vorspeise",
+      "article": "die",
+      "translation": {
+        "pt": "entrada (prato)",
+        "en": "appetizer/starter"
+      },
+      "category": "essen",
+      "example": "Als Vorspeise nehme ich Suppe.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w353",
+      "word": "Hauptgericht",
+      "article": "das",
+      "translation": {
+        "pt": "prato principal",
+        "en": "main course"
+      },
+      "category": "essen",
+      "example": "Das Hauptgericht ist Hähnchen mit Reis.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "w354",
+      "word": "Schwager",
+      "article": "der",
+      "translation": {
+        "pt": "cunhado",
+        "en": "brother-in-law"
+      },
+      "category": "familie",
+      "example": "Mein Schwager kommt aus Österreich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w355",
+      "word": "Schwägerin",
+      "article": "die",
+      "translation": {
+        "pt": "cunhada",
+        "en": "sister-in-law"
+      },
+      "category": "familie",
+      "example": "Meine Schwägerin ist sehr nett.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w356",
+      "word": "Enkel",
+      "article": "der",
+      "translation": {
+        "pt": "neto",
+        "en": "grandson"
+      },
+      "category": "familie",
+      "example": "Mein Enkel ist fünf Jahre alt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w357",
+      "word": "Nichte",
+      "article": "die",
+      "translation": {
+        "pt": "sobrinha",
+        "en": "niece"
+      },
+      "category": "familie",
+      "example": "Meine Nichte wohnt in Hamburg.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w358",
+      "word": "Neffe",
+      "article": "der",
+      "translation": {
+        "pt": "sobrinho",
+        "en": "nephew"
+      },
+      "category": "familie",
+      "example": "Mein Neffe studiert in Berlin.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w359",
+      "word": "Geschwister",
+      "article": "die",
+      "translation": {
+        "pt": "irmãos (coletivo)",
+        "en": "siblings"
+      },
+      "category": "familie",
+      "example": "Ich habe drei Geschwister.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    },
+    {
+      "id": "w360",
+      "word": "Zwilling",
+      "article": "der",
+      "translation": {
+        "pt": "gêmeo",
+        "en": "twin"
+      },
+      "category": "familie",
+      "example": "Meine Schwester und ich sind Zwillinge.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv",
+        "verwandtschaft"
+      ]
+    }
+  ]
+}

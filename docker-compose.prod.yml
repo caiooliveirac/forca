@@ -1,0 +1,52 @@
+# docker-compose.prod.yml — Produção (servidor com Nginx existente)
+# Uso: docker compose -f docker-compose.prod.yml up -d --build
+#
+# NÃO expõe portas ao mundo. O backend escuta APENAS em
+# 127.0.0.1:${BACKEND_PORT} e o Nginx do host faz reverse proxy.
+# O frontend é servido como arquivos estáticos pelo Nginx do host.
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - galgenspiel-internal
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    # SEM ports: — banco NÃO é acessível de fora
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://${DB_USER}:${DB_PASSWORD}@db:5432/${DB_NAME}
+      JWT_SECRET: ${JWT_SECRET}
+      CORS_ORIGIN: ${CORS_ORIGIN}
+      NODE_ENV: production
+    ports:
+      - "127.0.0.1:${BACKEND_PORT:-3077}:3001"
+      # 127.0.0.1 = só localhost pode acessar
+      # Ninguém de fora alcança essa porta diretamente
+      # O nginx do host faz o proxy reverso
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - galgenspiel-internal
+
+volumes:
+  pgdata:
+
+networks:
+  galgenspiel-internal:
+    driver: bridge
