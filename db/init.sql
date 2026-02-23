@@ -18,9 +18,12 @@ CREATE TABLE IF NOT EXISTS player_stats (
   total_games INTEGER DEFAULT 0,
   total_wins INTEGER DEFAULT 0,
   total_points BIGINT DEFAULT 0,
+  competitive_points BIGINT DEFAULT 0,
   best_round_score INTEGER DEFAULT 0,
   best_combo INTEGER DEFAULT 0,
   current_combo INTEGER DEFAULT 0,
+  rating INTEGER DEFAULT 1000,
+  last_competitive_at TIMESTAMPTZ,
   updated_at TIMESTAMPTZ DEFAULT NOW()
 );
 
@@ -30,8 +33,11 @@ CREATE TABLE IF NOT EXISTS game_rounds (
   user_id UUID REFERENCES users(id) ON DELETE CASCADE NOT NULL,
   word_id TEXT NOT NULL,
   word TEXT NOT NULL,
+  cefr_level TEXT DEFAULT 'A1',
   won BOOLEAN NOT NULL,
   score INTEGER DEFAULT 0,
+  weighted_score INTEGER DEFAULT 0,
+  anti_spam_flag BOOLEAN DEFAULT FALSE,
   difficulty INTEGER NOT NULL,
   wrong_guesses INTEGER NOT NULL,
   time_seconds INTEGER NOT NULL,
@@ -59,6 +65,7 @@ CREATE TABLE IF NOT EXISTS word_errors (
 -- Índices
 CREATE INDEX IF NOT EXISTS idx_rounds_user ON game_rounds(user_id);
 CREATE INDEX IF NOT EXISTS idx_rounds_played ON game_rounds(played_at DESC);
+CREATE INDEX IF NOT EXISTS idx_rounds_cefr_level ON game_rounds(cefr_level);
 CREATE INDEX IF NOT EXISTS idx_word_errors_user ON word_errors(user_id);
 CREATE INDEX IF NOT EXISTS idx_word_errors_review ON word_errors(next_review_at);
 

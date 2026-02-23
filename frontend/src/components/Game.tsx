@@ -11,6 +11,7 @@ import { GameStatus } from './GameStatus';
 import { DifficultyBadge } from './DifficultyBadge';
 import { AuthModal } from './AuthModal';
 import { wordHasUmlauts } from '../hooks/useHangman';
+import { getLeaderboard } from '../lib/gameApi';
 import type { HintPenalties } from '../types';
 
 const formatTime = (seconds: number): string => {
@@ -19,10 +20,30 @@ const formatTime = (seconds: number): string => {
   return `${m}:${s.toString().padStart(2, '0')}`;
 };
 
+type CompetitionWindow = 'weekly' | 'monthly' | 'all';
+type CompetitionLevel = 'ALL' | 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
+
+interface LeaderboardEntry {
+  userId: string;
+  displayName: string;
+  league: string;
+  rating: number;
+  competitivePoints: number;
+  roundsInWindow: number;
+  winsInWindow: number;
+  avgRoundScore: number;
+}
+
 export const Game = () => {
   const { filters, setFilters } = useGameFilters();
   const { user, loading: authLoading, isLoggedIn, signUp, signIn, signOut } = useAuth();
   const [authModalOpen, setAuthModalOpen] = useState(false);
+  const [boardWindow, setBoardWindow] = useState<CompetitionWindow>('weekly');
+  const [boardLevel, setBoardLevel] = useState<CompetitionLevel>('ALL');
+  const [boardLoading, setBoardLoading] = useState(false);
+  const [boardError, setBoardError] = useState<string | null>(null);
+  const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([]);
+  const [myRank, setMyRank] = useState<number | null>(null);
 
   const {
     gameState,
@@ -51,6 +72,40 @@ export const Game = () => {
   const [transitioning, setTransitioning] = useState(false);
   const scoringDoneRef = useRef(false);
 
+  useEffect(() => {
+    if (!isLoggedIn) {
+      setLeaderboard([]);
+      setMyRank(null);
+      return;
+    }
+
+    let cancelled = false;
+    setBoardLoading(true);
+    setBoardError(null);
+
+    getLeaderboard(
+      boardWindow,
+      boardLevel === 'ALL' ? null : boardLevel,
+      8,
+    )
+      .then((res) => {
+        if (cancelled) return;
+        setLeaderboard((res.data?.leaderboard ?? []) as LeaderboardEntry[]);
+        setMyRank(res.data?.myRank ?? null);
+      })
+      .catch((err) => {
+        if (cancelled) return;
+        setBoardError(err?.response?.data?.error || 'Leaderboard konnte nicht geladen werden');
+      })
+      .finally(() => {
+        if (!cancelled) setBoardLoading(false);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [isLoggedIn, boardWindow, boardLevel]);
+
   const hintInfo = getHintInfo();
   const isGameOver =
     gameState.status === 'won' || gameState.status === 'lost';
@@ -72,6 +127,7 @@ export const Game = () => {
     const meta = {
       wordId: word.id,
       word: word.word,
+      cefrLevel: word.level,
       isLoggedIn,
       difficulty: word.difficulty,
       wrongGuesses: gameState.wrongGuesses,
@@ -192,6 +248,68 @@ export const Game = () => {
           )}
         </div>
       </header>
+
+      {/* Competitive bar */}
+      {isLoggedIn && (
+        <section className="px-4 md:px-8 pt-2 pb-1">
+          <div className="rounded-lg border border-chalk/10 bg-white/5 px-3 py-2">
+            <div className="flex flex-wrap items-center gap-2 md:gap-3 text-xs md:text-sm font-body text-chalk-dim">
+              <span className="text-chalk">Liga</span>
+              <select
+                value={boardWindow}
+                onChange={(e) => setBoardWindow(e.target.value as CompetitionWindow)}
+                className="bg-transparent border border-chalk/20 rounded px-2 py-1 text-chalk"
+              >
+                <option value="weekly">Woche</option>
+                <option value="monthly">Monat</option>
+                <option value="all">Gesamt</option>
+              </select>
+
+              <select
+                value={boardLevel}
+                onChange={(e) => setBoardLevel(e.target.value as CompetitionLevel)}
+                className="bg-transparent border border-chalk/20 rounded px-2 py-1 text-chalk"
+              >
+                <option value="ALL">Alle CEFR</option>
+                <option value="A1">A1</option>
+                <option value="A2">A2</option>
+                <option value="B1">B1</option>
+                <option value="B2">B2</option>
+                <option value="C1">C1</option>
+              </select>
+
+              {myRank ? (
+                <span className="ml-auto text-amber-300">Dein Rang: #{myRank}</span>
+              ) : (
+                <span className="ml-auto text-chalk-dim">Noch kein Rang in diesem Filter</span>
+              )}
+            </div>
+
+            <div className="mt-2 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 text-xs">
+              {boardLoading && (
+                <div className="text-chalk-dim">Leaderboard lädt...</div>
+              )}
+              {boardError && !boardLoading && (
+                <div className="text-red-300">{boardError}</div>
+              )}
+              {!boardLoading && !boardError && leaderboard.length === 0 && (
+                <div className="text-chalk-dim">Keine Daten in diesem Fenster</div>
+              )}
+              {!boardLoading && !boardError && leaderboard.map((entry, index) => (
+                <div key={`${entry.userId}-${index}`} className="border border-chalk/10 rounded px-2 py-1 bg-black/15">
+                  <div className="flex items-center justify-between text-chalk">
+                    <span className="truncate">#{index + 1} {entry.displayName}</span>
+                    <span>{entry.league}</span>
+                  </div>
+                  <div className="text-chalk-dim">
+                    Rating {entry.rating} · Punkte {entry.competitivePoints}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Filters bar */}
       <div className="py-2">

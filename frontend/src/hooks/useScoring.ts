@@ -163,7 +163,7 @@ export const useScoring = () => {
       wrongGuesses: number,
       umlautPartialCount: number = 0,
       wordHasUmlauts: boolean = false,
-      meta?: { wordId: string; word: string; isLoggedIn: boolean },
+      meta?: { wordId: string; word: string; cefrLevel: 'A1' | 'A2' | 'B1' | 'B2' | 'C1'; isLoggedIn: boolean },
     ) => {
       const timeSeconds = getElapsedSeconds();
       const newCombo = session.currentCombo + 1;
@@ -218,6 +218,7 @@ export const useScoring = () => {
         const roundData: RoundData = {
           wordId: meta.wordId,
           word: meta.word,
+          cefrLevel: meta.cefrLevel,
           won: true,
           score: roundScore.total,
           difficulty,
@@ -241,7 +242,7 @@ export const useScoring = () => {
 
   // Record a loss (breaks combo, no points)
   const recordLoss = useCallback(
-    (meta?: { wordId: string; word: string; difficulty: number; wrongGuesses: number; isLoggedIn: boolean; hintPenalties: HintPenalties }) => {
+    (meta?: { wordId: string; word: string; cefrLevel: 'A1' | 'A2' | 'B1' | 'B2' | 'C1'; difficulty: number; wrongGuesses: number; isLoggedIn: boolean; hintPenalties: HintPenalties }) => {
     setLastRound(null);
 
     const timeSeconds = getElapsedSeconds();
@@ -262,6 +263,7 @@ export const useScoring = () => {
       const roundData: RoundData = {
         wordId: meta.wordId,
         word: meta.word,
+        cefrLevel: meta.cefrLevel,
         won: false,
         score: 0,
         difficulty: meta.difficulty,

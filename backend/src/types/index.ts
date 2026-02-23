@@ -15,9 +15,12 @@ export interface PlayerStatsRow {
   total_games: number;
   total_wins: number;
   total_points: number;
+  competitive_points: number;
   best_round_score: number;
   best_combo: number;
   current_combo: number;
+  rating: number;
+  last_competitive_at: Date | null;
   updated_at: Date;
 }
 
@@ -26,8 +29,11 @@ export interface GameRoundRow {
   user_id: string;
   word_id: string;
   word: string;
+  cefr_level: 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
   won: boolean;
   score: number;
+  weighted_score: number;
+  anti_spam_flag: boolean;
   difficulty: number;
   wrong_guesses: number;
   time_seconds: number;
@@ -64,6 +70,7 @@ export interface LoginBody {
 export interface SaveRoundBody {
   wordId: string;
   word: string;
+  cefrLevel?: 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
   won: boolean;
   score: number;
   difficulty: number;
@@ -72,4 +79,15 @@ export interface SaveRoundBody {
   hintsUsed: Record<string, boolean>;
   usedPartialUmlauts: boolean;
   comboAtTime: number;
+}
+
+export interface LeaderboardEntry {
+  userId: string;
+  displayName: string;
+  league: string;
+  rating: number;
+  competitivePoints: number;
+  roundsInWindow: number;
+  winsInWindow: number;
+  avgRoundScore: number;
 }
