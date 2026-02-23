@@ -299,7 +299,7 @@ export const Game = () => {
                 wrongLetters={wrongLetters}
                 partialBaseLetters={gameState.partialBaseLetters}
                 onGuess={guessLetter}
-                disabled={isGameOver}
+                disabled={isGameOver || authModalOpen}
               />
             </div>
           </div>

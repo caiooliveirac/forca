@@ -2,8 +2,8 @@ import axios from 'axios';
 
 const api = axios.create({
   // Dev: VITE_API_URL=http://localhost:3001 (via .env.local)
-  // Prod: VITE_API_URL=/forca/api (set at build time, nginx resolves)
-  baseURL: import.meta.env.VITE_API_URL || '/forca/api',
+  // Prod: VITE_API_URL=/forca (set at build time, nginx resolves /forca/api/ → backend)
+  baseURL: import.meta.env.VITE_API_URL || '/forca',
 });
 
 // Interceptor: injeta token em toda request

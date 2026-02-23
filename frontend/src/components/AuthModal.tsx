@@ -71,6 +71,7 @@ export const AuthModal = ({ open, onClose, onSignUp, onSignIn }: AuthModalProps)
         className="chalkboard-frame rounded-lg w-full max-w-sm p-6 animate-modal-enter"
         style={{ backgroundColor: '#1a1f2e' }}
         onClick={(e) => e.stopPropagation()}
+        onKeyDown={(e) => e.stopPropagation()}
       >
         {/* Tabs */}
         <div className="flex border-b border-chalk/10 mb-5">
