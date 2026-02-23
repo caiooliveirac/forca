@@ -3,7 +3,7 @@
     "level": "B1",
     "source": "Goethe-Institut Wortliste B1",
     "sourceUrl": "https://www.goethe.de/",
-    "totalWords": 231,
+    "totalWords": 412,
     "lastUpdated": "2026-02-23"
   },
   "categories": [
@@ -511,21 +511,6 @@
     },
     {
       "id": "b1-031",
-      "word": "Arbeitsplatz",
-      "article": "der",
-      "translation": {
-        "pt": "posto de trabalho",
-        "en": "workplace"
-      },
-      "category": "arbeit",
-      "example": "Der Arbeitsplatz ist modern.",
-      "difficulty": 3,
-      "tags": [
-        "substantiv"
-      ]
-    },
-    {
-      "id": "b1-032",
       "word": "Abteilung",
       "article": "die",
       "translation": {
@@ -540,7 +525,7 @@
       ]
     },
     {
-      "id": "b1-033",
+      "id": "b1-032",
       "word": "Mitarbeiter",
       "article": "der",
       "translation": {
@@ -555,7 +540,7 @@
       ]
     },
     {
-      "id": "b1-034",
+      "id": "b1-033",
       "word": "Überstunde",
       "article": "die",
       "translation": {
@@ -570,7 +555,7 @@
       ]
     },
     {
-      "id": "b1-035",
+      "id": "b1-034",
       "word": "Beförderung",
       "article": "die",
       "translation": {
@@ -585,7 +570,7 @@
       ]
     },
     {
-      "id": "b1-036",
+      "id": "b1-035",
       "word": "Vorstellungsgespräch",
       "article": "das",
       "translation": {
@@ -600,7 +585,7 @@
       ]
     },
     {
-      "id": "b1-037",
+      "id": "b1-036",
       "word": "Buchhaltung",
       "article": "die",
       "translation": {
@@ -615,7 +600,7 @@
       ]
     },
     {
-      "id": "b1-038",
+      "id": "b1-037",
       "word": "Handwerker",
       "article": "der",
       "translation": {
@@ -630,7 +615,7 @@
       ]
     },
     {
-      "id": "b1-039",
+      "id": "b1-038",
       "word": "Ingenieur",
       "article": "der",
       "translation": {
@@ -645,7 +630,7 @@
       ]
     },
     {
-      "id": "b1-040",
+      "id": "b1-039",
       "word": "Rechtsanwalt",
       "article": "der",
       "translation": {
@@ -660,7 +645,7 @@
       ]
     },
     {
-      "id": "b1-041",
+      "id": "b1-040",
       "word": "Beamte",
       "article": "der",
       "translation": {
@@ -675,7 +660,7 @@
       ]
     },
     {
-      "id": "b1-042",
+      "id": "b1-041",
       "word": "Architekt",
       "article": "der",
       "translation": {
@@ -690,7 +675,7 @@
       ]
     },
     {
-      "id": "b1-043",
+      "id": "b1-042",
       "word": "Journalist",
       "article": "der",
       "translation": {
@@ -705,7 +690,7 @@
       ]
     },
     {
-      "id": "b1-044",
+      "id": "b1-043",
       "word": "Reiseführer",
       "article": "der",
       "translation": {
@@ -720,7 +705,7 @@
       ]
     },
     {
-      "id": "b1-045",
+      "id": "b1-044",
       "word": "Abfahrt",
       "article": "die",
       "translation": {
@@ -735,7 +720,7 @@
       ]
     },
     {
-      "id": "b1-046",
+      "id": "b1-045",
       "word": "Rundfahrt",
       "article": "die",
       "translation": {
@@ -750,7 +735,7 @@
       ]
     },
     {
-      "id": "b1-047",
+      "id": "b1-046",
       "word": "Autobahn",
       "article": "die",
       "translation": {
@@ -765,7 +750,7 @@
       ]
     },
     {
-      "id": "b1-048",
+      "id": "b1-047",
       "word": "Fähre",
       "article": "die",
       "translation": {
@@ -780,7 +765,7 @@
       ]
     },
     {
-      "id": "b1-049",
+      "id": "b1-048",
       "word": "Umzug",
       "article": "der",
       "translation": {
@@ -795,7 +780,7 @@
       ]
     },
     {
-      "id": "b1-050",
+      "id": "b1-049",
       "word": "Nebenkosten",
       "article": null,
       "translation": {
@@ -810,7 +795,7 @@
       ]
     },
     {
-      "id": "b1-051",
+      "id": "b1-050",
       "word": "Einrichtung",
       "article": "die",
       "translation": {
@@ -825,7 +810,7 @@
       ]
     },
     {
-      "id": "b1-052",
+      "id": "b1-051",
       "word": "Renovierung",
       "article": "die",
       "translation": {
@@ -840,7 +825,7 @@
       ]
     },
     {
-      "id": "b1-053",
+      "id": "b1-052",
       "word": "Keller",
       "article": "der",
       "translation": {
@@ -855,7 +840,7 @@
       ]
     },
     {
-      "id": "b1-054",
+      "id": "b1-053",
       "word": "Stockwerk",
       "article": "das",
       "translation": {
@@ -870,7 +855,7 @@
       ]
     },
     {
-      "id": "b1-055",
+      "id": "b1-054",
       "word": "Geschirrspüler",
       "article": "der",
       "translation": {
@@ -885,7 +870,7 @@
       ]
     },
     {
-      "id": "b1-056",
+      "id": "b1-055",
       "word": "Dachboden",
       "article": "der",
       "translation": {
@@ -900,7 +885,7 @@
       ]
     },
     {
-      "id": "b1-057",
+      "id": "b1-056",
       "word": "Zaun",
       "article": "der",
       "translation": {
@@ -915,7 +900,7 @@
       ]
     },
     {
-      "id": "b1-058",
+      "id": "b1-057",
       "word": "Terrasse",
       "article": "die",
       "translation": {
@@ -930,7 +915,7 @@
       ]
     },
     {
-      "id": "b1-059",
+      "id": "b1-058",
       "word": "Veranstaltung",
       "article": "die",
       "translation": {
@@ -945,7 +930,7 @@
       ]
     },
     {
-      "id": "b1-060",
+      "id": "b1-059",
       "word": "Meisterschaft",
       "article": "die",
       "translation": {
@@ -960,7 +945,7 @@
       ]
     },
     {
-      "id": "b1-061",
+      "id": "b1-060",
       "word": "Zuschauer",
       "article": "der",
       "translation": {
@@ -975,7 +960,7 @@
       ]
     },
     {
-      "id": "b1-062",
+      "id": "b1-061",
       "word": "Erholung",
       "article": "die",
       "translation": {
@@ -990,7 +975,7 @@
       ]
     },
     {
-      "id": "b1-063",
+      "id": "b1-062",
       "word": "Schlagzeug",
       "article": "das",
       "translation": {
@@ -1005,7 +990,7 @@
       ]
     },
     {
-      "id": "b1-064",
+      "id": "b1-063",
       "word": "Geige",
       "article": "die",
       "translation": {
@@ -1020,7 +1005,7 @@
       ]
     },
     {
-      "id": "b1-065",
+      "id": "b1-064",
       "word": "Klavier",
       "article": "das",
       "translation": {
@@ -1035,7 +1020,7 @@
       ]
     },
     {
-      "id": "b1-066",
+      "id": "b1-065",
       "word": "Gitarre",
       "article": "die",
       "translation": {
@@ -1050,7 +1035,7 @@
       ]
     },
     {
-      "id": "b1-067",
+      "id": "b1-066",
       "word": "Galerie",
       "article": "die",
       "translation": {
@@ -1065,7 +1050,7 @@
       ]
     },
     {
-      "id": "b1-068",
+      "id": "b1-067",
       "word": "Schiedsrichter",
       "article": "der",
       "translation": {
@@ -1080,7 +1065,7 @@
       ]
     },
     {
-      "id": "b1-069",
+      "id": "b1-068",
       "word": "Tischtennis",
       "article": "das",
       "translation": {
@@ -1095,7 +1080,7 @@
       ]
     },
     {
-      "id": "b1-070",
+      "id": "b1-069",
       "word": "Leichtathletik",
       "article": "die",
       "translation": {
@@ -1110,7 +1095,7 @@
       ]
     },
     {
-      "id": "b1-071",
+      "id": "b1-070",
       "word": "Radfahren",
       "article": "das",
       "translation": {
@@ -1125,7 +1110,7 @@
       ]
     },
     {
-      "id": "b1-072",
+      "id": "b1-071",
       "word": "Behandlung",
       "article": "die",
       "translation": {
@@ -1140,7 +1125,7 @@
       ]
     },
     {
-      "id": "b1-073",
+      "id": "b1-072",
       "word": "Verletzung",
       "article": "die",
       "translation": {
@@ -1155,7 +1140,7 @@
       ]
     },
     {
-      "id": "b1-074",
+      "id": "b1-073",
       "word": "Impfung",
       "article": "die",
       "translation": {
@@ -1170,7 +1155,7 @@
       ]
     },
     {
-      "id": "b1-075",
+      "id": "b1-074",
       "word": "Blutdruck",
       "article": "der",
       "translation": {
@@ -1185,7 +1170,7 @@
       ]
     },
     {
-      "id": "b1-076",
+      "id": "b1-075",
       "word": "Operation",
       "article": "die",
       "translation": {
@@ -1200,7 +1185,7 @@
       ]
     },
     {
-      "id": "b1-077",
+      "id": "b1-076",
       "word": "Verband",
       "article": "der",
       "translation": {
@@ -1215,7 +1200,7 @@
       ]
     },
     {
-      "id": "b1-078",
+      "id": "b1-077",
       "word": "Salbe",
       "article": "die",
       "translation": {
@@ -1230,22 +1215,7 @@
       ]
     },
     {
-      "id": "b1-079",
-      "word": "Tablette",
-      "article": "die",
-      "translation": {
-        "pt": "comprimido",
-        "en": "tablet/pill"
-      },
-      "category": "gesundheit",
-      "example": "Nehmen Sie die Tablette nach dem Essen.",
-      "difficulty": 2,
-      "tags": [
-        "substantiv"
-      ]
-    },
-    {
-      "id": "b1-080",
+      "id": "b1-078",
       "word": "Spritze",
       "article": "die",
       "translation": {
@@ -1260,7 +1230,7 @@
       ]
     },
     {
-      "id": "b1-081",
+      "id": "b1-079",
       "word": "Wunde",
       "article": "die",
       "translation": {
@@ -1275,37 +1245,7 @@
       ]
     },
     {
-      "id": "b1-082",
-      "word": "Rabatt",
-      "article": "der",
-      "translation": {
-        "pt": "desconto",
-        "en": "discount"
-      },
-      "category": "einkaufen",
-      "example": "Es gibt 20 Prozent Rabatt.",
-      "difficulty": 2,
-      "tags": [
-        "substantiv"
-      ]
-    },
-    {
-      "id": "b1-083",
-      "word": "Umkleidekabine",
-      "article": "die",
-      "translation": {
-        "pt": "provador",
-        "en": "fitting room"
-      },
-      "category": "einkaufen",
-      "example": "Die Umkleidekabine ist dort.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv"
-      ]
-    },
-    {
-      "id": "b1-084",
+      "id": "b1-080",
       "word": "Kassiererin",
       "article": "die",
       "translation": {
@@ -1320,7 +1260,7 @@
       ]
     },
     {
-      "id": "b1-085",
+      "id": "b1-081",
       "word": "Verpackung",
       "article": "die",
       "translation": {
@@ -1335,7 +1275,7 @@
       ]
     },
     {
-      "id": "b1-086",
+      "id": "b1-082",
       "word": "Armband",
       "article": "das",
       "translation": {
@@ -1350,7 +1290,7 @@
       ]
     },
     {
-      "id": "b1-087",
+      "id": "b1-083",
       "word": "Parfüm",
       "article": "das",
       "translation": {
@@ -1365,7 +1305,7 @@
       ]
     },
     {
-      "id": "b1-088",
+      "id": "b1-084",
       "word": "Geldbörse",
       "article": "die",
       "translation": {
@@ -1380,7 +1320,7 @@
       ]
     },
     {
-      "id": "b1-089",
+      "id": "b1-085",
       "word": "Stiefel",
       "article": "der",
       "translation": {
@@ -1395,7 +1335,7 @@
       ]
     },
     {
-      "id": "b1-090",
+      "id": "b1-086",
       "word": "Sandalen",
       "article": null,
       "translation": {
@@ -1410,7 +1350,7 @@
       ]
     },
     {
-      "id": "b1-091",
+      "id": "b1-087",
       "word": "Wissenschaft",
       "article": "die",
       "translation": {
@@ -1425,7 +1365,7 @@
       ]
     },
     {
-      "id": "b1-092",
+      "id": "b1-088",
       "word": "Forschung",
       "article": "die",
       "translation": {
@@ -1440,7 +1380,7 @@
       ]
     },
     {
-      "id": "b1-093",
+      "id": "b1-089",
       "word": "Vortrag",
       "article": "der",
       "translation": {
@@ -1455,7 +1395,7 @@
       ]
     },
     {
-      "id": "b1-094",
+      "id": "b1-090",
       "word": "Studium",
       "article": "das",
       "translation": {
@@ -1470,7 +1410,7 @@
       ]
     },
     {
-      "id": "b1-095",
+      "id": "b1-091",
       "word": "Stipendium",
       "article": "das",
       "translation": {
@@ -1485,7 +1425,7 @@
       ]
     },
     {
-      "id": "b1-096",
+      "id": "b1-092",
       "word": "Abschluss",
       "article": "der",
       "translation": {
@@ -1500,7 +1440,7 @@
       ]
     },
     {
-      "id": "b1-097",
+      "id": "b1-093",
       "word": "Hausarbeit",
       "article": "die",
       "translation": {
@@ -1515,7 +1455,7 @@
       ]
     },
     {
-      "id": "b1-098",
+      "id": "b1-094",
       "word": "Nachmittag",
       "article": "der",
       "translation": {
@@ -1530,7 +1470,7 @@
       ]
     },
     {
-      "id": "b1-099",
+      "id": "b1-095",
       "word": "Kenntnisse",
       "article": null,
       "translation": {
@@ -1545,7 +1485,7 @@
       ]
     },
     {
-      "id": "b1-100",
+      "id": "b1-096",
       "word": "Grammatik",
       "article": "die",
       "translation": {
@@ -1560,7 +1500,7 @@
       ]
     },
     {
-      "id": "b1-101",
+      "id": "b1-097",
       "word": "Aufsatz",
       "article": "der",
       "translation": {
@@ -1575,7 +1515,7 @@
       ]
     },
     {
-      "id": "b1-102",
+      "id": "b1-098",
       "word": "Klimawandel",
       "article": "der",
       "translation": {
@@ -1590,7 +1530,7 @@
       ]
     },
     {
-      "id": "b1-103",
+      "id": "b1-099",
       "word": "Naturschutz",
       "article": "der",
       "translation": {
@@ -1605,7 +1545,7 @@
       ]
     },
     {
-      "id": "b1-104",
+      "id": "b1-100",
       "word": "Verschmutzung",
       "article": "die",
       "translation": {
@@ -1620,7 +1560,7 @@
       ]
     },
     {
-      "id": "b1-105",
+      "id": "b1-101",
       "word": "Erdbeben",
       "article": "das",
       "translation": {
@@ -1635,7 +1575,7 @@
       ]
     },
     {
-      "id": "b1-106",
+      "id": "b1-102",
       "word": "Überschwemmung",
       "article": "die",
       "translation": {
@@ -1650,7 +1590,7 @@
       ]
     },
     {
-      "id": "b1-107",
+      "id": "b1-103",
       "word": "Vorhersage",
       "article": "die",
       "translation": {
@@ -1665,7 +1605,7 @@
       ]
     },
     {
-      "id": "b1-108",
+      "id": "b1-104",
       "word": "Jahreszeit",
       "article": "die",
       "translation": {
@@ -1680,7 +1620,7 @@
       ]
     },
     {
-      "id": "b1-109",
+      "id": "b1-105",
       "word": "Schmetterling",
       "article": "der",
       "translation": {
@@ -1695,7 +1635,7 @@
       ]
     },
     {
-      "id": "b1-110",
+      "id": "b1-106",
       "word": "Eichhörnchen",
       "article": "das",
       "translation": {
@@ -1710,7 +1650,7 @@
       ]
     },
     {
-      "id": "b1-111",
+      "id": "b1-107",
       "word": "Frosch",
       "article": "der",
       "translation": {
@@ -1725,7 +1665,7 @@
       ]
     },
     {
-      "id": "b1-112",
+      "id": "b1-108",
       "word": "Biber",
       "article": "der",
       "translation": {
@@ -1740,7 +1680,7 @@
       ]
     },
     {
-      "id": "b1-113",
+      "id": "b1-109",
       "word": "Ameise",
       "article": "die",
       "translation": {
@@ -1755,7 +1695,7 @@
       ]
     },
     {
-      "id": "b1-114",
+      "id": "b1-110",
       "word": "Biene",
       "article": "die",
       "translation": {
@@ -1770,7 +1710,7 @@
       ]
     },
     {
-      "id": "b1-115",
+      "id": "b1-111",
       "word": "Wespe",
       "article": "die",
       "translation": {
@@ -1785,7 +1725,7 @@
       ]
     },
     {
-      "id": "b1-116",
+      "id": "b1-112",
       "word": "Spinne",
       "article": "die",
       "translation": {
@@ -1800,7 +1740,7 @@
       ]
     },
     {
-      "id": "b1-117",
+      "id": "b1-113",
       "word": "Regenbogen",
       "article": "der",
       "translation": {
@@ -1815,7 +1755,7 @@
       ]
     },
     {
-      "id": "b1-118",
+      "id": "b1-114",
       "word": "Nebel",
       "article": "der",
       "translation": {
@@ -1830,7 +1770,7 @@
       ]
     },
     {
-      "id": "b1-119",
+      "id": "b1-115",
       "word": "Hagel",
       "article": "der",
       "translation": {
@@ -1845,7 +1785,7 @@
       ]
     },
     {
-      "id": "b1-120",
+      "id": "b1-116",
       "word": "Blitz",
       "article": "der",
       "translation": {
@@ -1860,7 +1800,7 @@
       ]
     },
     {
-      "id": "b1-121",
+      "id": "b1-117",
       "word": "Donner",
       "article": "der",
       "translation": {
@@ -1875,7 +1815,7 @@
       ]
     },
     {
-      "id": "b1-122",
+      "id": "b1-118",
       "word": "Reif",
       "article": "der",
       "translation": {
@@ -1890,7 +1830,7 @@
       ]
     },
     {
-      "id": "b1-123",
+      "id": "b1-119",
       "word": "Tau",
       "article": "der",
       "translation": {
@@ -1905,7 +1845,7 @@
       ]
     },
     {
-      "id": "b1-124",
+      "id": "b1-120",
       "word": "Busch",
       "article": "der",
       "translation": {
@@ -1920,7 +1860,7 @@
       ]
     },
     {
-      "id": "b1-125",
+      "id": "b1-121",
       "word": "Mücke",
       "article": "die",
       "translation": {
@@ -1935,7 +1875,7 @@
       ]
     },
     {
-      "id": "b1-126",
+      "id": "b1-122",
       "word": "Käfer",
       "article": "der",
       "translation": {
@@ -1950,7 +1890,7 @@
       ]
     },
     {
-      "id": "b1-127",
+      "id": "b1-123",
       "word": "Schnecke",
       "article": "die",
       "translation": {
@@ -1965,7 +1905,7 @@
       ]
     },
     {
-      "id": "b1-128",
+      "id": "b1-124",
       "word": "Adler",
       "article": "der",
       "translation": {
@@ -1980,7 +1920,7 @@
       ]
     },
     {
-      "id": "b1-129",
+      "id": "b1-125",
       "word": "Wolf",
       "article": "der",
       "translation": {
@@ -1995,7 +1935,7 @@
       ]
     },
     {
-      "id": "b1-130",
+      "id": "b1-126",
       "word": "Fuchs",
       "article": "der",
       "translation": {
@@ -2010,7 +1950,7 @@
       ]
     },
     {
-      "id": "b1-131",
+      "id": "b1-127",
       "word": "Hirsch",
       "article": "der",
       "translation": {
@@ -2025,7 +1965,7 @@
       ]
     },
     {
-      "id": "b1-132",
+      "id": "b1-128",
       "word": "Elefant",
       "article": "der",
       "translation": {
@@ -2040,7 +1980,7 @@
       ]
     },
     {
-      "id": "b1-133",
+      "id": "b1-129",
       "word": "Löwe",
       "article": "der",
       "translation": {
@@ -2055,7 +1995,7 @@
       ]
     },
     {
-      "id": "b1-134",
+      "id": "b1-130",
       "word": "Affe",
       "article": "der",
       "translation": {
@@ -2070,7 +2010,7 @@
       ]
     },
     {
-      "id": "b1-135",
+      "id": "b1-131",
       "word": "Pinguin",
       "article": "der",
       "translation": {
@@ -2085,7 +2025,7 @@
       ]
     },
     {
-      "id": "b1-136",
+      "id": "b1-132",
       "word": "Delphin",
       "article": "der",
       "translation": {
@@ -2100,7 +2040,7 @@
       ]
     },
     {
-      "id": "b1-137",
+      "id": "b1-133",
       "word": "Wal",
       "article": "der",
       "translation": {
@@ -2115,7 +2055,7 @@
       ]
     },
     {
-      "id": "b1-138",
+      "id": "b1-134",
       "word": "Giraffe",
       "article": "die",
       "translation": {
@@ -2130,7 +2070,7 @@
       ]
     },
     {
-      "id": "b1-139",
+      "id": "b1-135",
       "word": "Schildkröte",
       "article": "die",
       "translation": {
@@ -2145,7 +2085,7 @@
       ]
     },
     {
-      "id": "b1-140",
+      "id": "b1-136",
       "word": "Meinungsfreiheit",
       "article": "die",
       "translation": {
@@ -2160,7 +2100,7 @@
       ]
     },
     {
-      "id": "b1-141",
+      "id": "b1-137",
       "word": "Gesichtspunkt",
       "article": "der",
       "translation": {
@@ -2175,7 +2115,7 @@
       ]
     },
     {
-      "id": "b1-142",
+      "id": "b1-138",
       "word": "Zusammenfassung",
       "article": "die",
       "translation": {
@@ -2190,7 +2130,7 @@
       ]
     },
     {
-      "id": "b1-143",
+      "id": "b1-139",
       "word": "Verbesserung",
       "article": "die",
       "translation": {
@@ -2205,7 +2145,7 @@
       ]
     },
     {
-      "id": "b1-144",
+      "id": "b1-140",
       "word": "Verantwortung",
       "article": "die",
       "translation": {
@@ -2220,7 +2160,7 @@
       ]
     },
     {
-      "id": "b1-145",
+      "id": "b1-141",
       "word": "Leidenschaft",
       "article": "die",
       "translation": {
@@ -2235,7 +2175,7 @@
       ]
     },
     {
-      "id": "b1-146",
+      "id": "b1-142",
       "word": "Gelegenheit",
       "article": "die",
       "translation": {
@@ -2250,7 +2190,7 @@
       ]
     },
     {
-      "id": "b1-147",
+      "id": "b1-143",
       "word": "Wettbewerb",
       "article": "der",
       "translation": {
@@ -2265,7 +2205,7 @@
       ]
     },
     {
-      "id": "b1-148",
+      "id": "b1-144",
       "word": "Stimmung",
       "article": "die",
       "translation": {
@@ -2280,7 +2220,7 @@
       ]
     },
     {
-      "id": "b1-149",
+      "id": "b1-145",
       "word": "Eindruck",
       "article": "der",
       "translation": {
@@ -2295,7 +2235,7 @@
       ]
     },
     {
-      "id": "b1-150",
+      "id": "b1-146",
       "word": "Erinnerung",
       "article": "die",
       "translation": {
@@ -2310,7 +2250,7 @@
       ]
     },
     {
-      "id": "b1-151",
+      "id": "b1-147",
       "word": "Auswirkung",
       "article": "die",
       "translation": {
@@ -2325,7 +2265,7 @@
       ]
     },
     {
-      "id": "b1-152",
+      "id": "b1-148",
       "word": "Herausforderung",
       "article": "die",
       "translation": {
@@ -2340,7 +2280,7 @@
       ]
     },
     {
-      "id": "b1-153",
+      "id": "b1-149",
       "word": "Entwicklung",
       "article": "die",
       "translation": {
@@ -2355,7 +2295,7 @@
       ]
     },
     {
-      "id": "b1-154",
+      "id": "b1-150",
       "word": "Zusätzlich",
       "article": null,
       "translation": {
@@ -2370,7 +2310,7 @@
       ]
     },
     {
-      "id": "b1-155",
+      "id": "b1-151",
       "word": "Anleitung",
       "article": "die",
       "translation": {
@@ -2385,7 +2325,7 @@
       ]
     },
     {
-      "id": "b1-156",
+      "id": "b1-152",
       "word": "Enttäuschung",
       "article": "die",
       "translation": {
@@ -2400,7 +2340,7 @@
       ]
     },
     {
-      "id": "b1-157",
+      "id": "b1-153",
       "word": "Voraussetzung",
       "article": "die",
       "translation": {
@@ -2415,7 +2355,7 @@
       ]
     },
     {
-      "id": "b1-158",
+      "id": "b1-154",
       "word": "Beurteilung",
       "article": "die",
       "translation": {
@@ -2430,7 +2370,7 @@
       ]
     },
     {
-      "id": "b1-159",
+      "id": "b1-155",
       "word": "Aufmerksamkeit",
       "article": "die",
       "translation": {
@@ -2445,7 +2385,7 @@
       ]
     },
     {
-      "id": "b1-160",
+      "id": "b1-156",
       "word": "Geduld",
       "article": "die",
       "translation": {
@@ -2460,7 +2400,7 @@
       ]
     },
     {
-      "id": "b1-161",
+      "id": "b1-157",
       "word": "Gewohnheit",
       "article": "die",
       "translation": {
@@ -2475,7 +2415,7 @@
       ]
     },
     {
-      "id": "b1-162",
+      "id": "b1-158",
       "word": "Bewegung",
       "article": "die",
       "translation": {
@@ -2490,7 +2430,7 @@
       ]
     },
     {
-      "id": "b1-163",
+      "id": "b1-159",
       "word": "Unterhaltung",
       "article": "die",
       "translation": {
@@ -2505,7 +2445,7 @@
       ]
     },
     {
-      "id": "b1-164",
+      "id": "b1-160",
       "word": "Gleichgewicht",
       "article": "das",
       "translation": {
@@ -2520,7 +2460,7 @@
       ]
     },
     {
-      "id": "b1-165",
+      "id": "b1-161",
       "word": "Gesellschaft",
       "article": "die",
       "translation": {
@@ -2535,7 +2475,7 @@
       ]
     },
     {
-      "id": "b1-166",
+      "id": "b1-162",
       "word": "Schwierigkeit",
       "article": "die",
       "translation": {
@@ -2550,7 +2490,7 @@
       ]
     },
     {
-      "id": "b1-167",
+      "id": "b1-163",
       "word": "Grundstück",
       "article": "das",
       "translation": {
@@ -2565,7 +2505,7 @@
       ]
     },
     {
-      "id": "b1-168",
+      "id": "b1-164",
       "word": "Eigenschaft",
       "article": "die",
       "translation": {
@@ -2580,7 +2520,7 @@
       ]
     },
     {
-      "id": "b1-169",
+      "id": "b1-165",
       "word": "Bügelesen",
       "article": "das",
       "translation": {
@@ -2595,7 +2535,7 @@
       ]
     },
     {
-      "id": "b1-170",
+      "id": "b1-166",
       "word": "Wäschetrockner",
       "article": "der",
       "translation": {
@@ -2610,7 +2550,7 @@
       ]
     },
     {
-      "id": "b1-171",
+      "id": "b1-167",
       "word": "Schraubenzieher",
       "article": "der",
       "translation": {
@@ -2625,7 +2565,7 @@
       ]
     },
     {
-      "id": "b1-172",
+      "id": "b1-168",
       "word": "Wasserkocher",
       "article": "der",
       "translation": {
@@ -2640,7 +2580,7 @@
       ]
     },
     {
-      "id": "b1-173",
+      "id": "b1-169",
       "word": "Gefrierschrank",
       "article": "der",
       "translation": {
@@ -2655,7 +2595,7 @@
       ]
     },
     {
-      "id": "b1-174",
+      "id": "b1-170",
       "word": "Mülltrennung",
       "article": "die",
       "translation": {
@@ -2670,7 +2610,7 @@
       ]
     },
     {
-      "id": "b1-175",
+      "id": "b1-171",
       "word": "Sommerfest",
       "article": "das",
       "translation": {
@@ -2685,7 +2625,7 @@
       ]
     },
     {
-      "id": "b1-176",
+      "id": "b1-172",
       "word": "Weihnachtsmarkt",
       "article": "der",
       "translation": {
@@ -2700,7 +2640,7 @@
       ]
     },
     {
-      "id": "b1-177",
+      "id": "b1-173",
       "word": "Volksfest",
       "article": "das",
       "translation": {
@@ -2715,7 +2655,7 @@
       ]
     },
     {
-      "id": "b1-178",
+      "id": "b1-174",
       "word": "Sportwagen",
       "article": "der",
       "translation": {
@@ -2730,7 +2670,7 @@
       ]
     },
     {
-      "id": "b1-179",
+      "id": "b1-175",
       "word": "Fahrradweg",
       "article": "der",
       "translation": {
@@ -2745,7 +2685,7 @@
       ]
     },
     {
-      "id": "b1-180",
+      "id": "b1-176",
       "word": "Fußgängerzone",
       "article": "die",
       "translation": {
@@ -2760,7 +2700,7 @@
       ]
     },
     {
-      "id": "b1-181",
+      "id": "b1-177",
       "word": "Druckerei",
       "article": "die",
       "translation": {
@@ -2775,7 +2715,7 @@
       ]
     },
     {
-      "id": "b1-182",
+      "id": "b1-178",
       "word": "Mehrwertsteuer",
       "article": "die",
       "translation": {
@@ -2790,7 +2730,7 @@
       ]
     },
     {
-      "id": "b1-183",
+      "id": "b1-179",
       "word": "Garantie",
       "article": "die",
       "translation": {
@@ -2805,7 +2745,7 @@
       ]
     },
     {
-      "id": "b1-184",
+      "id": "b1-180",
       "word": "Lieferung",
       "article": "die",
       "translation": {
@@ -2820,7 +2760,7 @@
       ]
     },
     {
-      "id": "b1-185",
+      "id": "b1-181",
       "word": "Beschwerde",
       "article": "die",
       "translation": {
@@ -2835,7 +2775,7 @@
       ]
     },
     {
-      "id": "b1-186",
+      "id": "b1-182",
       "word": "Übergewicht",
       "article": "das",
       "translation": {
@@ -2850,7 +2790,7 @@
       ]
     },
     {
-      "id": "b1-187",
+      "id": "b1-183",
       "word": "Kreislauf",
       "article": "der",
       "translation": {
@@ -2865,7 +2805,7 @@
       ]
     },
     {
-      "id": "b1-188",
+      "id": "b1-184",
       "word": "Ernährungsberater",
       "article": "der",
       "translation": {
@@ -2880,7 +2820,7 @@
       ]
     },
     {
-      "id": "b1-189",
+      "id": "b1-185",
       "word": "Physiotherapie",
       "article": "die",
       "translation": {
@@ -2895,7 +2835,7 @@
       ]
     },
     {
-      "id": "b1-190",
+      "id": "b1-186",
       "word": "Kinderzimmer",
       "article": "das",
       "translation": {
@@ -2910,7 +2850,7 @@
       ]
     },
     {
-      "id": "b1-191",
+      "id": "b1-187",
       "word": "Arbeitszimmer",
       "article": "das",
       "translation": {
@@ -2925,7 +2865,7 @@
       ]
     },
     {
-      "id": "b1-192",
+      "id": "b1-188",
       "word": "Gartenzaun",
       "article": "der",
       "translation": {
@@ -2940,7 +2880,7 @@
       ]
     },
     {
-      "id": "b1-193",
+      "id": "b1-189",
       "word": "Blumenstrauß",
       "article": "der",
       "translation": {
@@ -2955,7 +2895,7 @@
       ]
     },
     {
-      "id": "b1-194",
+      "id": "b1-190",
       "word": "Sonnenuntergang",
       "article": "der",
       "translation": {
@@ -2970,7 +2910,7 @@
       ]
     },
     {
-      "id": "b1-195",
+      "id": "b1-191",
       "word": "Sonnenaufgang",
       "article": "der",
       "translation": {
@@ -2985,7 +2925,7 @@
       ]
     },
     {
-      "id": "b1-196",
+      "id": "b1-192",
       "word": "Vollmond",
       "article": "der",
       "translation": {
@@ -3000,7 +2940,7 @@
       ]
     },
     {
-      "id": "b1-197",
+      "id": "b1-193",
       "word": "Sternschnuppe",
       "article": "die",
       "translation": {
@@ -3015,7 +2955,7 @@
       ]
     },
     {
-      "id": "b1-198",
+      "id": "b1-194",
       "word": "Glatteis",
       "article": "das",
       "translation": {
@@ -3030,7 +2970,7 @@
       ]
     },
     {
-      "id": "b1-199",
+      "id": "b1-195",
       "word": "Schneesturm",
       "article": "der",
       "translation": {
@@ -3045,7 +2985,7 @@
       ]
     },
     {
-      "id": "b1-200",
+      "id": "b1-196",
       "word": "Hitzewelle",
       "article": "die",
       "translation": {
@@ -3060,7 +3000,7 @@
       ]
     },
     {
-      "id": "b1-201",
+      "id": "b1-197",
       "word": "Trockenheit",
       "article": "die",
       "translation": {
@@ -3075,7 +3015,7 @@
       ]
     },
     {
-      "id": "b1-202",
+      "id": "b1-198",
       "word": "Lebkuchen",
       "article": "der",
       "translation": {
@@ -3090,7 +3030,7 @@
       ]
     },
     {
-      "id": "b1-203",
+      "id": "b1-199",
       "word": "Zwetschge",
       "article": "die",
       "translation": {
@@ -3105,7 +3045,7 @@
       ]
     },
     {
-      "id": "b1-204",
+      "id": "b1-200",
       "word": "Meerrettich",
       "article": "der",
       "translation": {
@@ -3120,7 +3060,7 @@
       ]
     },
     {
-      "id": "b1-205",
+      "id": "b1-201",
       "word": "Rotkohl",
       "article": "der",
       "translation": {
@@ -3135,7 +3075,7 @@
       ]
     },
     {
-      "id": "b1-206",
+      "id": "b1-202",
       "word": "Sauerteig",
       "article": "der",
       "translation": {
@@ -3150,7 +3090,7 @@
       ]
     },
     {
-      "id": "b1-207",
+      "id": "b1-203",
       "word": "Nachtisch",
       "article": "der",
       "translation": {
@@ -3165,7 +3105,7 @@
       ]
     },
     {
-      "id": "b1-208",
+      "id": "b1-204",
       "word": "Bratkartoffeln",
       "article": null,
       "translation": {
@@ -3180,7 +3120,7 @@
       ]
     },
     {
-      "id": "b1-209",
+      "id": "b1-205",
       "word": "Erfrischungsgetränk",
       "article": "das",
       "translation": {
@@ -3195,7 +3135,7 @@
       ]
     },
     {
-      "id": "b1-210",
+      "id": "b1-206",
       "word": "Nacherziehung",
       "article": "die",
       "translation": {
@@ -3210,7 +3150,7 @@
       ]
     },
     {
-      "id": "b1-211",
+      "id": "b1-207",
       "word": "Schwiegermutter",
       "article": "die",
       "translation": {
@@ -3225,7 +3165,7 @@
       ]
     },
     {
-      "id": "b1-212",
+      "id": "b1-208",
       "word": "Schwiegervater",
       "article": "der",
       "translation": {
@@ -3240,7 +3180,7 @@
       ]
     },
     {
-      "id": "b1-213",
+      "id": "b1-209",
       "word": "Großfamilie",
       "article": "die",
       "translation": {
@@ -3255,7 +3195,7 @@
       ]
     },
     {
-      "id": "b1-214",
+      "id": "b1-210",
       "word": "Einzelkind",
       "article": "das",
       "translation": {
@@ -3270,7 +3210,7 @@
       ]
     },
     {
-      "id": "b1-215",
+      "id": "b1-211",
       "word": "Lebensversicherung",
       "article": "die",
       "translation": {
@@ -3285,7 +3225,7 @@
       ]
     },
     {
-      "id": "b1-216",
+      "id": "b1-212",
       "word": "Selbstständig",
       "article": null,
       "translation": {
@@ -3300,7 +3240,7 @@
       ]
     },
     {
-      "id": "b1-217",
+      "id": "b1-213",
       "word": "Wettervorhersage",
       "article": "die",
       "translation": {
@@ -3315,7 +3255,7 @@
       ]
     },
     {
-      "id": "b1-218",
+      "id": "b1-214",
       "word": "Tageszeitung",
       "article": "die",
       "translation": {
@@ -3330,7 +3270,7 @@
       ]
     },
     {
-      "id": "b1-219",
+      "id": "b1-215",
       "word": "Fußballplatz",
       "article": "der",
       "translation": {
@@ -3345,7 +3285,7 @@
       ]
     },
     {
-      "id": "b1-220",
+      "id": "b1-216",
       "word": "Eislaufen",
       "article": "das",
       "translation": {
@@ -3360,7 +3300,7 @@
       ]
     },
     {
-      "id": "b1-221",
+      "id": "b1-217",
       "word": "Kopfschmerztablette",
       "article": "die",
       "translation": {
@@ -3375,7 +3315,7 @@
       ]
     },
     {
-      "id": "b1-222",
+      "id": "b1-218",
       "word": "Sonnenbrand",
       "article": "der",
       "translation": {
@@ -3390,7 +3330,7 @@
       ]
     },
     {
-      "id": "b1-223",
+      "id": "b1-219",
       "word": "Halsschmerzen",
       "article": null,
       "translation": {
@@ -3405,7 +3345,7 @@
       ]
     },
     {
-      "id": "b1-224",
+      "id": "b1-220",
       "word": "Bauchschmerzen",
       "article": null,
       "translation": {
@@ -3420,7 +3360,7 @@
       ]
     },
     {
-      "id": "b1-225",
+      "id": "b1-221",
       "word": "Rückenschmerzen",
       "article": null,
       "translation": {
@@ -3435,7 +3375,7 @@
       ]
     },
     {
-      "id": "b1-226",
+      "id": "b1-222",
       "word": "Angestellte",
       "article": "der/die",
       "translation": {
@@ -3450,7 +3390,7 @@
       ]
     },
     {
-      "id": "b1-227",
+      "id": "b1-223",
       "word": "Bürgermeister",
       "article": "der",
       "translation": {
@@ -3465,7 +3405,7 @@
       ]
     },
     {
-      "id": "b1-228",
+      "id": "b1-224",
       "word": "Standesamt",
       "article": "das",
       "translation": {
@@ -3480,7 +3420,7 @@
       ]
     },
     {
-      "id": "b1-229",
+      "id": "b1-225",
       "word": "Getränkekarte",
       "article": "die",
       "translation": {
@@ -3495,7 +3435,7 @@
       ]
     },
     {
-      "id": "b1-230",
+      "id": "b1-226",
       "word": "Fleischerei",
       "article": "die",
       "translation": {
@@ -3510,7 +3450,7 @@
       ]
     },
     {
-      "id": "b1-231",
+      "id": "b1-227",
       "word": "Gemüsehändler",
       "article": "der",
       "translation": {
@@ -3522,6 +3462,2781 @@
       "difficulty": 4,
       "tags": [
         "substantiv"
+      ]
+    },
+    {
+      "id": "b1-228",
+      "word": "Arbeitsamt",
+      "article": "das",
+      "translation": {
+        "pt": "agência de emprego",
+        "en": "employment office"
+      },
+      "category": "arbeit",
+      "example": "Das Arbeitsamt hilft bei der Jobsuche.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-229",
+      "word": "Dienstplan",
+      "article": "der",
+      "translation": {
+        "pt": "escala de trabalho",
+        "en": "work schedule"
+      },
+      "category": "arbeit",
+      "example": "Der Dienstplan hängt am schwarzen Brett.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-230",
+      "word": "Schichtarbeit",
+      "article": "die",
+      "translation": {
+        "pt": "trabalho em turnos",
+        "en": "shift work"
+      },
+      "category": "arbeit",
+      "example": "Schichtarbeit ist anstrengend.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-231",
+      "word": "Fortbildung",
+      "article": "die",
+      "translation": {
+        "pt": "capacitação",
+        "en": "further training"
+      },
+      "category": "arbeit",
+      "example": "Die Fortbildung dauert zwei Wochen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-232",
+      "word": "Umschulung",
+      "article": "die",
+      "translation": {
+        "pt": "requalificação",
+        "en": "retraining"
+      },
+      "category": "arbeit",
+      "example": "Die Umschulung beginnt im Herbst.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-233",
+      "word": "Vollzeitstelle",
+      "article": "die",
+      "translation": {
+        "pt": "vaga integral",
+        "en": "full-time position"
+      },
+      "category": "arbeit",
+      "example": "Ich suche eine Vollzeitstelle.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-234",
+      "word": "Teilzeitstelle",
+      "article": "die",
+      "translation": {
+        "pt": "vaga parcial",
+        "en": "part-time position"
+      },
+      "category": "arbeit",
+      "example": "Sie arbeitet in einer Teilzeitstelle.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-235",
+      "word": "Bewerbungsfoto",
+      "article": "das",
+      "translation": {
+        "pt": "foto de currículo",
+        "en": "application photo"
+      },
+      "category": "arbeit",
+      "example": "Das Bewerbungsfoto ist aktuell.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-236",
+      "word": "Arbeitsvertrag",
+      "article": "der",
+      "translation": {
+        "pt": "contrato de trabalho",
+        "en": "employment contract"
+      },
+      "category": "arbeit",
+      "example": "Der Arbeitsvertrag wurde unterschrieben.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-237",
+      "word": "Probezeit",
+      "article": "die",
+      "translation": {
+        "pt": "período de experiência",
+        "en": "probation period"
+      },
+      "category": "arbeit",
+      "example": "Die Probezeit dauert sechs Monate.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-238",
+      "word": "Anreise",
+      "article": "die",
+      "translation": {
+        "pt": "ida/chegada da viagem",
+        "en": "journey to destination"
+      },
+      "category": "reisen",
+      "example": "Die Anreise war lang.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-239",
+      "word": "Abreise",
+      "article": "die",
+      "translation": {
+        "pt": "partida da viagem",
+        "en": "departure from destination"
+      },
+      "category": "reisen",
+      "example": "Die Abreise ist am Sonntag.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-240",
+      "word": "Reisebudget",
+      "article": "das",
+      "translation": {
+        "pt": "orçamento de viagem",
+        "en": "travel budget"
+      },
+      "category": "reisen",
+      "example": "Das Reisebudget ist begrenzt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-241",
+      "word": "Stadtführung",
+      "article": "die",
+      "translation": {
+        "pt": "tour guiado pela cidade",
+        "en": "city tour"
+      },
+      "category": "reisen",
+      "example": "Die Stadtführung war interessant.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-242",
+      "word": "Tagesausflug",
+      "article": "der",
+      "translation": {
+        "pt": "passeio de um dia",
+        "en": "day trip"
+      },
+      "category": "reisen",
+      "example": "Der Tagesausflug war schön.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-243",
+      "word": "Umleitung",
+      "article": "die",
+      "translation": {
+        "pt": "desvio",
+        "en": "detour"
+      },
+      "category": "reisen",
+      "example": "Wegen Bauarbeiten gibt es eine Umleitung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-244",
+      "word": "Fahrscheinautomat",
+      "article": "der",
+      "translation": {
+        "pt": "máquina de bilhetes",
+        "en": "ticket machine"
+      },
+      "category": "reisen",
+      "example": "Der Fahrscheinautomat ist defekt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-245",
+      "word": "Sitzplatz",
+      "article": "der",
+      "translation": {
+        "pt": "assento",
+        "en": "seat"
+      },
+      "category": "reisen",
+      "example": "Mein Sitzplatz ist am Fenster.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-246",
+      "word": "Wohnungsbesichtigung",
+      "article": "die",
+      "translation": {
+        "pt": "visita ao apartamento",
+        "en": "apartment viewing"
+      },
+      "category": "wohnen",
+      "example": "Die Wohnungsbesichtigung ist morgen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-247",
+      "word": "Hausordnung",
+      "article": "die",
+      "translation": {
+        "pt": "regras do prédio",
+        "en": "house rules"
+      },
+      "category": "wohnen",
+      "example": "Bitte lesen Sie die Hausordnung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-248",
+      "word": "Mietminderung",
+      "article": "die",
+      "translation": {
+        "pt": "redução do aluguel",
+        "en": "rent reduction"
+      },
+      "category": "wohnen",
+      "example": "Wegen des Schadens gibt es Mietminderung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-249",
+      "word": "Stromanbieter",
+      "article": "der",
+      "translation": {
+        "pt": "fornecedor de energia",
+        "en": "electricity provider"
+      },
+      "category": "wohnen",
+      "example": "Der Stromanbieter wurde gewechselt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-250",
+      "word": "Wasserhahn",
+      "article": "der",
+      "translation": {
+        "pt": "torneira",
+        "en": "tap"
+      },
+      "category": "wohnen",
+      "example": "Der Wasserhahn tropft.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-251",
+      "word": "Hausmeister",
+      "article": "der",
+      "translation": {
+        "pt": "zelador",
+        "en": "caretaker"
+      },
+      "category": "wohnen",
+      "example": "Der Hausmeister repariert die Tür.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-252",
+      "word": "Kellerraum",
+      "article": "der",
+      "translation": {
+        "pt": "depósito no porão",
+        "en": "storage cellar"
+      },
+      "category": "wohnen",
+      "example": "Der Kellerraum ist trocken.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-253",
+      "word": "Wohnblock",
+      "article": "der",
+      "translation": {
+        "pt": "bloco residencial",
+        "en": "apartment block"
+      },
+      "category": "wohnen",
+      "example": "Der Wohnblock ist neu gebaut.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-254",
+      "word": "Möbelhaus",
+      "article": "das",
+      "translation": {
+        "pt": "loja de móveis",
+        "en": "furniture store"
+      },
+      "category": "wohnen",
+      "example": "Das Möbelhaus hat viele Angebote.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-255",
+      "word": "Wohnheim",
+      "article": "das",
+      "translation": {
+        "pt": "alojamento estudantil",
+        "en": "dormitory"
+      },
+      "category": "wohnen",
+      "example": "Sie wohnt im Wohnheim.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-256",
+      "word": "Brettspiel",
+      "article": "das",
+      "translation": {
+        "pt": "jogo de tabuleiro",
+        "en": "board game"
+      },
+      "category": "freizeit",
+      "example": "Wir spielen ein Brettspiel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-257",
+      "word": "Hörbuch",
+      "article": "das",
+      "translation": {
+        "pt": "audiolivro",
+        "en": "audiobook"
+      },
+      "category": "freizeit",
+      "example": "Ich höre ein Hörbuch.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-258",
+      "word": "Lesung",
+      "article": "die",
+      "translation": {
+        "pt": "leitura pública",
+        "en": "reading event"
+      },
+      "category": "freizeit",
+      "example": "Die Lesung war gut besucht.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-259",
+      "word": "Stadtfest",
+      "article": "das",
+      "translation": {
+        "pt": "festa da cidade",
+        "en": "city festival"
+      },
+      "category": "freizeit",
+      "example": "Das Stadtfest beginnt am Freitag.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-260",
+      "word": "Vereinsmitglied",
+      "article": "das",
+      "translation": {
+        "pt": "membro de clube",
+        "en": "club member"
+      },
+      "category": "freizeit",
+      "example": "Er ist langjähriges Vereinsmitglied.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-261",
+      "word": "Freizeitpark",
+      "article": "der",
+      "translation": {
+        "pt": "parque de diversão",
+        "en": "amusement park"
+      },
+      "category": "freizeit",
+      "example": "Der Freizeitpark ist sehr groß.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-262",
+      "word": "Malkurs",
+      "article": "der",
+      "translation": {
+        "pt": "curso de pintura",
+        "en": "painting course"
+      },
+      "category": "freizeit",
+      "example": "Der Malkurs findet abends statt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-263",
+      "word": "Schauspieler",
+      "article": "der",
+      "translation": {
+        "pt": "ator",
+        "en": "actor"
+      },
+      "category": "freizeit",
+      "example": "Der Schauspieler ist berühmt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-264",
+      "word": "Regisseurin",
+      "article": "die",
+      "translation": {
+        "pt": "diretora de cinema",
+        "en": "film director (f)"
+      },
+      "category": "freizeit",
+      "example": "Die Regisseurin stellt den Film vor.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-265",
+      "word": "Krankschreibung",
+      "article": "die",
+      "translation": {
+        "pt": "atestado médico",
+        "en": "sick note"
+      },
+      "category": "gesundheit",
+      "example": "Ich brauche eine Krankschreibung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-266",
+      "word": "Hausmittel",
+      "article": "das",
+      "translation": {
+        "pt": "remédio caseiro",
+        "en": "home remedy"
+      },
+      "category": "gesundheit",
+      "example": "Tee ist ein gutes Hausmittel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-267",
+      "word": "Schmerzmittel",
+      "article": "das",
+      "translation": {
+        "pt": "analgésico",
+        "en": "painkiller"
+      },
+      "category": "gesundheit",
+      "example": "Nehmen Sie ein Schmerzmittel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-268",
+      "word": "Vorsorge",
+      "article": "die",
+      "translation": {
+        "pt": "prevenção",
+        "en": "prevention"
+      },
+      "category": "gesundheit",
+      "example": "Vorsorge ist wichtig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-269",
+      "word": "Impfpass",
+      "article": "der",
+      "translation": {
+        "pt": "carteira de vacinação",
+        "en": "vaccination card"
+      },
+      "category": "gesundheit",
+      "example": "Der Impfpass liegt zu Hause.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-270",
+      "word": "Sprechzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "consultório",
+        "en": "consulting room"
+      },
+      "category": "gesundheit",
+      "example": "Bitte warten Sie im Sprechzimmer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-271",
+      "word": "Arzthelferin",
+      "article": "die",
+      "translation": {
+        "pt": "assistente médica",
+        "en": "medical assistant"
+      },
+      "category": "gesundheit",
+      "example": "Die Arzthelferin ruft meinen Namen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-272",
+      "word": "Krankenkasse",
+      "article": "die",
+      "translation": {
+        "pt": "plano de saúde",
+        "en": "health insurance"
+      },
+      "category": "gesundheit",
+      "example": "Die Krankenkasse übernimmt die Kosten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-273",
+      "word": "Blutprobe",
+      "article": "die",
+      "translation": {
+        "pt": "exame de sangue",
+        "en": "blood sample"
+      },
+      "category": "gesundheit",
+      "example": "Die Blutprobe wird analysiert.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-274",
+      "word": "Kundenkarte",
+      "article": "die",
+      "translation": {
+        "pt": "cartão de cliente",
+        "en": "loyalty card"
+      },
+      "category": "einkaufen",
+      "example": "Haben Sie eine Kundenkarte?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-275",
+      "word": "Versandkosten",
+      "article": null,
+      "translation": {
+        "pt": "custos de envio",
+        "en": "shipping costs"
+      },
+      "category": "einkaufen",
+      "example": "Die Versandkosten sind hoch.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-276",
+      "word": "Kaufbeleg",
+      "article": "der",
+      "translation": {
+        "pt": "comprovante de compra",
+        "en": "proof of purchase"
+      },
+      "category": "einkaufen",
+      "example": "Ohne Kaufbeleg kein Umtausch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-277",
+      "word": "Ladenschluss",
+      "article": "der",
+      "translation": {
+        "pt": "fechamento da loja",
+        "en": "store closing time"
+      },
+      "category": "einkaufen",
+      "example": "Der Ladenschluss ist um 20 Uhr.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-278",
+      "word": "Umtauschfrist",
+      "article": "die",
+      "translation": {
+        "pt": "prazo de troca",
+        "en": "return period"
+      },
+      "category": "einkaufen",
+      "example": "Die Umtauschfrist beträgt zwei Wochen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-279",
+      "word": "Kreditkarte",
+      "article": "die",
+      "translation": {
+        "pt": "cartão de crédito",
+        "en": "credit card"
+      },
+      "category": "einkaufen",
+      "example": "Ich bezahle mit Kreditkarte.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-280",
+      "word": "Bargeld",
+      "article": "das",
+      "translation": {
+        "pt": "dinheiro em espécie",
+        "en": "cash"
+      },
+      "category": "einkaufen",
+      "example": "Ich habe kein Bargeld dabei.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-281",
+      "word": "Rückgabe",
+      "article": "die",
+      "translation": {
+        "pt": "devolução",
+        "en": "return"
+      },
+      "category": "einkaufen",
+      "example": "Die Rückgabe ist möglich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-282",
+      "word": "Lieferdienst",
+      "article": "der",
+      "translation": {
+        "pt": "serviço de entrega",
+        "en": "delivery service"
+      },
+      "category": "einkaufen",
+      "example": "Der Lieferdienst kommt pünktlich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-283",
+      "word": "Lerngruppe",
+      "article": "die",
+      "translation": {
+        "pt": "grupo de estudo",
+        "en": "study group"
+      },
+      "category": "schule",
+      "example": "Unsere Lerngruppe trifft sich mittwochs.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-284",
+      "word": "Nachhilfe",
+      "article": "die",
+      "translation": {
+        "pt": "aula particular",
+        "en": "tutoring"
+      },
+      "category": "schule",
+      "example": "Ich nehme Nachhilfe in Mathe.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-285",
+      "word": "Unterrichtsstoff",
+      "article": "der",
+      "translation": {
+        "pt": "conteúdo da aula",
+        "en": "course material"
+      },
+      "category": "schule",
+      "example": "Der Unterrichtsstoff ist umfangreich.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-286",
+      "word": "Klausurphase",
+      "article": "die",
+      "translation": {
+        "pt": "período de provas",
+        "en": "exam period"
+      },
+      "category": "schule",
+      "example": "In der Klausurphase lerne ich viel.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-287",
+      "word": "Lernmethode",
+      "article": "die",
+      "translation": {
+        "pt": "método de estudo",
+        "en": "learning method"
+      },
+      "category": "schule",
+      "example": "Diese Lernmethode hilft mir.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-288",
+      "word": "Dozent",
+      "article": "der",
+      "translation": {
+        "pt": "docente",
+        "en": "lecturer"
+      },
+      "category": "schule",
+      "example": "Der Dozent erklärt gut.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-289",
+      "word": "Seminar",
+      "article": "das",
+      "translation": {
+        "pt": "seminário",
+        "en": "seminar"
+      },
+      "category": "schule",
+      "example": "Das Seminar startet um zehn.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-290",
+      "word": "Referat",
+      "article": "das",
+      "translation": {
+        "pt": "apresentação",
+        "en": "presentation"
+      },
+      "category": "schule",
+      "example": "Mein Referat ist nächste Woche.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-291",
+      "word": "Lernziel",
+      "article": "das",
+      "translation": {
+        "pt": "objetivo de aprendizagem",
+        "en": "learning goal"
+      },
+      "category": "schule",
+      "example": "Das Lernziel ist klar.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-292",
+      "word": "Wörterheft",
+      "article": "das",
+      "translation": {
+        "pt": "caderno de vocabulário",
+        "en": "vocabulary notebook"
+      },
+      "category": "schule",
+      "example": "Ich schreibe neue Wörter ins Wörterheft.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-293",
+      "word": "Luftfeuchtigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "umidade do ar",
+        "en": "humidity"
+      },
+      "category": "natur",
+      "example": "Die Luftfeuchtigkeit ist hoch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-294",
+      "word": "Sonnenschein",
+      "article": "der",
+      "translation": {
+        "pt": "luz do sol",
+        "en": "sunshine"
+      },
+      "category": "natur",
+      "example": "Der Sonnenschein tut gut.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-295",
+      "word": "Unwetterwarnung",
+      "article": "die",
+      "translation": {
+        "pt": "alerta de tempestade",
+        "en": "severe weather warning"
+      },
+      "category": "natur",
+      "example": "Es gibt eine Unwetterwarnung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-296",
+      "word": "Wasserstand",
+      "article": "der",
+      "translation": {
+        "pt": "nível da água",
+        "en": "water level"
+      },
+      "category": "natur",
+      "example": "Der Wasserstand steigt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-297",
+      "word": "Waldbrand",
+      "article": "der",
+      "translation": {
+        "pt": "incêndio florestal",
+        "en": "forest fire"
+      },
+      "category": "natur",
+      "example": "Der Waldbrand wurde gelöscht.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-298",
+      "word": "Tierheim",
+      "article": "das",
+      "translation": {
+        "pt": "abrigo de animais",
+        "en": "animal shelter"
+      },
+      "category": "natur",
+      "example": "Das Tierheim sucht Hilfe.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-299",
+      "word": "Morgensonne",
+      "article": "die",
+      "translation": {
+        "pt": "sol da manhã",
+        "en": "morning sun"
+      },
+      "category": "natur",
+      "example": "Die Morgensonne ist wunderschön.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-300",
+      "word": "Abendhimmel",
+      "article": "der",
+      "translation": {
+        "pt": "céu da tarde/noite",
+        "en": "evening sky"
+      },
+      "category": "natur",
+      "example": "Der Abendhimmel ist rot.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-301",
+      "word": "Gewitterwolke",
+      "article": "die",
+      "translation": {
+        "pt": "nuvem de tempestade",
+        "en": "thundercloud"
+      },
+      "category": "natur",
+      "example": "Eine Gewitterwolke zieht auf.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-302",
+      "word": "obwohl",
+      "article": null,
+      "translation": {
+        "pt": "embora",
+        "en": "although"
+      },
+      "category": "schule",
+      "example": "Obwohl es regnet, gehen wir spazieren.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-303",
+      "word": "deshalb",
+      "article": null,
+      "translation": {
+        "pt": "por isso",
+        "en": "therefore"
+      },
+      "category": "schule",
+      "example": "Ich bin müde, deshalb schlafe ich früh.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-304",
+      "word": "trotzdem",
+      "article": null,
+      "translation": {
+        "pt": "mesmo assim",
+        "en": "nevertheless"
+      },
+      "category": "schule",
+      "example": "Es war schwer, trotzdem habe ich bestanden.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-305",
+      "word": "während",
+      "article": null,
+      "translation": {
+        "pt": "durante/enquanto",
+        "en": "during/while"
+      },
+      "category": "schule",
+      "example": "Während des Unterrichts darf man nicht telefonieren.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-306",
+      "word": "nachdem",
+      "article": null,
+      "translation": {
+        "pt": "depois que",
+        "en": "after"
+      },
+      "category": "schule",
+      "example": "Nachdem ich gegessen habe, lerne ich.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-307",
+      "word": "seitdem",
+      "article": null,
+      "translation": {
+        "pt": "desde então",
+        "en": "since then"
+      },
+      "category": "schule",
+      "example": "Seitdem gehe ich früher schlafen.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-308",
+      "word": "damit",
+      "article": null,
+      "translation": {
+        "pt": "para que/com isso",
+        "en": "so that"
+      },
+      "category": "schule",
+      "example": "Ich lerne viel, damit ich die Prüfung bestehe.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-309",
+      "word": "falls",
+      "article": null,
+      "translation": {
+        "pt": "caso",
+        "en": "in case"
+      },
+      "category": "schule",
+      "example": "Falls du Hilfe brauchst, ruf mich an.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-310",
+      "word": "entweder",
+      "article": null,
+      "translation": {
+        "pt": "ou... ou",
+        "en": "either"
+      },
+      "category": "schule",
+      "example": "Entweder wir fahren heute oder morgen.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-311",
+      "word": "weder",
+      "article": null,
+      "translation": {
+        "pt": "nem",
+        "en": "neither"
+      },
+      "category": "schule",
+      "example": "Weder Kaffee noch Tee schmeckt ihm.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-312",
+      "word": "sowohl",
+      "article": null,
+      "translation": {
+        "pt": "tanto... como",
+        "en": "both"
+      },
+      "category": "schule",
+      "example": "Sie spricht sowohl Deutsch als auch Englisch.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-313",
+      "word": "statt",
+      "article": null,
+      "translation": {
+        "pt": "em vez de",
+        "en": "instead of"
+      },
+      "category": "schule",
+      "example": "Ich gehe zu Fuß statt mit dem Bus.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-314",
+      "word": "trotz",
+      "article": null,
+      "translation": {
+        "pt": "apesar de",
+        "en": "despite"
+      },
+      "category": "schule",
+      "example": "Trotz des Regens gehen wir raus.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-315",
+      "word": "wegen",
+      "article": null,
+      "translation": {
+        "pt": "por causa de",
+        "en": "because of"
+      },
+      "category": "schule",
+      "example": "Wegen der Grippe bleibt er zu Hause.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-316",
+      "word": "gegenüber",
+      "article": null,
+      "translation": {
+        "pt": "em frente a",
+        "en": "opposite to"
+      },
+      "category": "schule",
+      "example": "Die Schule liegt gegenüber dem Park.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-317",
+      "word": "entlang",
+      "article": null,
+      "translation": {
+        "pt": "ao longo de",
+        "en": "along"
+      },
+      "category": "schule",
+      "example": "Wir gehen den Fluss entlang.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-318",
+      "word": "innerhalb",
+      "article": null,
+      "translation": {
+        "pt": "dentro de",
+        "en": "within"
+      },
+      "category": "schule",
+      "example": "Bitte antworten Sie innerhalb einer Woche.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-319",
+      "word": "außerhalb",
+      "article": null,
+      "translation": {
+        "pt": "fora de",
+        "en": "outside of"
+      },
+      "category": "schule",
+      "example": "Außerhalb der Stadt ist es ruhiger.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-320",
+      "word": "anstatt",
+      "article": null,
+      "translation": {
+        "pt": "ao invés de",
+        "en": "instead of"
+      },
+      "category": "schule",
+      "example": "Anstatt zu lernen, spielt er am Handy.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-321",
+      "word": "nämlich",
+      "article": null,
+      "translation": {
+        "pt": "ou seja",
+        "en": "namely"
+      },
+      "category": "schule",
+      "example": "Ich komme später, nämlich um neun.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-322",
+      "word": "sonst",
+      "article": null,
+      "translation": {
+        "pt": "senão/caso contrário",
+        "en": "otherwise"
+      },
+      "category": "schule",
+      "example": "Lern jetzt, sonst wird es schwierig.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-323",
+      "word": "bisher",
+      "article": null,
+      "translation": {
+        "pt": "até agora",
+        "en": "so far"
+      },
+      "category": "schule",
+      "example": "Bisher war der Kurs sehr gut.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-324",
+      "word": "demnächst",
+      "article": null,
+      "translation": {
+        "pt": "em breve",
+        "en": "soon"
+      },
+      "category": "schule",
+      "example": "Demnächst beginnt ein neuer Kurs.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-325",
+      "word": "täglich",
+      "article": null,
+      "translation": {
+        "pt": "diariamente",
+        "en": "daily"
+      },
+      "category": "schule",
+      "example": "Ich wiederhole täglich zehn Wörter.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-326",
+      "word": "mehrmals",
+      "article": null,
+      "translation": {
+        "pt": "várias vezes",
+        "en": "several times"
+      },
+      "category": "schule",
+      "example": "Wir üben mehrmals pro Woche.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-327",
+      "word": "insgesamt",
+      "article": null,
+      "translation": {
+        "pt": "no total",
+        "en": "in total"
+      },
+      "category": "schule",
+      "example": "Insgesamt waren 20 Personen da.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-328",
+      "word": "allerdings",
+      "article": null,
+      "translation": {
+        "pt": "contudo",
+        "en": "however"
+      },
+      "category": "schule",
+      "example": "Der Kurs ist gut, allerdings teuer.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-329",
+      "word": "außerdem",
+      "article": null,
+      "translation": {
+        "pt": "além disso",
+        "en": "besides"
+      },
+      "category": "schule",
+      "example": "Außerdem brauche ich ein Wörterbuch.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-330",
+      "word": "sobald",
+      "article": null,
+      "translation": {
+        "pt": "assim que",
+        "en": "as soon as"
+      },
+      "category": "schule",
+      "example": "Sobald ich Zeit habe, melde ich mich.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-331",
+      "word": "solange",
+      "article": null,
+      "translation": {
+        "pt": "enquanto",
+        "en": "as long as"
+      },
+      "category": "schule",
+      "example": "Du kannst bleiben, solange du willst.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-332",
+      "word": "wodurch",
+      "article": null,
+      "translation": {
+        "pt": "pelo qual/por meio do qual",
+        "en": "whereby"
+      },
+      "category": "schule",
+      "example": "Er erklärt, wodurch der Fehler entsteht.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-333",
+      "word": "hingegen",
+      "article": null,
+      "translation": {
+        "pt": "por outro lado",
+        "en": "on the other hand"
+      },
+      "category": "schule",
+      "example": "Er lernt gern, seine Schwester hingegen nicht.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-334",
+      "word": "folglich",
+      "article": null,
+      "translation": {
+        "pt": "consequentemente",
+        "en": "consequently"
+      },
+      "category": "schule",
+      "example": "Die Regeln sind klar, folglich gibt es weniger Fehler.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-335",
+      "word": "somit",
+      "article": null,
+      "translation": {
+        "pt": "assim",
+        "en": "thus"
+      },
+      "category": "schule",
+      "example": "Wir haben genug geübt, somit sind wir bereit.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-336",
+      "word": "insofern",
+      "article": null,
+      "translation": {
+        "pt": "nesse sentido",
+        "en": "insofar"
+      },
+      "category": "schule",
+      "example": "Insofern war die Entscheidung richtig.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-337",
+      "word": "dennoch",
+      "article": null,
+      "translation": {
+        "pt": "ainda assim",
+        "en": "nevertheless"
+      },
+      "category": "schule",
+      "example": "Die Aufgabe war schwer, dennoch schafften wir sie.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-338",
+      "word": "indem",
+      "article": null,
+      "translation": {
+        "pt": "ao/por meio de",
+        "en": "by doing"
+      },
+      "category": "schule",
+      "example": "Man lernt schneller, indem man täglich übt.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-339",
+      "word": "inwieweit",
+      "article": null,
+      "translation": {
+        "pt": "até que ponto",
+        "en": "to what extent"
+      },
+      "category": "schule",
+      "example": "Inwieweit hilft diese Methode?",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-340",
+      "word": "wohingegen",
+      "article": null,
+      "translation": {
+        "pt": "ao passo que",
+        "en": "whereas"
+      },
+      "category": "schule",
+      "example": "Er mag Mathe, wohingegen sie Sprachen bevorzugt.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-341",
+      "word": "angesichts",
+      "article": null,
+      "translation": {
+        "pt": "diante de",
+        "en": "in view of"
+      },
+      "category": "schule",
+      "example": "Angesichts der Lage müssen wir planen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-342",
+      "word": "mittels",
+      "article": null,
+      "translation": {
+        "pt": "por meio de",
+        "en": "by means of"
+      },
+      "category": "schule",
+      "example": "Die Daten wurden mittels Software analysiert.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-343",
+      "word": "gemäß",
+      "article": null,
+      "translation": {
+        "pt": "conforme",
+        "en": "according to"
+      },
+      "category": "schule",
+      "example": "Gemäß dem Plan beginnen wir pünktlich.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-344",
+      "word": "seitens",
+      "article": null,
+      "translation": {
+        "pt": "da parte de",
+        "en": "on the part of"
+      },
+      "category": "arbeit",
+      "example": "Seitens der Firma gab es eine Rückmeldung.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-345",
+      "word": "zugunsten",
+      "article": null,
+      "translation": {
+        "pt": "em favor de",
+        "en": "in favor of"
+      },
+      "category": "arbeit",
+      "example": "Die Entscheidung fiel zugunsten der Kandidatin.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-346",
+      "word": "zulasten",
+      "article": null,
+      "translation": {
+        "pt": "às custas de",
+        "en": "at the expense of"
+      },
+      "category": "arbeit",
+      "example": "Das ging zulasten der Qualität.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-347",
+      "word": "hinsichtlich",
+      "article": null,
+      "translation": {
+        "pt": "quanto a",
+        "en": "regarding"
+      },
+      "category": "arbeit",
+      "example": "Hinsichtlich der Frist gibt es Fragen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-348",
+      "word": "bezüglich",
+      "article": null,
+      "translation": {
+        "pt": "a respeito de",
+        "en": "with regard to"
+      },
+      "category": "arbeit",
+      "example": "Bezüglich des Projekts treffen wir uns morgen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-349",
+      "word": "mangels",
+      "article": null,
+      "translation": {
+        "pt": "por falta de",
+        "en": "for lack of"
+      },
+      "category": "arbeit",
+      "example": "Mangels Zeit verschieben wir den Termin.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-350",
+      "word": "kraft",
+      "article": null,
+      "translation": {
+        "pt": "com base em",
+        "en": "by virtue of"
+      },
+      "category": "arbeit",
+      "example": "Kraft Gesetzes gilt diese Regel.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-351",
+      "word": "stattdessen",
+      "article": null,
+      "translation": {
+        "pt": "em vez disso",
+        "en": "instead"
+      },
+      "category": "schule",
+      "example": "Wir gingen nicht ins Kino, stattdessen lernten wir.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-352",
+      "word": "dagegen",
+      "article": null,
+      "translation": {
+        "pt": "por outro lado/contra isso",
+        "en": "in contrast/against it"
+      },
+      "category": "schule",
+      "example": "Ich bin dafür, er ist dagegen.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-353",
+      "word": "hierdurch",
+      "article": null,
+      "translation": {
+        "pt": "por meio disto",
+        "en": "hereby"
+      },
+      "category": "schule",
+      "example": "Hierdurch bestätigen wir den Termin.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-354",
+      "word": "ferner",
+      "article": null,
+      "translation": {
+        "pt": "ademais",
+        "en": "furthermore"
+      },
+      "category": "schule",
+      "example": "Ferner sollten wir die Regeln wiederholen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-355",
+      "word": "einerseits",
+      "article": null,
+      "translation": {
+        "pt": "por um lado",
+        "en": "on the one hand"
+      },
+      "category": "schule",
+      "example": "Einerseits ist es praktisch, andererseits teuer.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-356",
+      "word": "andererseits",
+      "article": null,
+      "translation": {
+        "pt": "por outro lado",
+        "en": "on the other hand"
+      },
+      "category": "schule",
+      "example": "Andererseits haben wir keine Alternative.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-357",
+      "word": "je...desto",
+      "article": null,
+      "translation": {
+        "pt": "quanto... tanto",
+        "en": "the...the"
+      },
+      "category": "schule",
+      "example": "Je mehr du übst, desto besser wirst du.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-358",
+      "word": "sodass",
+      "article": null,
+      "translation": {
+        "pt": "de modo que",
+        "en": "so that"
+      },
+      "category": "schule",
+      "example": "Er sprach langsam, sodass alle ihn verstanden.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-359",
+      "word": "weshalb",
+      "article": null,
+      "translation": {
+        "pt": "por isso/por que",
+        "en": "which is why"
+      },
+      "category": "schule",
+      "example": "Es war spät, weshalb wir gingen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-360",
+      "word": "weswegen",
+      "article": null,
+      "translation": {
+        "pt": "por causa de que",
+        "en": "for which reason"
+      },
+      "category": "schule",
+      "example": "Der Zug fiel aus, weswegen wir warteten.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-361",
+      "word": "obendrein",
+      "article": null,
+      "translation": {
+        "pt": "além disso",
+        "en": "on top of that"
+      },
+      "category": "schule",
+      "example": "Der Kurs ist gut und obendrein günstig.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-362",
+      "word": "überdies",
+      "article": null,
+      "translation": {
+        "pt": "além disso",
+        "en": "moreover"
+      },
+      "category": "schule",
+      "example": "Überdies ist das Material kostenlos.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-363",
+      "word": "zuzüglich",
+      "article": null,
+      "translation": {
+        "pt": "acrescido de",
+        "en": "plus"
+      },
+      "category": "einkaufen",
+      "example": "Der Preis gilt zuzüglich Versandkosten.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-364",
+      "word": "abzüglich",
+      "article": null,
+      "translation": {
+        "pt": "menos",
+        "en": "minus"
+      },
+      "category": "einkaufen",
+      "example": "Abzüglich Rabatt zahlen wir weniger.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-365",
+      "word": "voraussichtlich",
+      "article": null,
+      "translation": {
+        "pt": "provavelmente",
+        "en": "presumably"
+      },
+      "category": "reisen",
+      "example": "Der Zug kommt voraussichtlich pünktlich.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-366",
+      "word": "Stellungnahme",
+      "article": "die",
+      "translation": {
+        "pt": "posicionamento",
+        "en": "statement/opinion"
+      },
+      "category": "schule",
+      "example": "Schreiben Sie eine Stellungnahme zum Thema.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-367",
+      "word": "Sachverhalt",
+      "article": "der",
+      "translation": {
+        "pt": "fato/situação",
+        "en": "matter/facts"
+      },
+      "category": "schule",
+      "example": "Der Sachverhalt ist kompliziert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-368",
+      "word": "Behauptung",
+      "article": "die",
+      "translation": {
+        "pt": "afirmação",
+        "en": "claim"
+      },
+      "category": "schule",
+      "example": "Diese Behauptung ist nicht belegt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-369",
+      "word": "Begründung",
+      "article": "die",
+      "translation": {
+        "pt": "justificativa",
+        "en": "justification"
+      },
+      "category": "schule",
+      "example": "Gib eine kurze Begründung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-370",
+      "word": "Gegenargument",
+      "article": "das",
+      "translation": {
+        "pt": "contra-argumento",
+        "en": "counterargument"
+      },
+      "category": "schule",
+      "example": "Nenne ein Gegenargument.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-371",
+      "word": "Umfrage",
+      "article": "die",
+      "translation": {
+        "pt": "pesquisa",
+        "en": "survey"
+      },
+      "category": "schule",
+      "example": "Die Umfrage zeigt klare Ergebnisse.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-372",
+      "word": "Statistik",
+      "article": "die",
+      "translation": {
+        "pt": "estatística",
+        "en": "statistics"
+      },
+      "category": "schule",
+      "example": "Die Statistik ist eindeutig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-373",
+      "word": "Durchschnitt",
+      "article": "der",
+      "translation": {
+        "pt": "média",
+        "en": "average"
+      },
+      "category": "schule",
+      "example": "Der Durchschnitt ist gestiegen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-374",
+      "word": "Zunahme",
+      "article": "die",
+      "translation": {
+        "pt": "aumento",
+        "en": "increase"
+      },
+      "category": "schule",
+      "example": "Es gibt eine Zunahme der Nachfrage.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-375",
+      "word": "Abnahme",
+      "article": "die",
+      "translation": {
+        "pt": "redução",
+        "en": "decrease"
+      },
+      "category": "schule",
+      "example": "Die Abnahme war deutlich.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-376",
+      "word": "Maßnahme",
+      "article": "die",
+      "translation": {
+        "pt": "medida",
+        "en": "measure"
+      },
+      "category": "arbeit",
+      "example": "Die Maßnahme war notwendig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-377",
+      "word": "Vorschlag",
+      "article": "der",
+      "translation": {
+        "pt": "sugestão",
+        "en": "proposal"
+      },
+      "category": "arbeit",
+      "example": "Ich habe einen Vorschlag.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-378",
+      "word": "Lösungsvorschlag",
+      "article": "der",
+      "translation": {
+        "pt": "proposta de solução",
+        "en": "proposed solution"
+      },
+      "category": "arbeit",
+      "example": "Der Lösungsvorschlag ist praktikabel.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-379",
+      "word": "Vorteil",
+      "article": "der",
+      "translation": {
+        "pt": "vantagem",
+        "en": "advantage"
+      },
+      "category": "schule",
+      "example": "Ein Vorteil ist die Flexibilität.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-380",
+      "word": "Nachteil",
+      "article": "der",
+      "translation": {
+        "pt": "desvantagem",
+        "en": "disadvantage"
+      },
+      "category": "schule",
+      "example": "Ein Nachteil sind die Kosten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-381",
+      "word": "Anteil",
+      "article": "der",
+      "translation": {
+        "pt": "parcela",
+        "en": "share/portion"
+      },
+      "category": "schule",
+      "example": "Der Anteil ist sehr hoch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-382",
+      "word": "Verhältnis",
+      "article": "das",
+      "translation": {
+        "pt": "relação",
+        "en": "ratio/relationship"
+      },
+      "category": "schule",
+      "example": "Das Verhältnis hat sich verbessert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-383",
+      "word": "Zielgruppe",
+      "article": "die",
+      "translation": {
+        "pt": "público-alvo",
+        "en": "target group"
+      },
+      "category": "arbeit",
+      "example": "Die Zielgruppe sind junge Erwachsene.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-384",
+      "word": "Bewerbungsunterlagen",
+      "article": null,
+      "translation": {
+        "pt": "documentos de candidatura",
+        "en": "application documents"
+      },
+      "category": "arbeit",
+      "example": "Die Bewerbungsunterlagen sind vollständig.",
+      "difficulty": 5,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-385",
+      "word": "Arbeitslosigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "desemprego",
+        "en": "unemployment"
+      },
+      "category": "arbeit",
+      "example": "Die Arbeitslosigkeit sinkt langsam.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-386",
+      "word": "Lebenshaltungskosten",
+      "article": null,
+      "translation": {
+        "pt": "custo de vida",
+        "en": "cost of living"
+      },
+      "category": "arbeit",
+      "example": "Die Lebenshaltungskosten sind gestiegen.",
+      "difficulty": 5,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-387",
+      "word": "Lebensqualität",
+      "article": "die",
+      "translation": {
+        "pt": "qualidade de vida",
+        "en": "quality of life"
+      },
+      "category": "gesundheit",
+      "example": "Sport verbessert die Lebensqualität.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-388",
+      "word": "Zeitmanagement",
+      "article": "das",
+      "translation": {
+        "pt": "gestão do tempo",
+        "en": "time management"
+      },
+      "category": "arbeit",
+      "example": "Gutes Zeitmanagement reduziert Stress.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-389",
+      "word": "Belastung",
+      "article": "die",
+      "translation": {
+        "pt": "carga/estresse",
+        "en": "burden/stress"
+      },
+      "category": "gesundheit",
+      "example": "Die Belastung ist zu hoch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-390",
+      "word": "Entlastung",
+      "article": "die",
+      "translation": {
+        "pt": "alívio",
+        "en": "relief"
+      },
+      "category": "gesundheit",
+      "example": "Die neue Regel bringt Entlastung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-391",
+      "word": "Vereinbarkeit",
+      "article": "die",
+      "translation": {
+        "pt": "compatibilidade",
+        "en": "compatibility"
+      },
+      "category": "familie",
+      "example": "Die Vereinbarkeit von Beruf und Familie ist wichtig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-392",
+      "word": "Missverständnis",
+      "article": "das",
+      "translation": {
+        "pt": "mal-entendido",
+        "en": "misunderstanding"
+      },
+      "category": "familie",
+      "example": "Das war nur ein Missverständnis.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-393",
+      "word": "Vereinbarung",
+      "article": "die",
+      "translation": {
+        "pt": "acordo",
+        "en": "agreement"
+      },
+      "category": "arbeit",
+      "example": "Wir haben eine Vereinbarung getroffen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-394",
+      "word": "Verpflichtung",
+      "article": "die",
+      "translation": {
+        "pt": "obrigação",
+        "en": "obligation"
+      },
+      "category": "arbeit",
+      "example": "Das ist eine vertragliche Verpflichtung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-395",
+      "word": "Teilnahmegebühr",
+      "article": "die",
+      "translation": {
+        "pt": "taxa de participação",
+        "en": "participation fee"
+      },
+      "category": "schule",
+      "example": "Die Teilnahmegebühr beträgt 20 Euro.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-396",
+      "word": "Verfügbarkeit",
+      "article": "die",
+      "translation": {
+        "pt": "disponibilidade",
+        "en": "availability"
+      },
+      "category": "arbeit",
+      "example": "Die Verfügbarkeit ist begrenzt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-397",
+      "word": "Erreichbarkeit",
+      "article": "die",
+      "translation": {
+        "pt": "acessibilidade/disponibilidade",
+        "en": "reachability"
+      },
+      "category": "arbeit",
+      "example": "Die Erreichbarkeit ist gut.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-398",
+      "word": "Zuverlässigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "confiabilidade",
+        "en": "reliability"
+      },
+      "category": "arbeit",
+      "example": "Zuverlässigkeit ist im Beruf wichtig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-399",
+      "word": "Selbstbewusstsein",
+      "article": "das",
+      "translation": {
+        "pt": "autoconfiança",
+        "en": "self-confidence"
+      },
+      "category": "familie",
+      "example": "Sie hat viel Selbstbewusstsein.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-400",
+      "word": "Selbsteinschätzung",
+      "article": "die",
+      "translation": {
+        "pt": "autoavaliação",
+        "en": "self-assessment"
+      },
+      "category": "schule",
+      "example": "Die Selbsteinschätzung war realistisch.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-401",
+      "word": "Selbstorganisation",
+      "article": "die",
+      "translation": {
+        "pt": "auto-organização",
+        "en": "self-organization"
+      },
+      "category": "schule",
+      "example": "Selbstorganisation hilft beim Lernen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-402",
+      "word": "Ablenkung",
+      "article": "die",
+      "translation": {
+        "pt": "distração",
+        "en": "distraction"
+      },
+      "category": "schule",
+      "example": "Das Handy ist eine große Ablenkung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-403",
+      "word": "Arbeitsschritt",
+      "article": "der",
+      "translation": {
+        "pt": "etapa de trabalho",
+        "en": "work step"
+      },
+      "category": "arbeit",
+      "example": "Der nächste Arbeitsschritt ist klar.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-404",
+      "word": "Arbeitsablauf",
+      "article": "der",
+      "translation": {
+        "pt": "fluxo de trabalho",
+        "en": "workflow"
+      },
+      "category": "arbeit",
+      "example": "Der Arbeitsablauf wurde verbessert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-405",
+      "word": "Lösungsansatz",
+      "article": "der",
+      "translation": {
+        "pt": "abordagem de solução",
+        "en": "solution approach"
+      },
+      "category": "arbeit",
+      "example": "Der Lösungsansatz ist interessant.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-406",
+      "word": "Entscheidungsfindung",
+      "article": "die",
+      "translation": {
+        "pt": "tomada de decisão",
+        "en": "decision-making"
+      },
+      "category": "arbeit",
+      "example": "Die Entscheidungsfindung dauerte lange.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-407",
+      "word": "Umsetzung",
+      "article": "die",
+      "translation": {
+        "pt": "implementação",
+        "en": "implementation"
+      },
+      "category": "arbeit",
+      "example": "Die Umsetzung beginnt nächste Woche.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-408",
+      "word": "Rückfrage",
+      "article": "die",
+      "translation": {
+        "pt": "pergunta de retorno",
+        "en": "follow-up question"
+      },
+      "category": "arbeit",
+      "example": "Bei Rückfragen melden Sie sich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-409",
+      "word": "Nachweis",
+      "article": "der",
+      "translation": {
+        "pt": "comprovante/prova",
+        "en": "proof"
+      },
+      "category": "arbeit",
+      "example": "Bitte bringen Sie einen Nachweis mit.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-410",
+      "word": "Anerkennung",
+      "article": "die",
+      "translation": {
+        "pt": "reconhecimento",
+        "en": "recognition"
+      },
+      "category": "arbeit",
+      "example": "Sie bekam viel Anerkennung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-411",
+      "word": "Zielsetzung",
+      "article": "die",
+      "translation": {
+        "pt": "definição de objetivo",
+        "en": "goal setting"
+      },
+      "category": "schule",
+      "example": "Die Zielsetzung ist realistisch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-412",
+      "word": "gegebenenfalls",
+      "article": null,
+      "translation": {
+        "pt": "se necessário",
+        "en": "if necessary"
+      },
+      "category": "arbeit",
+      "example": "Gegebenenfalls verschieben wir den Termin.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
       ]
     }
   ]

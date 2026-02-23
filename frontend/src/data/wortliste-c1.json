@@ -3,7 +3,7 @@
     "level": "C1",
     "source": "Goethe-Institut Wortliste C1",
     "sourceUrl": "https://www.goethe.de/",
-    "totalWords": 130,
+    "totalWords": 174,
     "lastUpdated": "2026-02-23"
   },
   "categories": [
@@ -2005,6 +2005,666 @@
       "category": "schule",
       "example": "Die Versuchsreihe wurde durchgeführt.",
       "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-131",
+      "word": "Fachterminologie",
+      "article": "die",
+      "translation": {
+        "pt": "terminologia técnica",
+        "en": "technical terminology"
+      },
+      "category": "schule",
+      "example": "Die Fachterminologie ist anspruchsvoll.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-132",
+      "word": "Argumentationskette",
+      "article": "die",
+      "translation": {
+        "pt": "cadeia argumentativa",
+        "en": "chain of argumentation"
+      },
+      "category": "schule",
+      "example": "Die Argumentationskette ist schlüssig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-133",
+      "word": "Textverständnis",
+      "article": "das",
+      "translation": {
+        "pt": "compreensão textual",
+        "en": "text comprehension"
+      },
+      "category": "schule",
+      "example": "Das Textverständnis wurde geprüft.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-134",
+      "word": "Schlüsselkompetenz",
+      "article": "die",
+      "translation": {
+        "pt": "competência-chave",
+        "en": "key competence"
+      },
+      "category": "schule",
+      "example": "Teamarbeit ist eine Schlüsselkompetenz.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-135",
+      "word": "Lernzielkontrolle",
+      "article": "die",
+      "translation": {
+        "pt": "avaliação de aprendizagem",
+        "en": "learning assessment"
+      },
+      "category": "schule",
+      "example": "Die Lernzielkontrolle findet morgen statt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-136",
+      "word": "Wissenschaftsethik",
+      "article": "die",
+      "translation": {
+        "pt": "ética científica",
+        "en": "scientific ethics"
+      },
+      "category": "schule",
+      "example": "Wissenschaftsethik ist unverzichtbar.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-137",
+      "word": "Innovationskraft",
+      "article": "die",
+      "translation": {
+        "pt": "capacidade de inovação",
+        "en": "innovative strength"
+      },
+      "category": "arbeit",
+      "example": "Die Innovationskraft des Unternehmens ist hoch.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-138",
+      "word": "Leistungsprinzip",
+      "article": "das",
+      "translation": {
+        "pt": "princípio meritocrático",
+        "en": "merit principle"
+      },
+      "category": "arbeit",
+      "example": "Das Leistungsprinzip wird diskutiert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-139",
+      "word": "Arbeitsverdichtung",
+      "article": "die",
+      "translation": {
+        "pt": "intensificação do trabalho",
+        "en": "work intensification"
+      },
+      "category": "arbeit",
+      "example": "Arbeitsverdichtung führt zu Stress.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-140",
+      "word": "Führungsebene",
+      "article": "die",
+      "translation": {
+        "pt": "nível de gestão",
+        "en": "management level"
+      },
+      "category": "arbeit",
+      "example": "Die Führungsebene traf eine Entscheidung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-141",
+      "word": "Unternehmensstrategie",
+      "article": "die",
+      "translation": {
+        "pt": "estratégia empresarial",
+        "en": "corporate strategy"
+      },
+      "category": "arbeit",
+      "example": "Die Unternehmensstrategie wurde angepasst.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-142",
+      "word": "Interessenkonflikt",
+      "article": "der",
+      "translation": {
+        "pt": "conflito de interesses",
+        "en": "conflict of interest"
+      },
+      "category": "arbeit",
+      "example": "Der Interessenkonflikt muss offengelegt werden.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-143",
+      "word": "Verfassungsgericht",
+      "article": "das",
+      "translation": {
+        "pt": "tribunal constitucional",
+        "en": "constitutional court"
+      },
+      "category": "arbeit",
+      "example": "Das Verfassungsgericht entschied zugunsten der Kläger.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-144",
+      "word": "Rechtsstaatlichkeit",
+      "article": "die",
+      "translation": {
+        "pt": "estado de direito",
+        "en": "rule of law"
+      },
+      "category": "arbeit",
+      "example": "Rechtsstaatlichkeit ist unverhandelbar.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-145",
+      "word": "Konsensfähigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "capacidade de consenso",
+        "en": "ability to build consensus"
+      },
+      "category": "familie",
+      "example": "Konsensfähigkeit stärkt jede Gemeinschaft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-146",
+      "word": "Konfliktlösung",
+      "article": "die",
+      "translation": {
+        "pt": "resolução de conflitos",
+        "en": "conflict resolution"
+      },
+      "category": "familie",
+      "example": "Konfliktlösung braucht Geduld.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-147",
+      "word": "Wertevermittlung",
+      "article": "die",
+      "translation": {
+        "pt": "transmissão de valores",
+        "en": "value education"
+      },
+      "category": "familie",
+      "example": "Wertevermittlung beginnt zuhause.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-148",
+      "word": "Interkulturalität",
+      "article": "die",
+      "translation": {
+        "pt": "interculturalidade",
+        "en": "interculturality"
+      },
+      "category": "familie",
+      "example": "Interkulturalität bereichert die Gesellschaft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-149",
+      "word": "Kollektivgedächtnis",
+      "article": "das",
+      "translation": {
+        "pt": "memória coletiva",
+        "en": "collective memory"
+      },
+      "category": "familie",
+      "example": "Das Kollektivgedächtnis prägt Identität.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-150",
+      "word": "Energieversorgung",
+      "article": "die",
+      "translation": {
+        "pt": "abastecimento de energia",
+        "en": "energy supply"
+      },
+      "category": "natur",
+      "example": "Die Energieversorgung muss stabil bleiben.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-151",
+      "word": "Rohstoffabhängigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "dependência de matérias-primas",
+        "en": "raw material dependency"
+      },
+      "category": "natur",
+      "example": "Rohstoffabhängigkeit birgt Risiken.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-152",
+      "word": "Klimaanpassung",
+      "article": "die",
+      "translation": {
+        "pt": "adaptação climática",
+        "en": "climate adaptation"
+      },
+      "category": "natur",
+      "example": "Klimaanpassung wird immer wichtiger.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-153",
+      "word": "Extremwetterereignis",
+      "article": "das",
+      "translation": {
+        "pt": "evento climático extremo",
+        "en": "extreme weather event"
+      },
+      "category": "natur",
+      "example": "Das Extremwetterereignis verursachte große Schäden.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-154",
+      "word": "Ökobilanz",
+      "article": "die",
+      "translation": {
+        "pt": "balanço ecológico",
+        "en": "ecological footprint balance"
+      },
+      "category": "natur",
+      "example": "Die Ökobilanz des Produkts ist positiv.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-155",
+      "word": "Krankheitsverlauf",
+      "article": "der",
+      "translation": {
+        "pt": "evolução da doença",
+        "en": "course of illness"
+      },
+      "category": "gesundheit",
+      "example": "Der Krankheitsverlauf war mild.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-156",
+      "word": "Behandlungskonzept",
+      "article": "das",
+      "translation": {
+        "pt": "conceito terapêutico",
+        "en": "treatment concept"
+      },
+      "category": "gesundheit",
+      "example": "Das Behandlungskonzept wurde angepasst.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-157",
+      "word": "Präventionsmaßnahme",
+      "article": "die",
+      "translation": {
+        "pt": "medida preventiva",
+        "en": "preventive measure"
+      },
+      "category": "gesundheit",
+      "example": "Die Präventionsmaßnahme senkt das Risiko.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-158",
+      "word": "Versorgungsengpass",
+      "article": "der",
+      "translation": {
+        "pt": "escassez de abastecimento",
+        "en": "supply bottleneck"
+      },
+      "category": "gesundheit",
+      "example": "Der Versorgungsengpass betraf Medikamente.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-159",
+      "word": "Therapietreue",
+      "article": "die",
+      "translation": {
+        "pt": "adesão ao tratamento",
+        "en": "treatment adherence"
+      },
+      "category": "gesundheit",
+      "example": "Therapietreue verbessert die Heilungschancen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-160",
+      "word": "Mietbelastung",
+      "article": "die",
+      "translation": {
+        "pt": "peso do aluguel no orçamento",
+        "en": "rental burden"
+      },
+      "category": "wohnen",
+      "example": "Die Mietbelastung ist für viele zu hoch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-161",
+      "word": "Stadtentwicklungskonzept",
+      "article": "das",
+      "translation": {
+        "pt": "conceito de desenvolvimento urbano",
+        "en": "urban development concept"
+      },
+      "category": "wohnen",
+      "example": "Das Stadtentwicklungskonzept setzt auf Grünflächen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-162",
+      "word": "Verkehrsberuhigung",
+      "article": "die",
+      "translation": {
+        "pt": "acalmia do tráfego",
+        "en": "traffic calming"
+      },
+      "category": "wohnen",
+      "example": "Die Verkehrsberuhigung erhöht die Lebensqualität.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-163",
+      "word": "Instandhaltungsrücklage",
+      "article": "die",
+      "translation": {
+        "pt": "reserva de manutenção",
+        "en": "maintenance reserve"
+      },
+      "category": "wohnen",
+      "example": "Die Instandhaltungsrücklage wurde erhöht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-164",
+      "word": "Nebenkostenabrechnung",
+      "article": "die",
+      "translation": {
+        "pt": "acerto de custos adicionais",
+        "en": "utility cost statement"
+      },
+      "category": "wohnen",
+      "example": "Die Nebenkostenabrechnung kam verspätet.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-165",
+      "word": "Konsumentenverhalten",
+      "article": "das",
+      "translation": {
+        "pt": "comportamento do consumidor",
+        "en": "consumer behavior"
+      },
+      "category": "einkaufen",
+      "example": "Das Konsumentenverhalten hat sich geändert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-166",
+      "word": "Preiselastizität",
+      "article": "die",
+      "translation": {
+        "pt": "elasticidade de preço",
+        "en": "price elasticity"
+      },
+      "category": "einkaufen",
+      "example": "Die Preiselastizität variiert je nach Produkt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-167",
+      "word": "Vertragsklausel",
+      "article": "die",
+      "translation": {
+        "pt": "cláusula contratual",
+        "en": "contract clause"
+      },
+      "category": "einkaufen",
+      "example": "Die Vertragsklausel ist missverständlich.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-168",
+      "word": "Gewährleistungsanspruch",
+      "article": "der",
+      "translation": {
+        "pt": "direito de garantia legal",
+        "en": "warranty claim"
+      },
+      "category": "einkaufen",
+      "example": "Der Gewährleistungsanspruch wurde anerkannt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-169",
+      "word": "Lieferengpass",
+      "article": "der",
+      "translation": {
+        "pt": "gargalo de entrega",
+        "en": "delivery bottleneck"
+      },
+      "category": "einkaufen",
+      "example": "Der Lieferengpass betrifft mehrere Produkte.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-170",
+      "word": "Mobilitätskonzept",
+      "article": "das",
+      "translation": {
+        "pt": "conceito de mobilidade",
+        "en": "mobility concept"
+      },
+      "category": "reisen",
+      "example": "Das Mobilitätskonzept fördert den ÖPNV.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-171",
+      "word": "Reisebeschränkung",
+      "article": "die",
+      "translation": {
+        "pt": "restrição de viagem",
+        "en": "travel restriction"
+      },
+      "category": "reisen",
+      "example": "Die Reisebeschränkung wurde aufgehoben.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-172",
+      "word": "Aufenthaltsgenehmigung",
+      "article": "die",
+      "translation": {
+        "pt": "permissão de residência",
+        "en": "residence permit"
+      },
+      "category": "reisen",
+      "example": "Die Aufenthaltsgenehmigung wurde verlängert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-173",
+      "word": "Grenzkontrolle",
+      "article": "die",
+      "translation": {
+        "pt": "controle de fronteira",
+        "en": "border control"
+      },
+      "category": "reisen",
+      "example": "Die Grenzkontrolle verlief schnell.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-174",
+      "word": "Kulturaustauschprogramm",
+      "article": "das",
+      "translation": {
+        "pt": "programa de intercâmbio cultural",
+        "en": "cultural exchange program"
+      },
+      "category": "reisen",
+      "example": "Das Kulturaustauschprogramm läuft seit Jahren.",
+      "difficulty": 5,
       "tags": [
         "substantiv"
       ]

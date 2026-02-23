@@ -3,8 +3,8 @@
     "level": "A2",
     "source": "Goethe-Institut Wortliste A2",
     "sourceUrl": "https://www.goethe.de/",
-    "totalWords": 236,
-    "lastUpdated": "2026-02-22"
+    "totalWords": 314,
+    "lastUpdated": "2026-02-23"
   },
   "categories": [
     {
@@ -61,54 +61,6 @@
   "words": [
     {
       "id": "a2-001",
-      "word": "Frühstück",
-      "article": "das",
-      "translation": {
-        "pt": "café da manhã",
-        "en": "breakfast"
-      },
-      "category": "essen",
-      "example": "Zum Frühstück esse ich Brot mit Käse.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "mahlzeit"
-      ]
-    },
-    {
-      "id": "a2-002",
-      "word": "Mittagessen",
-      "article": "das",
-      "translation": {
-        "pt": "almoço",
-        "en": "lunch"
-      },
-      "category": "essen",
-      "example": "Das Mittagessen ist um 12 Uhr.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "mahlzeit"
-      ]
-    },
-    {
-      "id": "a2-003",
-      "word": "Abendessen",
-      "article": "das",
-      "translation": {
-        "pt": "jantar",
-        "en": "dinner"
-      },
-      "category": "essen",
-      "example": "Was gibt es zum Abendessen?",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "mahlzeit"
-      ]
-    },
-    {
-      "id": "a2-004",
       "word": "Gemüse",
       "article": "das",
       "translation": {
@@ -119,12 +71,12 @@
       "example": "Gemüse ist sehr gesund.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "lebensmittel"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-005",
+      "id": "a2-002",
       "word": "Hähnchen",
       "article": "das",
       "translation": {
@@ -135,12 +87,12 @@
       "example": "Hähnchen mit Reis ist mein Lieblingsgericht.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "lebensmittel"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-006",
+      "id": "a2-003",
       "word": "Getränk",
       "article": "das",
       "translation": {
@@ -151,12 +103,12 @@
       "example": "Welches Getränk möchten Sie?",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "trinken"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-007",
+      "id": "a2-004",
       "word": "Nudeln",
       "article": "die",
       "translation": {
@@ -167,12 +119,12 @@
       "example": "Zum Mittagessen gibt es Nudeln mit Soße.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "lebensmittel"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-008",
+      "id": "a2-005",
       "word": "Rechnung",
       "article": "die",
       "translation": {
@@ -183,12 +135,12 @@
       "example": "Die Rechnung, bitte!",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "geld"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-009",
+      "id": "a2-006",
       "word": "bestellen",
       "article": null,
       "translation": {
@@ -199,11 +151,12 @@
       "example": "Ich möchte eine Pizza bestellen.",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-010",
+      "id": "a2-007",
       "word": "schmecken",
       "article": null,
       "translation": {
@@ -214,11 +167,12 @@
       "example": "Die Suppe schmeckt lecker.",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-011",
+      "id": "a2-008",
       "word": "Rezept",
       "article": "das",
       "translation": {
@@ -229,11 +183,12 @@
       "example": "Hast du ein gutes Rezept für Kuchen?",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-012",
+      "id": "a2-009",
       "word": "hungrig",
       "article": null,
       "translation": {
@@ -244,11 +199,12 @@
       "example": "Ich bin sehr hungrig.",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-013",
+      "id": "a2-010",
       "word": "durstig",
       "article": null,
       "translation": {
@@ -259,11 +215,12 @@
       "example": "Bist du durstig?",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-014",
+      "id": "a2-011",
       "word": "lecker",
       "article": null,
       "translation": {
@@ -274,11 +231,12 @@
       "example": "Das Essen war wirklich lecker.",
       "difficulty": 2,
       "tags": [
-        "adjektiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-015",
+      "id": "a2-012",
       "word": "Bäckerei",
       "article": "die",
       "translation": {
@@ -289,12 +247,12 @@
       "example": "Ich kaufe Brot in der Bäckerei.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-016",
+      "id": "a2-013",
       "word": "Großmutter",
       "article": "die",
       "translation": {
@@ -305,12 +263,12 @@
       "example": "Meine Großmutter wohnt auf dem Land.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-017",
+      "id": "a2-014",
       "word": "Großvater",
       "article": "der",
       "translation": {
@@ -321,12 +279,12 @@
       "example": "Mein Großvater ist 80 Jahre alt.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-018",
+      "id": "a2-015",
       "word": "Ehemann",
       "article": "der",
       "translation": {
@@ -337,12 +295,12 @@
       "example": "Mein Ehemann kocht heute Abend.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-019",
+      "id": "a2-016",
       "word": "Ehefrau",
       "article": "die",
       "translation": {
@@ -353,12 +311,12 @@
       "example": "Meine Ehefrau arbeitet als Ärztin.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-020",
+      "id": "a2-017",
       "word": "Hochzeit",
       "article": "die",
       "translation": {
@@ -369,12 +327,12 @@
       "example": "Die Hochzeit war sehr schön.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "ereignis"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-021",
+      "id": "a2-018",
       "word": "Einladung",
       "article": "die",
       "translation": {
@@ -385,12 +343,12 @@
       "example": "Danke für die Einladung zur Party.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "ereignis"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-022",
+      "id": "a2-019",
       "word": "heiraten",
       "article": null,
       "translation": {
@@ -401,11 +359,12 @@
       "example": "Sie wollen nächstes Jahr heiraten.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-023",
+      "id": "a2-020",
       "word": "verheiratet",
       "article": null,
       "translation": {
@@ -416,11 +375,12 @@
       "example": "Sind Sie verheiratet?",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-024",
+      "id": "a2-021",
       "word": "ledig",
       "article": null,
       "translation": {
@@ -431,11 +391,12 @@
       "example": "Er ist noch ledig.",
       "difficulty": 2,
       "tags": [
-        "adjektiv"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-025",
+      "id": "a2-022",
       "word": "Verwandte",
       "article": "die",
       "translation": {
@@ -446,44 +407,12 @@
       "example": "Meine Verwandten leben in Süddeutschland.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-026",
-      "word": "Onkel",
-      "article": "der",
-      "translation": {
-        "pt": "tio",
-        "en": "uncle"
-      },
-      "category": "familie",
-      "example": "Mein Onkel wohnt in München.",
-      "difficulty": 2,
-      "tags": [
-        "substantiv",
-        "verwandtschaft"
-      ]
-    },
-    {
-      "id": "a2-027",
-      "word": "Tante",
-      "article": "die",
-      "translation": {
-        "pt": "tia",
-        "en": "aunt"
-      },
-      "category": "familie",
-      "example": "Meine Tante hat zwei Kinder.",
-      "difficulty": 2,
-      "tags": [
-        "substantiv",
-        "verwandtschaft"
-      ]
-    },
-    {
-      "id": "a2-028",
+      "id": "a2-023",
       "word": "Kollegin",
       "article": "die",
       "translation": {
@@ -494,12 +423,12 @@
       "example": "Meine Kollegin spricht drei Sprachen.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-029",
+      "id": "a2-024",
       "word": "Gehalt",
       "article": "das",
       "translation": {
@@ -510,12 +439,12 @@
       "example": "Das Gehalt kommt am Ende des Monats.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "geld"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-030",
+      "id": "a2-025",
       "word": "Besprechung",
       "article": "die",
       "translation": {
@@ -526,11 +455,12 @@
       "example": "Die Besprechung beginnt um 10 Uhr.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-031",
+      "id": "a2-026",
       "word": "Bewerbung",
       "article": "die",
       "translation": {
@@ -541,11 +471,12 @@
       "example": "Ich schreibe eine Bewerbung für die Stelle.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-032",
+      "id": "a2-027",
       "word": "Lebenslauf",
       "article": "der",
       "translation": {
@@ -556,11 +487,12 @@
       "example": "Bitte schicken Sie Ihren Lebenslauf.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-033",
+      "id": "a2-028",
       "word": "Erfahrung",
       "article": "die",
       "translation": {
@@ -571,11 +503,12 @@
       "example": "Haben Sie Erfahrung in diesem Bereich?",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-034",
+      "id": "a2-029",
       "word": "verdienen",
       "article": null,
       "translation": {
@@ -586,11 +519,12 @@
       "example": "Er verdient gut in seiner Firma.",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-035",
+      "id": "a2-030",
       "word": "Vertrag",
       "article": "der",
       "translation": {
@@ -601,11 +535,12 @@
       "example": "Ich habe den Vertrag unterschrieben.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-036",
+      "id": "a2-031",
       "word": "Praktikum",
       "article": "das",
       "translation": {
@@ -616,11 +551,12 @@
       "example": "Im Sommer mache ich ein Praktikum.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-037",
+      "id": "a2-032",
       "word": "kündigen",
       "article": null,
       "translation": {
@@ -631,11 +567,12 @@
       "example": "Er hat seine Stelle gekündigt.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-038",
+      "id": "a2-033",
       "word": "Flughafen",
       "article": "der",
       "translation": {
@@ -646,12 +583,12 @@
       "example": "Der Flughafen ist 30 Kilometer entfernt.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-039",
+      "id": "a2-034",
       "word": "Fahrkarte",
       "article": "die",
       "translation": {
@@ -662,11 +599,12 @@
       "example": "Eine Fahrkarte nach Hamburg, bitte.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-040",
+      "id": "a2-035",
       "word": "Gepäck",
       "article": "das",
       "translation": {
@@ -677,11 +615,12 @@
       "example": "Wo ist mein Gepäck?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-041",
+      "id": "a2-036",
       "word": "Koffer",
       "article": "der",
       "translation": {
@@ -692,11 +631,12 @@
       "example": "Ich muss meinen Koffer noch packen.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-042",
+      "id": "a2-037",
       "word": "Reisepass",
       "article": "der",
       "translation": {
@@ -707,12 +647,12 @@
       "example": "Haben Sie Ihren Reisepass dabei?",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "dokument"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-043",
+      "id": "a2-038",
       "word": "Straßenbahn",
       "article": "die",
       "translation": {
@@ -723,12 +663,12 @@
       "example": "Die Straßenbahn kommt alle zehn Minuten.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "verkehrsmittel"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-044",
+      "id": "a2-039",
       "word": "Führerschein",
       "article": "der",
       "translation": {
@@ -739,12 +679,12 @@
       "example": "Ich habe meinen Führerschein mit 18 gemacht.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "dokument"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-045",
+      "id": "a2-040",
       "word": "Ausland",
       "article": "das",
       "translation": {
@@ -755,11 +695,12 @@
       "example": "Warst du schon mal im Ausland?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-046",
+      "id": "a2-041",
       "word": "Landkarte",
       "article": "die",
       "translation": {
@@ -770,11 +711,12 @@
       "example": "Hast du eine Landkarte von Deutschland?",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-047",
+      "id": "a2-042",
       "word": "Grenze",
       "article": "die",
       "translation": {
@@ -785,11 +727,12 @@
       "example": "An der Grenze muss man den Pass zeigen.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-048",
+      "id": "a2-043",
       "word": "abfahren",
       "article": null,
       "translation": {
@@ -800,11 +743,12 @@
       "example": "Der Zug fährt um 8 Uhr ab.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-049",
+      "id": "a2-044",
       "word": "ankommen",
       "article": null,
       "translation": {
@@ -815,11 +759,12 @@
       "example": "Wann kommt der Zug in Berlin an?",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-050",
+      "id": "a2-045",
       "word": "umsteigen",
       "article": null,
       "translation": {
@@ -830,11 +775,12 @@
       "example": "Sie müssen in Frankfurt umsteigen.",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-051",
+      "id": "a2-046",
       "word": "Verspätung",
       "article": "die",
       "translation": {
@@ -845,11 +791,12 @@
       "example": "Der Zug hat 20 Minuten Verspätung.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-052",
+      "id": "a2-047",
       "word": "Unterkunft",
       "article": "die",
       "translation": {
@@ -860,59 +807,12 @@
       "example": "Wir suchen eine günstige Unterkunft.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-053",
-      "word": "Badezimmer",
-      "article": "das",
-      "translation": {
-        "pt": "banheiro",
-        "en": "bathroom"
-      },
-      "category": "wohnen",
-      "example": "Das Badezimmer hat eine Dusche.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "raum"
-      ]
-    },
-    {
-      "id": "a2-054",
-      "word": "Schlafzimmer",
-      "article": "das",
-      "translation": {
-        "pt": "quarto de dormir",
-        "en": "bedroom"
-      },
-      "category": "wohnen",
-      "example": "Das Schlafzimmer ist sehr gemütlich.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "raum"
-      ]
-    },
-    {
-      "id": "a2-055",
-      "word": "Wohnzimmer",
-      "article": "das",
-      "translation": {
-        "pt": "sala de estar",
-        "en": "living room"
-      },
-      "category": "wohnen",
-      "example": "Wir sitzen im Wohnzimmer und sehen fern.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "raum"
-      ]
-    },
-    {
-      "id": "a2-056",
+      "id": "a2-048",
       "word": "Erdgeschoss",
       "article": "das",
       "translation": {
@@ -923,11 +823,12 @@
       "example": "Die Wohnung ist im Erdgeschoss.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-057",
+      "id": "a2-049",
       "word": "Aufzug",
       "article": "der",
       "translation": {
@@ -938,11 +839,12 @@
       "example": "Im Haus gibt es keinen Aufzug.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-058",
+      "id": "a2-050",
       "word": "Möbel",
       "article": "die",
       "translation": {
@@ -953,11 +855,12 @@
       "example": "Wir brauchen neue Möbel.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-059",
+      "id": "a2-051",
       "word": "Miete",
       "article": "die",
       "translation": {
@@ -968,12 +871,12 @@
       "example": "Die Miete ist 500 Euro im Monat.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "geld"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-060",
+      "id": "a2-052",
       "word": "Vermieter",
       "article": "der",
       "translation": {
@@ -984,12 +887,12 @@
       "example": "Der Vermieter repariert die Heizung.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-061",
+      "id": "a2-053",
       "word": "Heizung",
       "article": "die",
       "translation": {
@@ -1000,11 +903,12 @@
       "example": "Die Heizung funktioniert nicht.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-062",
+      "id": "a2-054",
       "word": "Balkon",
       "article": "der",
       "translation": {
@@ -1015,11 +919,12 @@
       "example": "Im Sommer frühstücken wir auf dem Balkon.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-063",
+      "id": "a2-055",
       "word": "umziehen",
       "article": null,
       "translation": {
@@ -1030,11 +935,12 @@
       "example": "Nächsten Monat ziehen wir um.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-064",
+      "id": "a2-056",
       "word": "Schwimmbad",
       "article": "das",
       "translation": {
@@ -1045,12 +951,12 @@
       "example": "Im Sommer gehen wir ins Schwimmbad.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-065",
+      "id": "a2-057",
       "word": "Mannschaft",
       "article": "die",
       "translation": {
@@ -1061,12 +967,12 @@
       "example": "Unsere Mannschaft hat gewonnen.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "sport"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-066",
+      "id": "a2-058",
       "word": "Zeitschrift",
       "article": "die",
       "translation": {
@@ -1077,11 +983,12 @@
       "example": "Ich lese gern Zeitschriften.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-067",
+      "id": "a2-059",
       "word": "Spaziergang",
       "article": "der",
       "translation": {
@@ -1092,11 +999,12 @@
       "example": "Wollen wir einen Spaziergang machen?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-068",
+      "id": "a2-060",
       "word": "wandern",
       "article": null,
       "translation": {
@@ -1107,11 +1015,12 @@
       "example": "Am Wochenende gehen wir wandern.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-069",
+      "id": "a2-061",
       "word": "fotografieren",
       "article": null,
       "translation": {
@@ -1122,11 +1031,12 @@
       "example": "Ich fotografiere gern Landschaften.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-070",
+      "id": "a2-062",
       "word": "Ausstellung",
       "article": "die",
       "translation": {
@@ -1137,12 +1047,12 @@
       "example": "Die Ausstellung dauert bis März.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ereignis"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-071",
+      "id": "a2-063",
       "word": "Verein",
       "article": "der",
       "translation": {
@@ -1153,11 +1063,12 @@
       "example": "Ich bin in einem Sportverein.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-072",
+      "id": "a2-064",
       "word": "langweilig",
       "article": null,
       "translation": {
@@ -1168,11 +1079,12 @@
       "example": "Der Film war langweilig.",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-073",
+      "id": "a2-065",
       "word": "spannend",
       "article": null,
       "translation": {
@@ -1183,11 +1095,12 @@
       "example": "Das Buch ist sehr spannend.",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-074",
+      "id": "a2-066",
       "word": "Spielplatz",
       "article": "der",
       "translation": {
@@ -1198,12 +1111,12 @@
       "example": "Die Kinder spielen auf dem Spielplatz.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-075",
+      "id": "a2-067",
       "word": "Ärztin",
       "article": "die",
       "translation": {
@@ -1214,12 +1127,12 @@
       "example": "Die Ärztin untersucht den Patienten.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-076",
+      "id": "a2-068",
       "word": "Medikament",
       "article": "das",
       "translation": {
@@ -1230,11 +1143,12 @@
       "example": "Nehmen Sie dieses Medikament dreimal täglich.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-077",
+      "id": "a2-069",
       "word": "Erkältung",
       "article": "die",
       "translation": {
@@ -1245,12 +1159,12 @@
       "example": "Ich habe eine Erkältung.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-078",
+      "id": "a2-070",
       "word": "Kopfschmerzen",
       "article": "die",
       "translation": {
@@ -1261,12 +1175,12 @@
       "example": "Ich habe starke Kopfschmerzen.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-079",
+      "id": "a2-071",
       "word": "Husten",
       "article": "der",
       "translation": {
@@ -1277,12 +1191,12 @@
       "example": "Er hat einen starken Husten.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-080",
+      "id": "a2-072",
       "word": "Schnupfen",
       "article": "der",
       "translation": {
@@ -1293,12 +1207,12 @@
       "example": "Bei Schnupfen hilft viel trinken.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-081",
+      "id": "a2-073",
       "word": "Zahnarzt",
       "article": "der",
       "translation": {
@@ -1309,12 +1223,12 @@
       "example": "Ich habe einen Termin beim Zahnarzt.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-082",
+      "id": "a2-074",
       "word": "Versicherung",
       "article": "die",
       "translation": {
@@ -1325,11 +1239,12 @@
       "example": "Haben Sie eine Krankenversicherung?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-083",
+      "id": "a2-075",
       "word": "Untersuchung",
       "article": "die",
       "translation": {
@@ -1340,11 +1255,12 @@
       "example": "Die Untersuchung dauert 30 Minuten.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-084",
+      "id": "a2-076",
       "word": "Pflaster",
       "article": "das",
       "translation": {
@@ -1355,11 +1271,12 @@
       "example": "Hast du ein Pflaster?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-085",
+      "id": "a2-077",
       "word": "Schmerzen",
       "article": "die",
       "translation": {
@@ -1370,11 +1287,12 @@
       "example": "Wo haben Sie Schmerzen?",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-086",
+      "id": "a2-078",
       "word": "Krankenwagen",
       "article": "der",
       "translation": {
@@ -1385,11 +1303,12 @@
       "example": "Rufen Sie den Krankenwagen!",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-087",
+      "id": "a2-079",
       "word": "Kleidung",
       "article": "die",
       "translation": {
@@ -1400,11 +1319,12 @@
       "example": "Ich brauche neue Kleidung.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-088",
+      "id": "a2-080",
       "word": "Schuhe",
       "article": "die",
       "translation": {
@@ -1415,12 +1335,12 @@
       "example": "Ich brauche neue Schuhe.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "kleidung"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-089",
+      "id": "a2-081",
       "word": "Handschuhe",
       "article": "die",
       "translation": {
@@ -1431,12 +1351,12 @@
       "example": "Vergiss deine Handschuhe nicht!",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "kleidung"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-090",
+      "id": "a2-082",
       "word": "Größe",
       "article": "die",
       "translation": {
@@ -1447,11 +1367,12 @@
       "example": "Welche Größe haben Sie?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-091",
+      "id": "a2-083",
       "word": "Sonderangebot",
       "article": "das",
       "translation": {
@@ -1462,11 +1383,12 @@
       "example": "Heute gibt es ein Sonderangebot.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-092",
+      "id": "a2-084",
       "word": "Kasse",
       "article": "die",
       "translation": {
@@ -1477,12 +1399,12 @@
       "example": "Bitte zahlen Sie an der Kasse.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-093",
+      "id": "a2-085",
       "word": "Quittung",
       "article": "die",
       "translation": {
@@ -1493,11 +1415,12 @@
       "example": "Möchten Sie eine Quittung?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-094",
+      "id": "a2-086",
       "word": "umtauschen",
       "article": null,
       "translation": {
@@ -1508,11 +1431,12 @@
       "example": "Kann ich den Pullover umtauschen?",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-095",
+      "id": "a2-087",
       "word": "günstig",
       "article": null,
       "translation": {
@@ -1523,11 +1447,12 @@
       "example": "Das Angebot ist sehr günstig.",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-096",
+      "id": "a2-088",
       "word": "Pullover",
       "article": "der",
       "translation": {
@@ -1538,12 +1463,12 @@
       "example": "Der Pullover ist aus Wolle.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "kleidung"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-097",
+      "id": "a2-089",
       "word": "Geldbeutel",
       "article": "der",
       "translation": {
@@ -1554,11 +1479,12 @@
       "example": "Mein Geldbeutel liegt im Auto.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-098",
+      "id": "a2-090",
       "word": "Universität",
       "article": "die",
       "translation": {
@@ -1569,12 +1495,12 @@
       "example": "Sie studiert an der Universität München.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-099",
+      "id": "a2-091",
       "word": "Lehrerin",
       "article": "die",
       "translation": {
@@ -1585,12 +1511,12 @@
       "example": "Die Lehrerin ist sehr geduldig.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-100",
+      "id": "a2-092",
       "word": "Schüler",
       "article": "der",
       "translation": {
@@ -1601,12 +1527,12 @@
       "example": "Der Schüler macht seine Hausaufgaben.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-101",
+      "id": "a2-093",
       "word": "Prüfung",
       "article": "die",
       "translation": {
@@ -1617,11 +1543,12 @@
       "example": "Die Prüfung war sehr schwer.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-102",
+      "id": "a2-094",
       "word": "Hausaufgabe",
       "article": "die",
       "translation": {
@@ -1632,11 +1559,12 @@
       "example": "Hast du deine Hausaufgaben gemacht?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-103",
+      "id": "a2-095",
       "word": "Unterricht",
       "article": "der",
       "translation": {
@@ -1647,11 +1575,12 @@
       "example": "Der Unterricht beginnt um 8 Uhr.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-104",
+      "id": "a2-096",
       "word": "Wörterbuch",
       "article": "das",
       "translation": {
@@ -1662,11 +1591,12 @@
       "example": "Ich brauche ein Wörterbuch.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-105",
+      "id": "a2-097",
       "word": "Kugelschreiber",
       "article": "der",
       "translation": {
@@ -1677,11 +1607,12 @@
       "example": "Hast du einen Kugelschreiber?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-106",
+      "id": "a2-098",
       "word": "Bibliothek",
       "article": "die",
       "translation": {
@@ -1692,12 +1623,12 @@
       "example": "Ich lerne in der Bibliothek.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-107",
+      "id": "a2-099",
       "word": "Zeugnis",
       "article": "das",
       "translation": {
@@ -1708,11 +1639,12 @@
       "example": "Mein Zeugnis war gut.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-108",
+      "id": "a2-100",
       "word": "bestehen",
       "article": null,
       "translation": {
@@ -1723,11 +1655,12 @@
       "example": "Ich habe die Prüfung bestanden.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-109",
+      "id": "a2-101",
       "word": "übersetzen",
       "article": null,
       "translation": {
@@ -1738,11 +1671,12 @@
       "example": "Können Sie diesen Satz übersetzen?",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-110",
+      "id": "a2-102",
       "word": "Bedeutung",
       "article": "die",
       "translation": {
@@ -1753,11 +1687,12 @@
       "example": "Was ist die Bedeutung dieses Wortes?",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-111",
+      "id": "a2-103",
       "word": "Gewitter",
       "article": "das",
       "translation": {
@@ -1768,12 +1703,12 @@
       "example": "Heute Nachmittag gibt es ein Gewitter.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "wetter"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-112",
+      "id": "a2-104",
       "word": "Temperatur",
       "article": "die",
       "translation": {
@@ -1784,12 +1719,12 @@
       "example": "Die Temperatur liegt bei 20 Grad.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "wetter"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-113",
+      "id": "a2-105",
       "word": "Frühling",
       "article": "der",
       "translation": {
@@ -1800,12 +1735,12 @@
       "example": "Im Frühling blühen die Blumen.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "jahreszeit"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-114",
+      "id": "a2-106",
       "word": "Sommer",
       "article": "der",
       "translation": {
@@ -1816,12 +1751,12 @@
       "example": "Im Sommer fahren wir ans Meer.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "jahreszeit"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-115",
+      "id": "a2-107",
       "word": "Herbst",
       "article": "der",
       "translation": {
@@ -1832,12 +1767,12 @@
       "example": "Im Herbst fallen die Blätter.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "jahreszeit"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-116",
+      "id": "a2-108",
       "word": "Winter",
       "article": "der",
       "translation": {
@@ -1848,12 +1783,12 @@
       "example": "Im Winter ist es kalt.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "jahreszeit"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-117",
+      "id": "a2-109",
       "word": "Umwelt",
       "article": "die",
       "translation": {
@@ -1864,11 +1799,12 @@
       "example": "Wir müssen die Umwelt schützen.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-118",
+      "id": "a2-110",
       "word": "Internet",
       "article": "das",
       "translation": {
@@ -1879,11 +1815,12 @@
       "example": "Ich suche die Informationen im Internet.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-119",
+      "id": "a2-111",
       "word": "Nachricht",
       "article": "die",
       "translation": {
@@ -1894,11 +1831,12 @@
       "example": "Ich habe eine Nachricht bekommen.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-120",
+      "id": "a2-112",
       "word": "Anruf",
       "article": "der",
       "translation": {
@@ -1909,26 +1847,12 @@
       "example": "Ich erwarte einen wichtigen Anruf.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-121",
-      "word": "anrufen",
-      "article": null,
-      "translation": {
-        "pt": "ligar/telefonar",
-        "en": "to call"
-      },
-      "category": "arbeit",
-      "example": "Ich rufe dich morgen an.",
-      "difficulty": 3,
-      "tags": [
-        "verb"
-      ]
-    },
-    {
-      "id": "a2-122",
+      "id": "a2-113",
       "word": "Drucker",
       "article": "der",
       "translation": {
@@ -1939,11 +1863,12 @@
       "example": "Der Drucker funktioniert nicht.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-123",
+      "id": "a2-114",
       "word": "Bildschirm",
       "article": "der",
       "translation": {
@@ -1954,11 +1879,12 @@
       "example": "Der Bildschirm ist zu klein.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-124",
+      "id": "a2-115",
       "word": "drucken",
       "article": null,
       "translation": {
@@ -1969,11 +1895,12 @@
       "example": "Kannst du das Dokument drucken?",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-125",
+      "id": "a2-116",
       "word": "Marktplatz",
       "article": "der",
       "translation": {
@@ -1984,28 +1911,12 @@
       "example": "Wir treffen uns am Marktplatz.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-126",
-      "word": "Brötchen",
-      "article": "das",
-      "translation": {
-        "pt": "pãozinho",
-        "en": "bread roll"
-      },
-      "category": "essen",
-      "example": "Zum Frühstück esse ich zwei Brötchen.",
-      "difficulty": 5,
-      "tags": [
-        "substantiv",
-        "lebensmittel"
-      ]
-    },
-    {
-      "id": "a2-127",
+      "id": "a2-117",
       "word": "Rathaus",
       "article": "das",
       "translation": {
@@ -2016,12 +1927,12 @@
       "example": "Das Rathaus ist im Stadtzentrum.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-128",
+      "id": "a2-118",
       "word": "Polizei",
       "article": "die",
       "translation": {
@@ -2032,11 +1943,12 @@
       "example": "Rufen Sie die Polizei!",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-129",
+      "id": "a2-119",
       "word": "Feuerwehr",
       "article": "die",
       "translation": {
@@ -2047,11 +1959,12 @@
       "example": "Die Feuerwehr kommt schnell.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-130",
+      "id": "a2-120",
       "word": "Briefkasten",
       "article": "der",
       "translation": {
@@ -2062,11 +1975,12 @@
       "example": "Der Brief ist im Briefkasten.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-131",
+      "id": "a2-121",
       "word": "Kreuzung",
       "article": "die",
       "translation": {
@@ -2077,11 +1991,12 @@
       "example": "An der nächsten Kreuzung rechts abbiegen.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-132",
+      "id": "a2-122",
       "word": "Parkplatz",
       "article": "der",
       "translation": {
@@ -2092,12 +2007,12 @@
       "example": "Gibt es hier einen Parkplatz?",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-133",
+      "id": "a2-123",
       "word": "Stau",
       "article": "der",
       "translation": {
@@ -2108,11 +2023,12 @@
       "example": "Auf der Autobahn war ein langer Stau.",
       "difficulty": 1,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-134",
+      "id": "a2-124",
       "word": "Teppich",
       "article": "der",
       "translation": {
@@ -2123,11 +2039,12 @@
       "example": "Der Teppich ist weich.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-135",
+      "id": "a2-125",
       "word": "Vorhang",
       "article": "der",
       "translation": {
@@ -2138,11 +2055,12 @@
       "example": "Bitte mach den Vorhang zu.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-136",
+      "id": "a2-126",
       "word": "anfangen",
       "article": null,
       "translation": {
@@ -2153,11 +2071,12 @@
       "example": "Wann fängt die Arbeit an?",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-137",
+      "id": "a2-127",
       "word": "aufhören",
       "article": null,
       "translation": {
@@ -2168,11 +2087,12 @@
       "example": "Hör bitte auf zu reden.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-138",
+      "id": "a2-128",
       "word": "besuchen",
       "article": null,
       "translation": {
@@ -2183,11 +2103,12 @@
       "example": "Am Wochenende besuche ich meine Eltern.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-139",
+      "id": "a2-129",
       "word": "einladen",
       "article": null,
       "translation": {
@@ -2198,11 +2119,12 @@
       "example": "Ich lade dich zum Essen ein.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-140",
+      "id": "a2-130",
       "word": "erzählen",
       "article": null,
       "translation": {
@@ -2213,11 +2135,12 @@
       "example": "Erzähl mir von deinem Urlaub.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-141",
+      "id": "a2-131",
       "word": "erklären",
       "article": null,
       "translation": {
@@ -2228,11 +2151,12 @@
       "example": "Können Sie das bitte erklären?",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-142",
+      "id": "a2-132",
       "word": "vergessen",
       "article": null,
       "translation": {
@@ -2243,11 +2167,12 @@
       "example": "Ich habe meinen Schirm vergessen.",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-143",
+      "id": "a2-133",
       "word": "empfehlen",
       "article": null,
       "translation": {
@@ -2258,11 +2183,12 @@
       "example": "Was können Sie empfehlen?",
       "difficulty": 4,
       "tags": [
-        "verb"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-144",
+      "id": "a2-134",
       "word": "sparen",
       "article": null,
       "translation": {
@@ -2273,11 +2199,12 @@
       "example": "Ich spare Geld für den Urlaub.",
       "difficulty": 2,
       "tags": [
-        "verb"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-145",
+      "id": "a2-135",
       "word": "ausgeben",
       "article": null,
       "translation": {
@@ -2288,11 +2215,12 @@
       "example": "Ich gebe zu viel Geld aus.",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-146",
+      "id": "a2-136",
       "word": "bezahlen",
       "article": null,
       "translation": {
@@ -2303,11 +2231,12 @@
       "example": "Kann ich mit Karte bezahlen?",
       "difficulty": 3,
       "tags": [
-        "verb"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-147",
+      "id": "a2-137",
       "word": "reparieren",
       "article": null,
       "translation": {
@@ -2318,11 +2247,12 @@
       "example": "Können Sie das Fahrrad reparieren?",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-148",
+      "id": "a2-138",
       "word": "aufräumen",
       "article": null,
       "translation": {
@@ -2333,11 +2263,12 @@
       "example": "Ich muss mein Zimmer aufräumen.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-149",
+      "id": "a2-139",
       "word": "laufen",
       "article": null,
       "translation": {
@@ -2348,11 +2279,12 @@
       "example": "Ich laufe jeden Morgen fünf Kilometer.",
       "difficulty": 2,
       "tags": [
-        "verb"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-150",
+      "id": "a2-140",
       "word": "Regenschirm",
       "article": "der",
       "translation": {
@@ -2363,11 +2295,12 @@
       "example": "Vergiss deinen Regenschirm nicht!",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-151",
+      "id": "a2-141",
       "word": "Briefmarke",
       "article": "die",
       "translation": {
@@ -2378,11 +2311,12 @@
       "example": "Ich brauche eine Briefmarke für den Brief.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-152",
+      "id": "a2-142",
       "word": "Kalender",
       "article": "der",
       "translation": {
@@ -2393,11 +2327,12 @@
       "example": "Der Termin steht im Kalender.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-153",
+      "id": "a2-143",
       "word": "Wecker",
       "article": "der",
       "translation": {
@@ -2408,11 +2343,12 @@
       "example": "Der Wecker klingelt um 6 Uhr.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-154",
+      "id": "a2-144",
       "word": "Schlange",
       "article": "die",
       "translation": {
@@ -2423,11 +2359,12 @@
       "example": "An der Kasse war eine lange Schlange.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-155",
+      "id": "a2-145",
       "word": "Nachbarschaft",
       "article": "die",
       "translation": {
@@ -2438,11 +2375,12 @@
       "example": "Die Nachbarschaft ist ruhig und grün.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-156",
+      "id": "a2-146",
       "word": "Sehenswürdigkeit",
       "article": "die",
       "translation": {
@@ -2453,11 +2391,12 @@
       "example": "Das Brandenburger Tor ist eine Sehenswürdigkeit.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-157",
+      "id": "a2-147",
       "word": "Doppelzimmer",
       "article": "das",
       "translation": {
@@ -2468,11 +2407,12 @@
       "example": "Ich möchte ein Doppelzimmer für zwei Nächte.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-158",
+      "id": "a2-148",
       "word": "Einzelzimmer",
       "article": "das",
       "translation": {
@@ -2483,11 +2423,12 @@
       "example": "Haben Sie noch ein Einzelzimmer frei?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-159",
+      "id": "a2-149",
       "word": "Empfang",
       "article": "der",
       "translation": {
@@ -2498,11 +2439,12 @@
       "example": "Bitte melden Sie sich am Empfang.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-160",
+      "id": "a2-150",
       "word": "Hauptstadt",
       "article": "die",
       "translation": {
@@ -2513,11 +2455,12 @@
       "example": "Berlin ist die Hauptstadt von Deutschland.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-161",
+      "id": "a2-151",
       "word": "Ausgang",
       "article": "der",
       "translation": {
@@ -2528,11 +2471,12 @@
       "example": "Wo ist der Ausgang?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-162",
+      "id": "a2-152",
       "word": "Eingang",
       "article": "der",
       "translation": {
@@ -2543,11 +2487,12 @@
       "example": "Der Eingang ist auf der anderen Seite.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-163",
+      "id": "a2-153",
       "word": "Handtuch",
       "article": "das",
       "translation": {
@@ -2558,11 +2503,12 @@
       "example": "Hast du ein sauberes Handtuch?",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-164",
+      "id": "a2-154",
       "word": "Seife",
       "article": "die",
       "translation": {
@@ -2573,11 +2519,12 @@
       "example": "Die Seife riecht gut.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-165",
+      "id": "a2-155",
       "word": "Zahnbürste",
       "article": "die",
       "translation": {
@@ -2588,11 +2535,12 @@
       "example": "Ich brauche eine neue Zahnbürste.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-166",
+      "id": "a2-156",
       "word": "Sonnencreme",
       "article": "die",
       "translation": {
@@ -2603,26 +2551,12 @@
       "example": "Vergiss die Sonnencreme nicht.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-167",
-      "word": "Fahrplan",
-      "article": "der",
-      "translation": {
-        "pt": "horário (transporte)",
-        "en": "timetable/schedule"
-      },
-      "category": "reisen",
-      "example": "Der Fahrplan hängt an der Haltestelle.",
-      "difficulty": 3,
-      "tags": [
-        "substantiv"
-      ]
-    },
-    {
-      "id": "a2-168",
+      "id": "a2-157",
       "word": "Rückfahrt",
       "article": "die",
       "translation": {
@@ -2633,11 +2567,12 @@
       "example": "Wann ist die Rückfahrt?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-169",
+      "id": "a2-158",
       "word": "möglich",
       "article": null,
       "translation": {
@@ -2648,11 +2583,12 @@
       "example": "Ist das möglich?",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-170",
+      "id": "a2-159",
       "word": "notwendig",
       "article": null,
       "translation": {
@@ -2663,11 +2599,12 @@
       "example": "Es ist notwendig, pünktlich zu sein.",
       "difficulty": 4,
       "tags": [
-        "adjektiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-171",
+      "id": "a2-160",
       "word": "zufrieden",
       "article": null,
       "translation": {
@@ -2678,11 +2615,12 @@
       "example": "Der Chef ist zufrieden mit der Arbeit.",
       "difficulty": 4,
       "tags": [
-        "adjektiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-172",
+      "id": "a2-161",
       "word": "gefährlich",
       "article": null,
       "translation": {
@@ -2693,11 +2631,12 @@
       "example": "Die Straße ist gefährlich.",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-173",
+      "id": "a2-162",
       "word": "gemütlich",
       "article": null,
       "translation": {
@@ -2708,11 +2647,12 @@
       "example": "Die Wohnung ist sehr gemütlich.",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-174",
+      "id": "a2-163",
       "word": "sauber",
       "article": null,
       "translation": {
@@ -2723,11 +2663,12 @@
       "example": "Die Küche ist sauber.",
       "difficulty": 2,
       "tags": [
-        "adjektiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-175",
+      "id": "a2-164",
       "word": "schmutzig",
       "article": null,
       "translation": {
@@ -2738,11 +2679,12 @@
       "example": "Die Schuhe sind schmutzig.",
       "difficulty": 4,
       "tags": [
-        "adjektiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-176",
+      "id": "a2-165",
       "word": "freundlich",
       "article": null,
       "translation": {
@@ -2753,11 +2695,12 @@
       "example": "Die Nachbarn sind sehr freundlich.",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-177",
+      "id": "a2-166",
       "word": "traurig",
       "article": null,
       "translation": {
@@ -2768,11 +2711,12 @@
       "example": "Warum bist du traurig?",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-178",
+      "id": "a2-167",
       "word": "glücklich",
       "article": null,
       "translation": {
@@ -2783,11 +2727,12 @@
       "example": "Sie sind sehr glücklich zusammen.",
       "difficulty": 5,
       "tags": [
-        "adjektiv"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-179",
+      "id": "a2-168",
       "word": "müde",
       "article": null,
       "translation": {
@@ -2798,11 +2743,12 @@
       "example": "Ich bin heute sehr müde.",
       "difficulty": 3,
       "tags": [
-        "adjektiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-180",
+      "id": "a2-169",
       "word": "Ausflug",
       "article": "der",
       "translation": {
@@ -2813,11 +2759,12 @@
       "category": "freizeit",
       "example": "Am Sonntag machen wir einen Ausflug.",
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-181",
+      "id": "a2-170",
       "word": "Eintrittskarte",
       "article": "die",
       "translation": {
@@ -2828,11 +2775,12 @@
       "example": "Die Eintrittskarte kostet 10 Euro.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-182",
+      "id": "a2-171",
       "word": "verabreden",
       "article": null,
       "translation": {
@@ -2843,11 +2791,12 @@
       "example": "Wir haben uns für heute Abend verabredet.",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-183",
+      "id": "a2-172",
       "word": "Grippe",
       "article": "die",
       "translation": {
@@ -2858,12 +2807,12 @@
       "example": "Ich habe die Grippe.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-184",
+      "id": "a2-173",
       "word": "Allergie",
       "article": "die",
       "translation": {
@@ -2874,12 +2823,12 @@
       "example": "Ich habe eine Allergie gegen Pollen.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "krankheit"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-185",
+      "id": "a2-174",
       "word": "Notfall",
       "article": "der",
       "translation": {
@@ -2890,11 +2839,12 @@
       "example": "Im Notfall rufen Sie die 112.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-186",
+      "id": "a2-175",
       "word": "Sprechstunde",
       "article": "die",
       "translation": {
@@ -2905,11 +2855,12 @@
       "example": "Die Sprechstunde ist von 9 bis 12 Uhr.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-187",
+      "id": "a2-176",
       "word": "Wartezimmer",
       "article": "das",
       "translation": {
@@ -2920,11 +2871,12 @@
       "example": "Bitte warten Sie im Wartezimmer.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "gesundheit"
       ]
     },
     {
-      "id": "a2-188",
+      "id": "a2-177",
       "word": "Einkaufswagen",
       "article": "der",
       "translation": {
@@ -2935,11 +2887,12 @@
       "example": "Der Einkaufswagen ist voll.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-189",
+      "id": "a2-178",
       "word": "Sonderpreis",
       "article": "der",
       "translation": {
@@ -2950,11 +2903,12 @@
       "example": "Das gibt es heute zum Sonderpreis.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-190",
+      "id": "a2-179",
       "word": "anprobieren",
       "article": null,
       "translation": {
@@ -2965,11 +2919,12 @@
       "example": "Kann ich das Kleid anprobieren?",
       "difficulty": 5,
       "tags": [
-        "verb"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-191",
+      "id": "a2-180",
       "word": "Grundschule",
       "article": "die",
       "translation": {
@@ -2980,12 +2935,12 @@
       "example": "Mein Sohn geht in die Grundschule.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-192",
+      "id": "a2-181",
       "word": "Kindergarten",
       "article": "der",
       "translation": {
@@ -2996,12 +2951,12 @@
       "example": "Meine Tochter geht in den Kindergarten.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-193",
+      "id": "a2-182",
       "word": "Gymnasium",
       "article": "das",
       "translation": {
@@ -3012,12 +2967,12 @@
       "example": "Nach der Grundschule geht er aufs Gymnasium.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-194",
+      "id": "a2-183",
       "word": "Wanderung",
       "article": "die",
       "translation": {
@@ -3028,11 +2983,12 @@
       "example": "Die Wanderung dauert drei Stunden.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-195",
+      "id": "a2-184",
       "word": "Sportverein",
       "article": "der",
       "translation": {
@@ -3043,11 +2999,12 @@
       "example": "Mein Sohn ist im Sportverein.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-196",
+      "id": "a2-185",
       "word": "Radtour",
       "article": "die",
       "translation": {
@@ -3058,11 +3015,12 @@
       "example": "Am Sonntag machen wir eine Radtour.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "freizeit"
       ]
     },
     {
-      "id": "a2-197",
+      "id": "a2-186",
       "word": "Blatt",
       "article": "das",
       "translation": {
@@ -3073,11 +3031,12 @@
       "example": "Im Herbst fallen die Blätter von den Bäumen.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-198",
+      "id": "a2-187",
       "word": "Wiese",
       "article": "die",
       "translation": {
@@ -3088,11 +3047,12 @@
       "example": "Die Kinder spielen auf der Wiese.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "natur"
       ]
     },
     {
-      "id": "a2-199",
+      "id": "a2-188",
       "word": "Ergebnis",
       "article": "das",
       "translation": {
@@ -3103,11 +3063,12 @@
       "example": "Das Ergebnis der Prüfung war gut.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-200",
+      "id": "a2-189",
       "word": "Lösung",
       "article": "die",
       "translation": {
@@ -3118,11 +3079,12 @@
       "example": "Die Lösung ist einfach.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "schule"
       ]
     },
     {
-      "id": "a2-201",
+      "id": "a2-190",
       "word": "Aufenthalt",
       "article": "der",
       "translation": {
@@ -3133,11 +3095,12 @@
       "example": "Wie lange dauert der Aufenthalt?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-202",
+      "id": "a2-191",
       "word": "Reiseleiterin",
       "article": "die",
       "translation": {
@@ -3148,12 +3111,12 @@
       "example": "Die Reiseleiterin spricht sehr gut Deutsch.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "person"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-203",
+      "id": "a2-192",
       "word": "Abflug",
       "article": "der",
       "translation": {
@@ -3164,11 +3127,12 @@
       "example": "Der Abflug ist um 14 Uhr.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-204",
+      "id": "a2-193",
       "word": "Ankunft",
       "article": "die",
       "translation": {
@@ -3179,11 +3143,12 @@
       "example": "Die Ankunft ist um 18 Uhr.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-205",
+      "id": "a2-194",
       "word": "Steckdose",
       "article": "die",
       "translation": {
@@ -3194,11 +3159,12 @@
       "example": "Wo ist die nächste Steckdose?",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-206",
+      "id": "a2-195",
       "word": "Mikrowelle",
       "article": "die",
       "translation": {
@@ -3209,11 +3175,12 @@
       "example": "Die Mikrowelle steht in der Küche.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-207",
+      "id": "a2-196",
       "word": "Spülmaschine",
       "article": "die",
       "translation": {
@@ -3224,11 +3191,12 @@
       "example": "Die Spülmaschine ist kaputt.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-208",
+      "id": "a2-197",
       "word": "Staubsauger",
       "article": "der",
       "translation": {
@@ -3239,11 +3207,12 @@
       "example": "Wo ist der Staubsauger?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "wohnen"
       ]
     },
     {
-      "id": "a2-209",
+      "id": "a2-198",
       "word": "Werkstatt",
       "article": "die",
       "translation": {
@@ -3254,12 +3223,12 @@
       "example": "Das Auto ist in der Werkstatt.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-210",
+      "id": "a2-199",
       "word": "Überstunden",
       "article": "die",
       "translation": {
@@ -3270,11 +3239,12 @@
       "example": "Er macht viele Überstunden.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-211",
+      "id": "a2-200",
       "word": "Feierabend",
       "article": "der",
       "translation": {
@@ -3285,11 +3255,12 @@
       "example": "Um 17 Uhr habe ich Feierabend.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-212",
+      "id": "a2-201",
       "word": "Besprechungsraum",
       "article": "der",
       "translation": {
@@ -3300,12 +3271,12 @@
       "example": "Die Besprechung ist im Besprechungsraum 3.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-213",
+      "id": "a2-202",
       "word": "Tankstelle",
       "article": "die",
       "translation": {
@@ -3316,12 +3287,12 @@
       "example": "Wir müssen zur Tankstelle fahren.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "ort"
+        "a2",
+        "reisen"
       ]
     },
     {
-      "id": "a2-214",
+      "id": "a2-203",
       "word": "Apfelsaft",
       "article": "der",
       "translation": {
@@ -3332,12 +3303,12 @@
       "example": "Ich trinke gern Apfelsaft.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "trinken"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-215",
+      "id": "a2-204",
       "word": "Mineralwasser",
       "article": "das",
       "translation": {
@@ -3348,12 +3319,12 @@
       "example": "Ein Glas Mineralwasser, bitte.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "trinken"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-216",
+      "id": "a2-205",
       "word": "Speisekarte",
       "article": "die",
       "translation": {
@@ -3364,11 +3335,12 @@
       "example": "Kann ich die Speisekarte sehen?",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-217",
+      "id": "a2-206",
       "word": "Trinkgeld",
       "article": "das",
       "translation": {
@@ -3379,12 +3351,12 @@
       "example": "Wir geben immer Trinkgeld.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "geld"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-218",
+      "id": "a2-207",
       "word": "Spielzeug",
       "article": "das",
       "translation": {
@@ -3395,11 +3367,12 @@
       "example": "Die Kinder bekommen neues Spielzeug.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-219",
+      "id": "a2-208",
       "word": "Schreibtisch",
       "article": "der",
       "translation": {
@@ -3410,12 +3383,12 @@
       "example": "Auf meinem Schreibtisch liegt viel Arbeit.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "möbel"
+        "a2",
+        "arbeit"
       ]
     },
     {
-      "id": "a2-220",
+      "id": "a2-209",
       "word": "Krawatte",
       "article": "die",
       "translation": {
@@ -3426,12 +3399,12 @@
       "example": "Die Krawatte passt zum Hemd.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "kleidung"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-221",
+      "id": "a2-210",
       "word": "Strümpfe",
       "article": "die",
       "translation": {
@@ -3442,12 +3415,12 @@
       "example": "Im Winter trage ich dicke Strümpfe.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "kleidung"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-222",
+      "id": "a2-211",
       "word": "Sonnenbrille",
       "article": "die",
       "translation": {
@@ -3458,11 +3431,12 @@
       "example": "Vergiss deine Sonnenbrille nicht.",
       "difficulty": 5,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-223",
+      "id": "a2-212",
       "word": "Schmuck",
       "article": "der",
       "translation": {
@@ -3473,11 +3447,12 @@
       "example": "Sie trägt schönen Schmuck.",
       "difficulty": 3,
       "tags": [
-        "substantiv"
+        "a2",
+        "einkaufen"
       ]
     },
     {
-      "id": "a2-224",
+      "id": "a2-213",
       "word": "Geschmack",
       "article": "der",
       "translation": {
@@ -3488,11 +3463,12 @@
       "example": "Der Geschmack ist ausgezeichnet.",
       "difficulty": 4,
       "tags": [
-        "substantiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-225",
+      "id": "a2-214",
       "word": "Schüssel",
       "article": "die",
       "translation": {
@@ -3503,12 +3479,12 @@
       "example": "Gib die Suppe in eine Schüssel.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "geschirr"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-226",
+      "id": "a2-215",
       "word": "Pfanne",
       "article": "die",
       "translation": {
@@ -3519,11 +3495,12 @@
       "example": "Brate das Fleisch in der Pfanne.",
       "difficulty": 2,
       "tags": [
-        "substantiv"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-227",
+      "id": "a2-216",
       "word": "Nachspeise",
       "article": "die",
       "translation": {
@@ -3534,12 +3511,12 @@
       "example": "Als Nachspeise gibt es Eis.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "mahlzeit"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-228",
+      "id": "a2-217",
       "word": "Vorspeise",
       "article": "die",
       "translation": {
@@ -3550,12 +3527,12 @@
       "example": "Als Vorspeise nehme ich Suppe.",
       "difficulty": 4,
       "tags": [
-        "substantiv",
-        "mahlzeit"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-229",
+      "id": "a2-218",
       "word": "Hauptgericht",
       "article": "das",
       "translation": {
@@ -3566,12 +3543,12 @@
       "example": "Das Hauptgericht ist Hähnchen mit Reis.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "mahlzeit"
+        "a2",
+        "essen"
       ]
     },
     {
-      "id": "a2-230",
+      "id": "a2-219",
       "word": "Schwager",
       "article": "der",
       "translation": {
@@ -3582,12 +3559,12 @@
       "example": "Mein Schwager kommt aus Österreich.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-231",
+      "id": "a2-220",
       "word": "Schwägerin",
       "article": "die",
       "translation": {
@@ -3598,12 +3575,12 @@
       "example": "Meine Schwägerin ist sehr nett.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-232",
+      "id": "a2-221",
       "word": "Enkel",
       "article": "der",
       "translation": {
@@ -3614,12 +3591,12 @@
       "example": "Mein Enkel ist fünf Jahre alt.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-233",
+      "id": "a2-222",
       "word": "Nichte",
       "article": "die",
       "translation": {
@@ -3630,12 +3607,12 @@
       "example": "Meine Nichte wohnt in Hamburg.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-234",
+      "id": "a2-223",
       "word": "Neffe",
       "article": "der",
       "translation": {
@@ -3646,12 +3623,12 @@
       "example": "Mein Neffe studiert in Berlin.",
       "difficulty": 2,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-235",
+      "id": "a2-224",
       "word": "Geschwister",
       "article": "die",
       "translation": {
@@ -3662,12 +3639,12 @@
       "example": "Ich habe drei Geschwister.",
       "difficulty": 5,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
       ]
     },
     {
-      "id": "a2-236",
+      "id": "a2-225",
       "word": "Zwilling",
       "article": "der",
       "translation": {
@@ -3678,8 +3655,1432 @@
       "example": "Meine Schwester und ich sind Zwillinge.",
       "difficulty": 3,
       "tags": [
-        "substantiv",
-        "verwandtschaft"
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-226",
+      "word": "Frühstücksei",
+      "article": "das",
+      "translation": {
+        "pt": "ovo do café da manhã",
+        "en": "breakfast egg"
+      },
+      "category": "essen",
+      "example": "Das Frühstücksei ist weich.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-227",
+      "word": "Müsli",
+      "article": "das",
+      "translation": {
+        "pt": "muesli",
+        "en": "muesli"
+      },
+      "category": "essen",
+      "example": "Ich esse morgens Müsli.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-228",
+      "word": "Vollmilch",
+      "article": "die",
+      "translation": {
+        "pt": "leite integral",
+        "en": "whole milk"
+      },
+      "category": "essen",
+      "example": "Vollmilch steht im Kühlschrank.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-229",
+      "word": "Lebensmittel",
+      "article": null,
+      "translation": {
+        "pt": "alimentos",
+        "en": "groceries"
+      },
+      "category": "essen",
+      "example": "Wir kaufen Lebensmittel ein.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-230",
+      "word": "kochen lernen",
+      "article": null,
+      "translation": {
+        "pt": "aprender a cozinhar",
+        "en": "learn to cook"
+      },
+      "category": "essen",
+      "example": "Ich möchte kochen lernen.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-231",
+      "word": "Backofen",
+      "article": "der",
+      "translation": {
+        "pt": "forno",
+        "en": "oven"
+      },
+      "category": "essen",
+      "example": "Der Backofen ist vorgeheizt.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-232",
+      "word": "Pfannkuchen",
+      "article": "der",
+      "translation": {
+        "pt": "panqueca",
+        "en": "pancake"
+      },
+      "category": "essen",
+      "example": "Der Pfannkuchen schmeckt süß.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-233",
+      "word": "Lieblingsessen",
+      "article": "das",
+      "translation": {
+        "pt": "comida favorita",
+        "en": "favorite food"
+      },
+      "category": "essen",
+      "example": "Pizza ist mein Lieblingsessen.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "essen"
+      ]
+    },
+    {
+      "id": "a2-234",
+      "word": "Geburtsort",
+      "article": "der",
+      "translation": {
+        "pt": "local de nascimento",
+        "en": "place of birth"
+      },
+      "category": "familie",
+      "example": "Mein Geburtsort ist klein.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-235",
+      "word": "Familienname",
+      "article": "der",
+      "translation": {
+        "pt": "sobrenome",
+        "en": "last name"
+      },
+      "category": "familie",
+      "example": "Wie ist Ihr Familienname?",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-236",
+      "word": "Vorname",
+      "article": "der",
+      "translation": {
+        "pt": "nome",
+        "en": "first name"
+      },
+      "category": "familie",
+      "example": "Mein Vorname ist Luca.",
+      "difficulty": 1,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-237",
+      "word": "Kinderwagen",
+      "article": "der",
+      "translation": {
+        "pt": "carrinho de bebê",
+        "en": "baby stroller"
+      },
+      "category": "familie",
+      "example": "Der Kinderwagen steht im Flur.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-238",
+      "word": "Feier",
+      "article": "die",
+      "translation": {
+        "pt": "festa",
+        "en": "celebration"
+      },
+      "category": "familie",
+      "example": "Die Feier beginnt um acht.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-239",
+      "word": "Verabredung",
+      "article": "die",
+      "translation": {
+        "pt": "encontro combinado",
+        "en": "appointment with someone"
+      },
+      "category": "familie",
+      "example": "Ich habe eine Verabredung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-240",
+      "word": "Kinderarzt",
+      "article": "der",
+      "translation": {
+        "pt": "pediatra",
+        "en": "pediatrician"
+      },
+      "category": "familie",
+      "example": "Der Kinderarzt ist sehr nett.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-241",
+      "word": "Arbeitszeit",
+      "article": "die",
+      "translation": {
+        "pt": "horário de trabalho",
+        "en": "working hours"
+      },
+      "category": "arbeit",
+      "example": "Meine Arbeitszeit beginnt um neun.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-242",
+      "word": "pünktlich",
+      "article": null,
+      "translation": {
+        "pt": "pontual",
+        "en": "punctual"
+      },
+      "category": "arbeit",
+      "example": "Er ist immer pünktlich.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-243",
+      "word": "Arbeitsplatz",
+      "article": "der",
+      "translation": {
+        "pt": "posto de trabalho",
+        "en": "workplace"
+      },
+      "category": "arbeit",
+      "example": "Mein Arbeitsplatz ist modern.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-244",
+      "word": "Mitarbeiterin",
+      "article": "die",
+      "translation": {
+        "pt": "colaboradora",
+        "en": "female employee"
+      },
+      "category": "arbeit",
+      "example": "Die Mitarbeiterin ist neu.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-245",
+      "word": "Werkzeug",
+      "article": "das",
+      "translation": {
+        "pt": "ferramenta",
+        "en": "tool"
+      },
+      "category": "arbeit",
+      "example": "Das Werkzeug liegt im Keller.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-246",
+      "word": "Fahrstuhl",
+      "article": "der",
+      "translation": {
+        "pt": "elevador",
+        "en": "elevator"
+      },
+      "category": "reisen",
+      "example": "Der Fahrstuhl ist im Hotel.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-247",
+      "word": "Bahnsteig",
+      "article": "der",
+      "translation": {
+        "pt": "plataforma",
+        "en": "platform"
+      },
+      "category": "reisen",
+      "example": "Der Zug fährt von Bahnsteig drei.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-248",
+      "word": "Gleis",
+      "article": "das",
+      "translation": {
+        "pt": "trilho/plataforma",
+        "en": "track/platform"
+      },
+      "category": "reisen",
+      "example": "Der Zug steht am Gleis fünf.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-249",
+      "word": "Stadtplan",
+      "article": "der",
+      "translation": {
+        "pt": "mapa da cidade",
+        "en": "city map"
+      },
+      "category": "reisen",
+      "example": "Der Stadtplan hilft uns.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-250",
+      "word": "Rucksack",
+      "article": "der",
+      "translation": {
+        "pt": "mochila",
+        "en": "backpack"
+      },
+      "category": "reisen",
+      "example": "Der Rucksack ist schwer.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-251",
+      "word": "Kofferraum",
+      "article": "der",
+      "translation": {
+        "pt": "porta-malas",
+        "en": "trunk"
+      },
+      "category": "reisen",
+      "example": "Der Kofferraum ist voll.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-252",
+      "word": "Ausweis",
+      "article": "der",
+      "translation": {
+        "pt": "documento de identidade",
+        "en": "ID card"
+      },
+      "category": "reisen",
+      "example": "Bitte zeigen Sie Ihren Ausweis.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-253",
+      "word": "Wohnungsschlüssel",
+      "article": "der",
+      "translation": {
+        "pt": "chave do apartamento",
+        "en": "apartment key"
+      },
+      "category": "wohnen",
+      "example": "Wo ist mein Wohnungsschlüssel?",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "wohnen"
+      ]
+    },
+    {
+      "id": "a2-254",
+      "word": "Müll",
+      "article": "der",
+      "translation": {
+        "pt": "lixo",
+        "en": "trash"
+      },
+      "category": "wohnen",
+      "example": "Der Müll muss rausgebracht werden.",
+      "difficulty": 1,
+      "tags": [
+        "a2",
+        "wohnen"
+      ]
+    },
+    {
+      "id": "a2-255",
+      "word": "Mülleimer",
+      "article": "der",
+      "translation": {
+        "pt": "lixeira",
+        "en": "trash can"
+      },
+      "category": "wohnen",
+      "example": "Der Mülleimer ist voll.",
+      "difficulty": 1,
+      "tags": [
+        "a2",
+        "wohnen"
+      ]
+    },
+    {
+      "id": "a2-256",
+      "word": "Fernbedienung",
+      "article": "die",
+      "translation": {
+        "pt": "controle remoto",
+        "en": "remote control"
+      },
+      "category": "wohnen",
+      "example": "Die Fernbedienung liegt auf dem Tisch.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "wohnen"
+      ]
+    },
+    {
+      "id": "a2-257",
+      "word": "Lieblingsfilm",
+      "article": "der",
+      "translation": {
+        "pt": "filme favorito",
+        "en": "favorite movie"
+      },
+      "category": "freizeit",
+      "example": "Das ist mein Lieblingsfilm.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "freizeit"
+      ]
+    },
+    {
+      "id": "a2-258",
+      "word": "Lieblingsmusik",
+      "article": "die",
+      "translation": {
+        "pt": "música favorita",
+        "en": "favorite music"
+      },
+      "category": "freizeit",
+      "example": "Ich höre gern Lieblingsmusik am Abend.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "freizeit"
+      ]
+    },
+    {
+      "id": "a2-259",
+      "word": "Freizeit",
+      "article": "die",
+      "translation": {
+        "pt": "tempo livre",
+        "en": "free time"
+      },
+      "category": "freizeit",
+      "example": "In meiner Freizeit lese ich.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "freizeit"
+      ]
+    },
+    {
+      "id": "a2-260",
+      "word": "Training",
+      "article": "das",
+      "translation": {
+        "pt": "treino",
+        "en": "training"
+      },
+      "category": "freizeit",
+      "example": "Das Training dauert eine Stunde.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "freizeit"
+      ]
+    },
+    {
+      "id": "a2-261",
+      "word": "krank sein",
+      "article": null,
+      "translation": {
+        "pt": "estar doente",
+        "en": "to be ill"
+      },
+      "category": "gesundheit",
+      "example": "Ich bin heute krank.",
+      "difficulty": 1,
+      "tags": [
+        "a2",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "a2-262",
+      "word": "Unfall",
+      "article": "der",
+      "translation": {
+        "pt": "acidente",
+        "en": "accident"
+      },
+      "category": "gesundheit",
+      "example": "Er hatte einen kleinen Unfall.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "a2-263",
+      "word": "Tablette",
+      "article": "die",
+      "translation": {
+        "pt": "comprimido",
+        "en": "tablet"
+      },
+      "category": "gesundheit",
+      "example": "Nehmen Sie eine Tablette.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "a2-264",
+      "word": "Fieberthermometer",
+      "article": "das",
+      "translation": {
+        "pt": "termômetro",
+        "en": "thermometer"
+      },
+      "category": "gesundheit",
+      "example": "Das Fieberthermometer zeigt 38 Grad.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "a2-265",
+      "word": "Drogerie",
+      "article": "die",
+      "translation": {
+        "pt": "drogaria",
+        "en": "drugstore"
+      },
+      "category": "einkaufen",
+      "example": "Die Drogerie ist nebenan.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "a2-266",
+      "word": "Umkleidekabine",
+      "article": "die",
+      "translation": {
+        "pt": "provador",
+        "en": "fitting room"
+      },
+      "category": "einkaufen",
+      "example": "Die Umkleidekabine ist frei.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "a2-267",
+      "word": "Kassenbon",
+      "article": "der",
+      "translation": {
+        "pt": "cupom fiscal",
+        "en": "receipt"
+      },
+      "category": "einkaufen",
+      "example": "Bitte behalten Sie den Kassenbon.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "a2-268",
+      "word": "Rabatt",
+      "article": "der",
+      "translation": {
+        "pt": "desconto",
+        "en": "discount"
+      },
+      "category": "einkaufen",
+      "example": "Auf diese Jacke gibt es Rabatt.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "a2-269",
+      "word": "Schulfach",
+      "article": "das",
+      "translation": {
+        "pt": "matéria escolar",
+        "en": "school subject"
+      },
+      "category": "schule",
+      "example": "Mathe ist mein Lieblingsschulfach.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-270",
+      "word": "Klassenraum",
+      "article": "der",
+      "translation": {
+        "pt": "sala de aula",
+        "en": "classroom"
+      },
+      "category": "schule",
+      "example": "Der Klassenraum ist groß.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-271",
+      "word": "Schuljahr",
+      "article": "das",
+      "translation": {
+        "pt": "ano letivo",
+        "en": "school year"
+      },
+      "category": "schule",
+      "example": "Das Schuljahr endet im Juli.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-272",
+      "word": "Wortschatz",
+      "article": "der",
+      "translation": {
+        "pt": "vocabulário",
+        "en": "vocabulary"
+      },
+      "category": "schule",
+      "example": "Mein Wortschatz wird größer.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-273",
+      "word": "Ufer",
+      "article": "das",
+      "translation": {
+        "pt": "margem",
+        "en": "shore"
+      },
+      "category": "natur",
+      "example": "Wir sitzen am Ufer.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "natur"
+      ]
+    },
+    {
+      "id": "a2-274",
+      "word": "Anmeldung",
+      "article": "die",
+      "translation": {
+        "pt": "inscrição",
+        "en": "registration"
+      },
+      "category": "schule",
+      "example": "Die Anmeldung ist online möglich.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-275",
+      "word": "Abmeldung",
+      "article": "die",
+      "translation": {
+        "pt": "cancelamento de inscrição",
+        "en": "deregistration"
+      },
+      "category": "schule",
+      "example": "Die Abmeldung muss schriftlich erfolgen.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-276",
+      "word": "Formular",
+      "article": "das",
+      "translation": {
+        "pt": "formulário",
+        "en": "form"
+      },
+      "category": "schule",
+      "example": "Bitte füllen Sie das Formular aus.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-277",
+      "word": "Unterschrift",
+      "article": "die",
+      "translation": {
+        "pt": "assinatura",
+        "en": "signature"
+      },
+      "category": "schule",
+      "example": "Hier fehlt Ihre Unterschrift.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-278",
+      "word": "Auskunft",
+      "article": "die",
+      "translation": {
+        "pt": "informação",
+        "en": "information"
+      },
+      "category": "arbeit",
+      "example": "Die Auskunft war sehr hilfreich.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-279",
+      "word": "Rückmeldung",
+      "article": "die",
+      "translation": {
+        "pt": "retorno",
+        "en": "feedback"
+      },
+      "category": "arbeit",
+      "example": "Danke für Ihre Rückmeldung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-280",
+      "word": "Hinweis",
+      "article": "der",
+      "translation": {
+        "pt": "aviso/dica",
+        "en": "hint/note"
+      },
+      "category": "schule",
+      "example": "Der Hinweis war nützlich.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-281",
+      "word": "Beschreibung",
+      "article": "die",
+      "translation": {
+        "pt": "descrição",
+        "en": "description"
+      },
+      "category": "schule",
+      "example": "Die Beschreibung ist sehr genau.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-282",
+      "word": "Erklärung",
+      "article": "die",
+      "translation": {
+        "pt": "explicação",
+        "en": "explanation"
+      },
+      "category": "schule",
+      "example": "Danke für die Erklärung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-283",
+      "word": "Unterschied",
+      "article": "der",
+      "translation": {
+        "pt": "diferença",
+        "en": "difference"
+      },
+      "category": "schule",
+      "example": "Was ist der Unterschied?",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-284",
+      "word": "Gemeinsamkeit",
+      "article": "die",
+      "translation": {
+        "pt": "semelhança",
+        "en": "similarity"
+      },
+      "category": "schule",
+      "example": "Es gibt viele Gemeinsamkeiten.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-285",
+      "word": "Reihenfolge",
+      "article": "die",
+      "translation": {
+        "pt": "ordem",
+        "en": "order/sequence"
+      },
+      "category": "schule",
+      "example": "Bitte beachten Sie die Reihenfolge.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-286",
+      "word": "Antrag",
+      "article": "der",
+      "translation": {
+        "pt": "pedido/requerimento",
+        "en": "application request"
+      },
+      "category": "arbeit",
+      "example": "Der Antrag wurde genehmigt.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-287",
+      "word": "Genehmigung",
+      "article": "die",
+      "translation": {
+        "pt": "aprovação",
+        "en": "approval"
+      },
+      "category": "arbeit",
+      "example": "Wir warten auf die Genehmigung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-288",
+      "word": "Ablehnung",
+      "article": "die",
+      "translation": {
+        "pt": "rejeição",
+        "en": "rejection"
+      },
+      "category": "arbeit",
+      "example": "Die Ablehnung kam per E-Mail.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-289",
+      "word": "Bestätigung",
+      "article": "die",
+      "translation": {
+        "pt": "confirmação",
+        "en": "confirmation"
+      },
+      "category": "arbeit",
+      "example": "Ich brauche eine Bestätigung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-290",
+      "word": "Bearbeitung",
+      "article": "die",
+      "translation": {
+        "pt": "processamento",
+        "en": "processing"
+      },
+      "category": "arbeit",
+      "example": "Die Bearbeitung dauert drei Tage.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-291",
+      "word": "Unterlagen",
+      "article": null,
+      "translation": {
+        "pt": "documentos",
+        "en": "documents"
+      },
+      "category": "arbeit",
+      "example": "Bitte schicken Sie alle Unterlagen.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "a2-292",
+      "word": "Rücksicht",
+      "article": "die",
+      "translation": {
+        "pt": "consideração",
+        "en": "consideration"
+      },
+      "category": "familie",
+      "example": "Bitte nimm Rücksicht auf andere.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-293",
+      "word": "Anstrengung",
+      "article": "die",
+      "translation": {
+        "pt": "esforço",
+        "en": "effort"
+      },
+      "category": "schule",
+      "example": "Die Anstrengung hat sich gelohnt.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-294",
+      "word": "geeignet",
+      "article": null,
+      "translation": {
+        "pt": "adequado",
+        "en": "suitable"
+      },
+      "category": "schule",
+      "example": "Dieses Buch ist für Anfänger geeignet.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-295",
+      "word": "unbedingt",
+      "article": null,
+      "translation": {
+        "pt": "de todo modo",
+        "en": "absolutely"
+      },
+      "category": "schule",
+      "example": "Ich muss unbedingt lernen.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-296",
+      "word": "mindestens",
+      "article": null,
+      "translation": {
+        "pt": "pelo menos",
+        "en": "at least"
+      },
+      "category": "schule",
+      "example": "Ich lerne mindestens eine Stunde.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-297",
+      "word": "höchstens",
+      "article": null,
+      "translation": {
+        "pt": "no máximo",
+        "en": "at most"
+      },
+      "category": "schule",
+      "example": "Der Kurs dauert höchstens zwei Stunden.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-298",
+      "word": "ungefähr",
+      "article": null,
+      "translation": {
+        "pt": "aproximadamente",
+        "en": "approximately"
+      },
+      "category": "schule",
+      "example": "Ich brauche ungefähr zehn Minuten.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-299",
+      "word": "präzise",
+      "article": null,
+      "translation": {
+        "pt": "preciso",
+        "en": "precise"
+      },
+      "category": "schule",
+      "example": "Bitte antworte präzise.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-300",
+      "word": "deutlich",
+      "article": null,
+      "translation": {
+        "pt": "claramente",
+        "en": "clearly"
+      },
+      "category": "schule",
+      "example": "Sprich bitte deutlich.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-301",
+      "word": "allmählich",
+      "article": null,
+      "translation": {
+        "pt": "gradualmente",
+        "en": "gradually"
+      },
+      "category": "schule",
+      "example": "Allmählich wird es besser.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-302",
+      "word": "vorher",
+      "article": null,
+      "translation": {
+        "pt": "antes",
+        "en": "beforehand"
+      },
+      "category": "schule",
+      "example": "Bitte ruf vorher an.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-303",
+      "word": "nachher",
+      "article": null,
+      "translation": {
+        "pt": "depois",
+        "en": "afterwards"
+      },
+      "category": "schule",
+      "example": "Nachher gehen wir einkaufen.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-304",
+      "word": "inzwischen",
+      "article": null,
+      "translation": {
+        "pt": "enquanto isso",
+        "en": "in the meantime"
+      },
+      "category": "schule",
+      "example": "Inzwischen mache ich die Übung.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-305",
+      "word": "zufällig",
+      "article": null,
+      "translation": {
+        "pt": "por acaso",
+        "en": "by chance"
+      },
+      "category": "familie",
+      "example": "Wir haben uns zufällig getroffen.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "familie"
+      ]
+    },
+    {
+      "id": "a2-306",
+      "word": "rechtzeitig",
+      "article": null,
+      "translation": {
+        "pt": "a tempo",
+        "en": "in time"
+      },
+      "category": "reisen",
+      "example": "Bitte kommen Sie rechtzeitig.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "reisen"
+      ]
+    },
+    {
+      "id": "a2-307",
+      "word": "möglicherweise",
+      "article": null,
+      "translation": {
+        "pt": "possivelmente",
+        "en": "possibly"
+      },
+      "category": "schule",
+      "example": "Möglicherweise fällt der Kurs aus.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-308",
+      "word": "jedenfalls",
+      "article": null,
+      "translation": {
+        "pt": "de qualquer forma",
+        "en": "in any case"
+      },
+      "category": "schule",
+      "example": "Jedenfalls versuchen wir es.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-309",
+      "word": "tatsächlich",
+      "article": null,
+      "translation": {
+        "pt": "de fato",
+        "en": "actually"
+      },
+      "category": "schule",
+      "example": "Tatsächlich war die Prüfung leicht.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-310",
+      "word": "plötzlich",
+      "article": null,
+      "translation": {
+        "pt": "de repente",
+        "en": "suddenly"
+      },
+      "category": "schule",
+      "example": "Plötzlich klingelte das Telefon.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-311",
+      "word": "zunächst",
+      "article": null,
+      "translation": {
+        "pt": "primeiramente",
+        "en": "first of all"
+      },
+      "category": "schule",
+      "example": "Zunächst lesen wir den Text.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-312",
+      "word": "anschließend",
+      "article": null,
+      "translation": {
+        "pt": "em seguida",
+        "en": "afterwards"
+      },
+      "category": "schule",
+      "example": "Anschließend besprechen wir die Fragen.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-313",
+      "word": "letztlich",
+      "article": null,
+      "translation": {
+        "pt": "por fim",
+        "en": "ultimately"
+      },
+      "category": "schule",
+      "example": "Letztlich war die Entscheidung richtig.",
+      "difficulty": 3,
+      "tags": [
+        "a2",
+        "schule"
+      ]
+    },
+    {
+      "id": "a2-314",
+      "word": "deswegen",
+      "article": null,
+      "translation": {
+        "pt": "por isso",
+        "en": "therefore"
+      },
+      "category": "schule",
+      "example": "Ich bin krank, deswegen bleibe ich zu Hause.",
+      "difficulty": 2,
+      "tags": [
+        "a2",
+        "schule"
       ]
     }
   ]

@@ -3,7 +3,7 @@
     "level": "A1",
     "source": "Goethe-Institut Wortliste A1",
     "sourceUrl": "https://www.goethe.de/",
-    "totalWords": 249,
+    "totalWords": 359,
     "lastUpdated": "2026-02-23"
   },
   "categories": [
@@ -3792,6 +3792,1656 @@
       "difficulty": 1,
       "tags": [
         "substantiv"
+      ]
+    },
+    {
+      "id": "a1-250",
+      "word": "Frühstück",
+      "article": "das",
+      "translation": {
+        "pt": "café da manhã",
+        "en": "breakfast"
+      },
+      "category": "essen",
+      "example": "Das Frühstück ist um sieben Uhr.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-251",
+      "word": "Mittagessen",
+      "article": "das",
+      "translation": {
+        "pt": "almoço",
+        "en": "lunch"
+      },
+      "category": "essen",
+      "example": "Das Mittagessen ist lecker.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-252",
+      "word": "Abendessen",
+      "article": "das",
+      "translation": {
+        "pt": "jantar",
+        "en": "dinner"
+      },
+      "category": "essen",
+      "example": "Wir essen Abendessen zusammen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-253",
+      "word": "Brötchen",
+      "article": "das",
+      "translation": {
+        "pt": "pãozinho",
+        "en": "bread roll"
+      },
+      "category": "essen",
+      "example": "Das Brötchen ist frisch.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-254",
+      "word": "Honig",
+      "article": "der",
+      "translation": {
+        "pt": "mel",
+        "en": "honey"
+      },
+      "category": "essen",
+      "example": "Der Honig ist süß.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-255",
+      "word": "Pfeffer",
+      "article": "der",
+      "translation": {
+        "pt": "pimenta",
+        "en": "pepper"
+      },
+      "category": "essen",
+      "example": "Der Pfeffer ist scharf.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-256",
+      "word": "Karotte",
+      "article": "die",
+      "translation": {
+        "pt": "cenoura",
+        "en": "carrot"
+      },
+      "category": "essen",
+      "example": "Die Karotte ist orange.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-257",
+      "word": "Traube",
+      "article": "die",
+      "translation": {
+        "pt": "uva",
+        "en": "grape"
+      },
+      "category": "essen",
+      "example": "Die Traube ist süß.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-258",
+      "word": "Tante",
+      "article": "die",
+      "translation": {
+        "pt": "tia",
+        "en": "aunt"
+      },
+      "category": "familie",
+      "example": "Meine Tante wohnt in Köln.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-259",
+      "word": "Onkel",
+      "article": "der",
+      "translation": {
+        "pt": "tio",
+        "en": "uncle"
+      },
+      "category": "familie",
+      "example": "Mein Onkel kommt morgen.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-260",
+      "word": "Cousin",
+      "article": "der",
+      "translation": {
+        "pt": "primo",
+        "en": "cousin"
+      },
+      "category": "familie",
+      "example": "Mein Cousin spielt Gitarre.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-261",
+      "word": "Cousine",
+      "article": "die",
+      "translation": {
+        "pt": "prima",
+        "en": "cousin (f)"
+      },
+      "category": "familie",
+      "example": "Meine Cousine ist nett.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-262",
+      "word": "Verkäuferin",
+      "article": "die",
+      "translation": {
+        "pt": "vendedora",
+        "en": "saleswoman"
+      },
+      "category": "arbeit",
+      "example": "Die Verkäuferin ist freundlich.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-263",
+      "word": "Polizistin",
+      "article": "die",
+      "translation": {
+        "pt": "policial (f)",
+        "en": "policewoman"
+      },
+      "category": "arbeit",
+      "example": "Die Polizistin hilft den Touristen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-264",
+      "word": "Friseur",
+      "article": "der",
+      "translation": {
+        "pt": "cabeleireiro",
+        "en": "hairdresser"
+      },
+      "category": "arbeit",
+      "example": "Der Friseur schneidet die Haare.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-265",
+      "word": "Fahrer",
+      "article": "der",
+      "translation": {
+        "pt": "motorista",
+        "en": "driver"
+      },
+      "category": "arbeit",
+      "example": "Der Fahrer wartet vor dem Haus.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-266",
+      "word": "U-Bahn",
+      "article": "die",
+      "translation": {
+        "pt": "metrô",
+        "en": "subway"
+      },
+      "category": "reisen",
+      "example": "Die U-Bahn kommt gleich.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-267",
+      "word": "S-Bahn",
+      "article": "die",
+      "translation": {
+        "pt": "trem urbano",
+        "en": "suburban train"
+      },
+      "category": "reisen",
+      "example": "Die S-Bahn fährt alle zehn Minuten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-268",
+      "word": "Fahrplan",
+      "article": "der",
+      "translation": {
+        "pt": "horário",
+        "en": "timetable"
+      },
+      "category": "reisen",
+      "example": "Der Fahrplan hängt an der Wand.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-269",
+      "word": "Richtung",
+      "article": "die",
+      "translation": {
+        "pt": "direção",
+        "en": "direction"
+      },
+      "category": "reisen",
+      "example": "In welche Richtung gehen wir?",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-270",
+      "word": "geradeaus",
+      "article": null,
+      "translation": {
+        "pt": "reto",
+        "en": "straight ahead"
+      },
+      "category": "reisen",
+      "example": "Gehen Sie geradeaus.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-271",
+      "word": "Wohnzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "sala de estar",
+        "en": "living room"
+      },
+      "category": "wohnen",
+      "example": "Das Wohnzimmer ist hell.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-272",
+      "word": "Schlafzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "quarto",
+        "en": "bedroom"
+      },
+      "category": "wohnen",
+      "example": "Das Schlafzimmer ist klein.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-273",
+      "word": "Badezimmer",
+      "article": "das",
+      "translation": {
+        "pt": "banheiro",
+        "en": "bathroom"
+      },
+      "category": "wohnen",
+      "example": "Das Badezimmer ist sauber.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-274",
+      "word": "Herd",
+      "article": "der",
+      "translation": {
+        "pt": "fogão",
+        "en": "stove"
+      },
+      "category": "wohnen",
+      "example": "Der Herd ist neu.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-275",
+      "word": "Ofen",
+      "article": "der",
+      "translation": {
+        "pt": "forno",
+        "en": "oven"
+      },
+      "category": "wohnen",
+      "example": "Der Ofen ist heiß.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-276",
+      "word": "Besen",
+      "article": "der",
+      "translation": {
+        "pt": "vassoura",
+        "en": "broom"
+      },
+      "category": "wohnen",
+      "example": "Der Besen steht in der Ecke.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-277",
+      "word": "Eimer",
+      "article": "der",
+      "translation": {
+        "pt": "balde",
+        "en": "bucket"
+      },
+      "category": "wohnen",
+      "example": "Der Eimer ist voll Wasser.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-278",
+      "word": "Basketball",
+      "article": "der",
+      "translation": {
+        "pt": "basquete",
+        "en": "basketball"
+      },
+      "category": "freizeit",
+      "example": "Wir spielen Basketball.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-279",
+      "word": "Volleyball",
+      "article": "der",
+      "translation": {
+        "pt": "vôlei",
+        "en": "volleyball"
+      },
+      "category": "freizeit",
+      "example": "Volleyball macht Spaß.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-280",
+      "word": "Kamera",
+      "article": "die",
+      "translation": {
+        "pt": "câmera",
+        "en": "camera"
+      },
+      "category": "freizeit",
+      "example": "Die Kamera ist neu.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-281",
+      "word": "zeichnen",
+      "article": null,
+      "translation": {
+        "pt": "desenhar",
+        "en": "to draw"
+      },
+      "category": "freizeit",
+      "example": "Ich zeichne ein Haus.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-282",
+      "word": "basteln",
+      "article": null,
+      "translation": {
+        "pt": "fazer artesanato",
+        "en": "to do crafts"
+      },
+      "category": "freizeit",
+      "example": "Die Kinder basteln in der Schule.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-283",
+      "word": "Medizin",
+      "article": "die",
+      "translation": {
+        "pt": "medicina/remédio",
+        "en": "medicine"
+      },
+      "category": "gesundheit",
+      "example": "Die Medizin hilft schnell.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-284",
+      "word": "Zeh",
+      "article": "der",
+      "translation": {
+        "pt": "dedo do pé",
+        "en": "toe"
+      },
+      "category": "gesundheit",
+      "example": "Mein Zeh ist blau.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-285",
+      "word": "Einkaufszettel",
+      "article": "der",
+      "translation": {
+        "pt": "lista de compras",
+        "en": "shopping list"
+      },
+      "category": "einkaufen",
+      "example": "Der Einkaufszettel liegt auf dem Tisch.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-286",
+      "word": "passt",
+      "article": null,
+      "translation": {
+        "pt": "serve/cabe",
+        "en": "fits"
+      },
+      "category": "einkaufen",
+      "example": "Das T-Shirt passt gut.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-287",
+      "word": "Socken",
+      "article": null,
+      "translation": {
+        "pt": "meias",
+        "en": "socks"
+      },
+      "category": "einkaufen",
+      "example": "Die Socken sind warm.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-288",
+      "word": "lernen",
+      "article": null,
+      "translation": {
+        "pt": "aprender/estudar",
+        "en": "to learn"
+      },
+      "category": "schule",
+      "example": "Ich lerne Deutsch.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-289",
+      "word": "rechnen",
+      "article": null,
+      "translation": {
+        "pt": "calcular",
+        "en": "to calculate"
+      },
+      "category": "schule",
+      "example": "Wir rechnen in Mathe.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-290",
+      "word": "Pausenhof",
+      "article": "der",
+      "translation": {
+        "pt": "pátio escolar",
+        "en": "school yard"
+      },
+      "category": "schule",
+      "example": "Die Kinder spielen im Pausenhof.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-291",
+      "word": "Klassenarbeit",
+      "article": "die",
+      "translation": {
+        "pt": "prova",
+        "en": "class test"
+      },
+      "category": "schule",
+      "example": "Die Klassenarbeit war schwer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "a1-292",
+      "word": "bewölkt",
+      "article": null,
+      "translation": {
+        "pt": "nublado",
+        "en": "cloudy"
+      },
+      "category": "natur",
+      "example": "Heute ist es bewölkt.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-293",
+      "word": "sonnig",
+      "article": null,
+      "translation": {
+        "pt": "ensolarado",
+        "en": "sunny"
+      },
+      "category": "natur",
+      "example": "Morgen wird es sonnig.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-294",
+      "word": "und",
+      "article": null,
+      "translation": {
+        "pt": "e",
+        "en": "and"
+      },
+      "category": "schule",
+      "example": "Ich lerne Deutsch und Englisch.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-295",
+      "word": "oder",
+      "article": null,
+      "translation": {
+        "pt": "ou",
+        "en": "or"
+      },
+      "category": "schule",
+      "example": "Möchtest du Tee oder Kaffee?",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-296",
+      "word": "aber",
+      "article": null,
+      "translation": {
+        "pt": "mas",
+        "en": "but"
+      },
+      "category": "schule",
+      "example": "Ich komme, aber später.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-297",
+      "word": "denn",
+      "article": null,
+      "translation": {
+        "pt": "pois",
+        "en": "because/for"
+      },
+      "category": "schule",
+      "example": "Ich bleibe zu Hause, denn ich bin müde.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-298",
+      "word": "mit",
+      "article": null,
+      "translation": {
+        "pt": "com",
+        "en": "with"
+      },
+      "category": "schule",
+      "example": "Ich gehe mit meiner Freundin ins Kino.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-299",
+      "word": "ohne",
+      "article": null,
+      "translation": {
+        "pt": "sem",
+        "en": "without"
+      },
+      "category": "schule",
+      "example": "Ich trinke Kaffee ohne Zucker.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-300",
+      "word": "für",
+      "article": null,
+      "translation": {
+        "pt": "para",
+        "en": "for"
+      },
+      "category": "schule",
+      "example": "Das Geschenk ist für dich.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-301",
+      "word": "von",
+      "article": null,
+      "translation": {
+        "pt": "de",
+        "en": "from/of"
+      },
+      "category": "schule",
+      "example": "Ich komme von der Arbeit.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-302",
+      "word": "zu",
+      "article": null,
+      "translation": {
+        "pt": "para/a",
+        "en": "to"
+      },
+      "category": "schule",
+      "example": "Ich gehe zu meiner Oma.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-303",
+      "word": "in",
+      "article": null,
+      "translation": {
+        "pt": "em",
+        "en": "in"
+      },
+      "category": "schule",
+      "example": "Ich wohne in Berlin.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-304",
+      "word": "an",
+      "article": null,
+      "translation": {
+        "pt": "em/no(a)",
+        "en": "at/on"
+      },
+      "category": "schule",
+      "example": "Das Bild hängt an der Wand.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-305",
+      "word": "auf",
+      "article": null,
+      "translation": {
+        "pt": "sobre/em cima de",
+        "en": "on"
+      },
+      "category": "schule",
+      "example": "Das Buch liegt auf dem Tisch.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-306",
+      "word": "unter",
+      "article": null,
+      "translation": {
+        "pt": "debaixo de",
+        "en": "under"
+      },
+      "category": "schule",
+      "example": "Die Katze schläft unter dem Bett.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-307",
+      "word": "über",
+      "article": null,
+      "translation": {
+        "pt": "sobre/acima de",
+        "en": "over/about"
+      },
+      "category": "schule",
+      "example": "Wir sprechen über das Wetter.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-308",
+      "word": "vor",
+      "article": null,
+      "translation": {
+        "pt": "diante de/antes de",
+        "en": "in front of/before"
+      },
+      "category": "schule",
+      "example": "Ich stehe vor der Schule.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-309",
+      "word": "hinter",
+      "article": null,
+      "translation": {
+        "pt": "atrás de",
+        "en": "behind"
+      },
+      "category": "schule",
+      "example": "Der Bus hält hinter dem Haus.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-310",
+      "word": "neben",
+      "article": null,
+      "translation": {
+        "pt": "ao lado de",
+        "en": "next to"
+      },
+      "category": "schule",
+      "example": "Die Apotheke ist neben dem Supermarkt.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-311",
+      "word": "zwischen",
+      "article": null,
+      "translation": {
+        "pt": "entre",
+        "en": "between"
+      },
+      "category": "schule",
+      "example": "Der Park liegt zwischen den Häusern.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-312",
+      "word": "bei",
+      "article": null,
+      "translation": {
+        "pt": "na casa de/em",
+        "en": "at/with"
+      },
+      "category": "schule",
+      "example": "Ich bin bei meiner Freundin.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-313",
+      "word": "nach",
+      "article": null,
+      "translation": {
+        "pt": "depois de/para",
+        "en": "after/to"
+      },
+      "category": "schule",
+      "example": "Nach der Schule gehe ich nach Hause.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-314",
+      "word": "aus",
+      "article": null,
+      "translation": {
+        "pt": "de (origem)",
+        "en": "from/out of"
+      },
+      "category": "schule",
+      "example": "Ich komme aus Brasilien.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-315",
+      "word": "um",
+      "article": null,
+      "translation": {
+        "pt": "ao redor de/às",
+        "en": "around/at"
+      },
+      "category": "schule",
+      "example": "Der Kurs beginnt um acht Uhr.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-316",
+      "word": "gegen",
+      "article": null,
+      "translation": {
+        "pt": "contra/por volta de",
+        "en": "against/around"
+      },
+      "category": "schule",
+      "example": "Wir treffen uns gegen neun.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-317",
+      "word": "bis",
+      "article": null,
+      "translation": {
+        "pt": "até",
+        "en": "until"
+      },
+      "category": "schule",
+      "example": "Der Laden ist bis 20 Uhr offen.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-318",
+      "word": "seit",
+      "article": null,
+      "translation": {
+        "pt": "desde",
+        "en": "since"
+      },
+      "category": "schule",
+      "example": "Ich lerne seit einem Jahr Deutsch.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-319",
+      "word": "durch",
+      "article": null,
+      "translation": {
+        "pt": "através de",
+        "en": "through"
+      },
+      "category": "schule",
+      "example": "Wir gehen durch den Park.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-320",
+      "word": "als",
+      "article": null,
+      "translation": {
+        "pt": "como/quando",
+        "en": "as/when"
+      },
+      "category": "schule",
+      "example": "Als Kind wohnte ich in Recife.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-321",
+      "word": "wenn",
+      "article": null,
+      "translation": {
+        "pt": "se/quando",
+        "en": "if/when"
+      },
+      "category": "schule",
+      "example": "Wenn es regnet, bleibe ich zu Hause.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-322",
+      "word": "weil",
+      "article": null,
+      "translation": {
+        "pt": "porque",
+        "en": "because"
+      },
+      "category": "schule",
+      "example": "Ich lerne viel, weil ich die Prüfung habe.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-323",
+      "word": "dass",
+      "article": null,
+      "translation": {
+        "pt": "que",
+        "en": "that"
+      },
+      "category": "schule",
+      "example": "Ich glaube, dass das richtig ist.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-324",
+      "word": "bevor",
+      "article": null,
+      "translation": {
+        "pt": "antes que",
+        "en": "before"
+      },
+      "category": "schule",
+      "example": "Bevor ich schlafe, lese ich.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-325",
+      "word": "danach",
+      "article": null,
+      "translation": {
+        "pt": "depois disso",
+        "en": "after that"
+      },
+      "category": "schule",
+      "example": "Wir essen und danach lernen wir.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-326",
+      "word": "zuerst",
+      "article": null,
+      "translation": {
+        "pt": "primeiro",
+        "en": "first"
+      },
+      "category": "schule",
+      "example": "Zuerst mache ich die Hausaufgaben.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-327",
+      "word": "später",
+      "article": null,
+      "translation": {
+        "pt": "mais tarde",
+        "en": "later"
+      },
+      "category": "schule",
+      "example": "Wir sprechen später darüber.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-328",
+      "word": "müssen",
+      "article": null,
+      "translation": {
+        "pt": "ter que",
+        "en": "must"
+      },
+      "category": "schule",
+      "example": "Ich muss heute arbeiten.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-329",
+      "word": "können",
+      "article": null,
+      "translation": {
+        "pt": "poder",
+        "en": "can"
+      },
+      "category": "schule",
+      "example": "Kannst du mir helfen?",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-330",
+      "word": "dürfen",
+      "article": null,
+      "translation": {
+        "pt": "ter permissão",
+        "en": "may/be allowed to"
+      },
+      "category": "schule",
+      "example": "Darf ich reinkommen?",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-331",
+      "word": "wollen",
+      "article": null,
+      "translation": {
+        "pt": "querer",
+        "en": "to want"
+      },
+      "category": "schule",
+      "example": "Ich will Deutsch lernen.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-332",
+      "word": "möchten",
+      "article": null,
+      "translation": {
+        "pt": "gostaria de",
+        "en": "would like"
+      },
+      "category": "schule",
+      "example": "Ich möchte einen Kaffee.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-333",
+      "word": "machen",
+      "article": null,
+      "translation": {
+        "pt": "fazer",
+        "en": "to do/make"
+      },
+      "category": "schule",
+      "example": "Was machst du heute?",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-334",
+      "word": "geben",
+      "article": null,
+      "translation": {
+        "pt": "dar",
+        "en": "to give"
+      },
+      "category": "schule",
+      "example": "Gib mir bitte das Buch.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-335",
+      "word": "nehmen",
+      "article": null,
+      "translation": {
+        "pt": "pegar/levar",
+        "en": "to take"
+      },
+      "category": "schule",
+      "example": "Ich nehme den Bus.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-336",
+      "word": "bringen",
+      "article": null,
+      "translation": {
+        "pt": "trazer",
+        "en": "to bring"
+      },
+      "category": "schule",
+      "example": "Ich bringe Brot mit.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-337",
+      "word": "holen",
+      "article": null,
+      "translation": {
+        "pt": "buscar",
+        "en": "to fetch"
+      },
+      "category": "schule",
+      "example": "Ich hole die Kinder ab.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-338",
+      "word": "fragen",
+      "article": null,
+      "translation": {
+        "pt": "perguntar",
+        "en": "to ask"
+      },
+      "category": "schule",
+      "example": "Ich frage den Lehrer.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-339",
+      "word": "antworten",
+      "article": null,
+      "translation": {
+        "pt": "responder",
+        "en": "to answer"
+      },
+      "category": "schule",
+      "example": "Bitte antworte schnell.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-340",
+      "word": "helfen",
+      "article": null,
+      "translation": {
+        "pt": "ajudar",
+        "en": "to help"
+      },
+      "category": "schule",
+      "example": "Kannst du mir helfen?",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-341",
+      "word": "zeigen",
+      "article": null,
+      "translation": {
+        "pt": "mostrar",
+        "en": "to show"
+      },
+      "category": "schule",
+      "example": "Ich zeige dir den Weg.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-342",
+      "word": "suchen",
+      "article": null,
+      "translation": {
+        "pt": "procurar",
+        "en": "to search"
+      },
+      "category": "schule",
+      "example": "Ich suche meinen Schlüssel.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-343",
+      "word": "finden",
+      "article": null,
+      "translation": {
+        "pt": "encontrar",
+        "en": "to find"
+      },
+      "category": "schule",
+      "example": "Ich finde das Buch nicht.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-344",
+      "word": "öffnen",
+      "article": null,
+      "translation": {
+        "pt": "abrir",
+        "en": "to open"
+      },
+      "category": "wohnen",
+      "example": "Bitte öffnen Sie die Tür.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-345",
+      "word": "schließen",
+      "article": null,
+      "translation": {
+        "pt": "fechar",
+        "en": "to close"
+      },
+      "category": "wohnen",
+      "example": "Ich schließe das Fenster.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-346",
+      "word": "anrufen",
+      "article": null,
+      "translation": {
+        "pt": "ligar",
+        "en": "to call"
+      },
+      "category": "familie",
+      "example": "Ich rufe meine Mutter an.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-347",
+      "word": "warten",
+      "article": null,
+      "translation": {
+        "pt": "esperar",
+        "en": "to wait"
+      },
+      "category": "reisen",
+      "example": "Ich warte an der Haltestelle.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-348",
+      "word": "starten",
+      "article": null,
+      "translation": {
+        "pt": "começar",
+        "en": "to start"
+      },
+      "category": "reisen",
+      "example": "Der Zug startet um acht.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-349",
+      "word": "enden",
+      "article": null,
+      "translation": {
+        "pt": "terminar",
+        "en": "to end"
+      },
+      "category": "schule",
+      "example": "Der Kurs endet im Juli.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-350",
+      "word": "links",
+      "article": null,
+      "translation": {
+        "pt": "à esquerda",
+        "en": "left"
+      },
+      "category": "reisen",
+      "example": "Die Apotheke ist links.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-351",
+      "word": "rechts",
+      "article": null,
+      "translation": {
+        "pt": "à direita",
+        "en": "right"
+      },
+      "category": "reisen",
+      "example": "Biegen Sie rechts ab.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-352",
+      "word": "vorn",
+      "article": null,
+      "translation": {
+        "pt": "na frente",
+        "en": "in front"
+      },
+      "category": "reisen",
+      "example": "Bitte vorne einsteigen.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-353",
+      "word": "hinten",
+      "article": null,
+      "translation": {
+        "pt": "atrás",
+        "en": "in the back"
+      },
+      "category": "reisen",
+      "example": "Hinten sind noch Plätze frei.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-354",
+      "word": "oben",
+      "article": null,
+      "translation": {
+        "pt": "em cima",
+        "en": "above/upstairs"
+      },
+      "category": "wohnen",
+      "example": "Meine Wohnung ist oben.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-355",
+      "word": "unten",
+      "article": null,
+      "translation": {
+        "pt": "embaixo",
+        "en": "below/downstairs"
+      },
+      "category": "wohnen",
+      "example": "Der Keller ist unten.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-356",
+      "word": "direkt",
+      "article": null,
+      "translation": {
+        "pt": "direto",
+        "en": "directly"
+      },
+      "category": "reisen",
+      "example": "Der Bus fährt direkt zum Bahnhof.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-357",
+      "word": "fast",
+      "article": null,
+      "translation": {
+        "pt": "quase",
+        "en": "almost"
+      },
+      "category": "schule",
+      "example": "Ich bin fast fertig.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-358",
+      "word": "wirklich",
+      "article": null,
+      "translation": {
+        "pt": "realmente",
+        "en": "really"
+      },
+      "category": "schule",
+      "example": "Das ist wirklich gut.",
+      "difficulty": 1,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "a1-359",
+      "word": "bestimmt",
+      "article": null,
+      "translation": {
+        "pt": "com certeza",
+        "en": "certainly"
+      },
+      "category": "schule",
+      "example": "Das klappt bestimmt.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
       ]
     }
   ]
