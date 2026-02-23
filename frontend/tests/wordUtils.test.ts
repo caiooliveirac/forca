@@ -124,12 +124,12 @@ describe('wordUtils', () => {
     });
 
     it('can filter by category', () => {
-      const word = getRandomWord({ difficulties: [], categories: ['essen'] });
+      const word = getRandomWord({ levels: [], difficulties: [], categories: ['essen'] });
       expect(word.category).toBe('essen');
     });
 
     it('can filter by difficulty', () => {
-      const word = getRandomWord({ difficulties: [1], categories: [] });
+      const word = getRandomWord({ levels: [], difficulties: [1], categories: [] });
       expect(word.difficulty).toBe(1);
     });
   });

@@ -1,0 +1,3528 @@
+{
+  "metadata": {
+    "level": "B1",
+    "source": "Goethe-Institut Wortliste B1",
+    "sourceUrl": "https://www.goethe.de/",
+    "totalWords": 231,
+    "lastUpdated": "2026-02-23"
+  },
+  "categories": [
+    {
+      "id": "essen",
+      "name": "Essen & Trinken",
+      "icon": "🍽️"
+    },
+    {
+      "id": "familie",
+      "name": "Familie & Freunde",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "arbeit",
+      "name": "Arbeit & Beruf",
+      "icon": "💼"
+    },
+    {
+      "id": "reisen",
+      "name": "Reisen & Verkehr",
+      "icon": "✈️"
+    },
+    {
+      "id": "wohnen",
+      "name": "Wohnen & Haushalt",
+      "icon": "🏠"
+    },
+    {
+      "id": "freizeit",
+      "name": "Freizeit & Hobby",
+      "icon": "⚽"
+    },
+    {
+      "id": "gesundheit",
+      "name": "Gesundheit & Körper",
+      "icon": "🏥"
+    },
+    {
+      "id": "einkaufen",
+      "name": "Einkaufen & Kleidung",
+      "icon": "🛒"
+    },
+    {
+      "id": "schule",
+      "name": "Schule & Bildung",
+      "icon": "📚"
+    },
+    {
+      "id": "natur",
+      "name": "Natur & Wetter",
+      "icon": "🌿"
+    }
+  ],
+  "words": [
+    {
+      "id": "b1-001",
+      "word": "Ernährung",
+      "article": "die",
+      "translation": {
+        "pt": "nutrição",
+        "en": "nutrition"
+      },
+      "category": "essen",
+      "example": "Eine gesunde Ernährung ist wichtig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-002",
+      "word": "Zutat",
+      "article": "die",
+      "translation": {
+        "pt": "ingrediente",
+        "en": "ingredient"
+      },
+      "category": "essen",
+      "example": "Die Zutat fehlt noch.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-003",
+      "word": "Mahlzeit",
+      "article": "die",
+      "translation": {
+        "pt": "refeição",
+        "en": "meal"
+      },
+      "category": "essen",
+      "example": "Die Mahlzeit war köstlich.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-004",
+      "word": "Beilage",
+      "article": "die",
+      "translation": {
+        "pt": "acompanhamento",
+        "en": "side dish"
+      },
+      "category": "essen",
+      "example": "Als Beilage nehme ich Salat.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-005",
+      "word": "Metzgerei",
+      "article": "die",
+      "translation": {
+        "pt": "açougue",
+        "en": "butcher shop"
+      },
+      "category": "essen",
+      "example": "Die Metzgerei hat gutes Fleisch.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-006",
+      "word": "Portion",
+      "article": "die",
+      "translation": {
+        "pt": "porção",
+        "en": "portion"
+      },
+      "category": "essen",
+      "example": "Die Portion ist groß.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-007",
+      "word": "Knoblauch",
+      "article": "der",
+      "translation": {
+        "pt": "alho",
+        "en": "garlic"
+      },
+      "category": "essen",
+      "example": "Knoblauch gibt Geschmack.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-008",
+      "word": "Essig",
+      "article": "der",
+      "translation": {
+        "pt": "vinagre",
+        "en": "vinegar"
+      },
+      "category": "essen",
+      "example": "Essig macht den Salat sauer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-009",
+      "word": "Senf",
+      "article": "der",
+      "translation": {
+        "pt": "mostarda",
+        "en": "mustard"
+      },
+      "category": "essen",
+      "example": "Senf passt zur Wurst.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-010",
+      "word": "Kirsche",
+      "article": "die",
+      "translation": {
+        "pt": "cereja",
+        "en": "cherry"
+      },
+      "category": "essen",
+      "example": "Die Kirsche ist süß.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-011",
+      "word": "Pflaume",
+      "article": "die",
+      "translation": {
+        "pt": "ameixa",
+        "en": "plum"
+      },
+      "category": "essen",
+      "example": "Die Pflaume ist reif.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-012",
+      "word": "Birne",
+      "article": "die",
+      "translation": {
+        "pt": "pera",
+        "en": "pear"
+      },
+      "category": "essen",
+      "example": "Die Birne schmeckt süß.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-013",
+      "word": "Erdbeere",
+      "article": "die",
+      "translation": {
+        "pt": "morango",
+        "en": "strawberry"
+      },
+      "category": "essen",
+      "example": "Die Erdbeere ist rot.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-014",
+      "word": "Himbeere",
+      "article": "die",
+      "translation": {
+        "pt": "framboesa",
+        "en": "raspberry"
+      },
+      "category": "essen",
+      "example": "Die Himbeere wächst im Garten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-015",
+      "word": "Pfirsich",
+      "article": "der",
+      "translation": {
+        "pt": "pêssego",
+        "en": "peach"
+      },
+      "category": "essen",
+      "example": "Der Pfirsich ist saftig.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-016",
+      "word": "Aubergine",
+      "article": "die",
+      "translation": {
+        "pt": "berinjela",
+        "en": "eggplant"
+      },
+      "category": "essen",
+      "example": "Die Aubergine wird gebraten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-017",
+      "word": "Blumenkohl",
+      "article": "der",
+      "translation": {
+        "pt": "couve-flor",
+        "en": "cauliflower"
+      },
+      "category": "essen",
+      "example": "Der Blumenkohl ist gesund.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-018",
+      "word": "Spinat",
+      "article": "der",
+      "translation": {
+        "pt": "espinafre",
+        "en": "spinach"
+      },
+      "category": "essen",
+      "example": "Spinat hat viel Eisen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-019",
+      "word": "Pilz",
+      "article": "der",
+      "translation": {
+        "pt": "cogumelo",
+        "en": "mushroom"
+      },
+      "category": "essen",
+      "example": "Der Pilz wächst im Wald.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-020",
+      "word": "Nuss",
+      "article": "die",
+      "translation": {
+        "pt": "noz",
+        "en": "nut"
+      },
+      "category": "essen",
+      "example": "Die Nuss ist hart.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-021",
+      "word": "Erziehung",
+      "article": "die",
+      "translation": {
+        "pt": "educação/criação",
+        "en": "upbringing"
+      },
+      "category": "familie",
+      "example": "Erziehung ist nicht einfach.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-022",
+      "word": "Jugendliche",
+      "article": "der/die",
+      "translation": {
+        "pt": "jovem",
+        "en": "teenager"
+      },
+      "category": "familie",
+      "example": "Die Jugendlichen spielen im Park.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-023",
+      "word": "Scheidung",
+      "article": "die",
+      "translation": {
+        "pt": "divórcio",
+        "en": "divorce"
+      },
+      "category": "familie",
+      "example": "Die Scheidung war schwierig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-024",
+      "word": "Schwangerschaft",
+      "article": "die",
+      "translation": {
+        "pt": "gravidez",
+        "en": "pregnancy"
+      },
+      "category": "familie",
+      "example": "Die Schwangerschaft verläuft gut.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-025",
+      "word": "Beziehung",
+      "article": "die",
+      "translation": {
+        "pt": "relacionamento",
+        "en": "relationship"
+      },
+      "category": "familie",
+      "example": "Die Beziehung ist stabil.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-026",
+      "word": "Streit",
+      "article": "der",
+      "translation": {
+        "pt": "briga",
+        "en": "argument"
+      },
+      "category": "familie",
+      "example": "Der Streit war unnötig.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-027",
+      "word": "Vertrauen",
+      "article": "das",
+      "translation": {
+        "pt": "confiança",
+        "en": "trust"
+      },
+      "category": "familie",
+      "example": "Vertrauen ist wichtig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-028",
+      "word": "Enkelkind",
+      "article": "das",
+      "translation": {
+        "pt": "neto/neta",
+        "en": "grandchild"
+      },
+      "category": "familie",
+      "example": "Das Enkelkind besucht die Großeltern.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-029",
+      "word": "Trauung",
+      "article": "die",
+      "translation": {
+        "pt": "cerimônia de casamento",
+        "en": "wedding ceremony"
+      },
+      "category": "familie",
+      "example": "Die Trauung war feierlich.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-030",
+      "word": "Verlobung",
+      "article": "die",
+      "translation": {
+        "pt": "noivado",
+        "en": "engagement"
+      },
+      "category": "familie",
+      "example": "Die Verlobung war eine Überraschung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-031",
+      "word": "Arbeitsplatz",
+      "article": "der",
+      "translation": {
+        "pt": "posto de trabalho",
+        "en": "workplace"
+      },
+      "category": "arbeit",
+      "example": "Der Arbeitsplatz ist modern.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-032",
+      "word": "Abteilung",
+      "article": "die",
+      "translation": {
+        "pt": "departamento",
+        "en": "department"
+      },
+      "category": "arbeit",
+      "example": "Die Abteilung hat 20 Mitarbeiter.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-033",
+      "word": "Mitarbeiter",
+      "article": "der",
+      "translation": {
+        "pt": "colaborador",
+        "en": "employee"
+      },
+      "category": "arbeit",
+      "example": "Der Mitarbeiter ist neu.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-034",
+      "word": "Überstunde",
+      "article": "die",
+      "translation": {
+        "pt": "hora extra",
+        "en": "overtime"
+      },
+      "category": "arbeit",
+      "example": "Ich mache heute Überstunden.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-035",
+      "word": "Beförderung",
+      "article": "die",
+      "translation": {
+        "pt": "promoção",
+        "en": "promotion"
+      },
+      "category": "arbeit",
+      "example": "Die Beförderung war verdient.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-036",
+      "word": "Vorstellungsgespräch",
+      "article": "das",
+      "translation": {
+        "pt": "entrevista de emprego",
+        "en": "job interview"
+      },
+      "category": "arbeit",
+      "example": "Das Vorstellungsgespräch war gut.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-037",
+      "word": "Buchhaltung",
+      "article": "die",
+      "translation": {
+        "pt": "contabilidade",
+        "en": "accounting"
+      },
+      "category": "arbeit",
+      "example": "Die Buchhaltung prüft die Zahlen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-038",
+      "word": "Handwerker",
+      "article": "der",
+      "translation": {
+        "pt": "artesão/técnico",
+        "en": "craftsman"
+      },
+      "category": "arbeit",
+      "example": "Der Handwerker repariert das Dach.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-039",
+      "word": "Ingenieur",
+      "article": "der",
+      "translation": {
+        "pt": "engenheiro",
+        "en": "engineer"
+      },
+      "category": "arbeit",
+      "example": "Der Ingenieur plant die Brücke.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-040",
+      "word": "Rechtsanwalt",
+      "article": "der",
+      "translation": {
+        "pt": "advogado",
+        "en": "lawyer"
+      },
+      "category": "arbeit",
+      "example": "Der Rechtsanwalt berät den Kunden.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-041",
+      "word": "Beamte",
+      "article": "der",
+      "translation": {
+        "pt": "funcionário público",
+        "en": "civil servant"
+      },
+      "category": "arbeit",
+      "example": "Der Beamte arbeitet im Rathaus.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-042",
+      "word": "Architekt",
+      "article": "der",
+      "translation": {
+        "pt": "arquiteto",
+        "en": "architect"
+      },
+      "category": "arbeit",
+      "example": "Der Architekt entwirft das Haus.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-043",
+      "word": "Journalist",
+      "article": "der",
+      "translation": {
+        "pt": "jornalista",
+        "en": "journalist"
+      },
+      "category": "arbeit",
+      "example": "Der Journalist schreibt einen Artikel.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-044",
+      "word": "Reiseführer",
+      "article": "der",
+      "translation": {
+        "pt": "guia de viagem",
+        "en": "travel guide"
+      },
+      "category": "reisen",
+      "example": "Der Reiseführer kennt die Stadt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-045",
+      "word": "Abfahrt",
+      "article": "die",
+      "translation": {
+        "pt": "partida",
+        "en": "departure"
+      },
+      "category": "reisen",
+      "example": "Die Abfahrt ist um 9 Uhr.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-046",
+      "word": "Rundfahrt",
+      "article": "die",
+      "translation": {
+        "pt": "passeio turístico",
+        "en": "tour"
+      },
+      "category": "reisen",
+      "example": "Die Rundfahrt dauert zwei Stunden.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-047",
+      "word": "Autobahn",
+      "article": "die",
+      "translation": {
+        "pt": "autoestrada",
+        "en": "highway"
+      },
+      "category": "reisen",
+      "example": "Die Autobahn hat kein Tempolimit.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-048",
+      "word": "Fähre",
+      "article": "die",
+      "translation": {
+        "pt": "balsa",
+        "en": "ferry"
+      },
+      "category": "reisen",
+      "example": "Die Fähre überquert den Fluss.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-049",
+      "word": "Umzug",
+      "article": "der",
+      "translation": {
+        "pt": "mudança",
+        "en": "move"
+      },
+      "category": "wohnen",
+      "example": "Der Umzug war anstrengend.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-050",
+      "word": "Nebenkosten",
+      "article": null,
+      "translation": {
+        "pt": "custos extras",
+        "en": "utility costs"
+      },
+      "category": "wohnen",
+      "example": "Die Nebenkosten sind inklusive.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-051",
+      "word": "Einrichtung",
+      "article": "die",
+      "translation": {
+        "pt": "mobília/decoração",
+        "en": "furnishing"
+      },
+      "category": "wohnen",
+      "example": "Die Einrichtung ist modern.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-052",
+      "word": "Renovierung",
+      "article": "die",
+      "translation": {
+        "pt": "reforma",
+        "en": "renovation"
+      },
+      "category": "wohnen",
+      "example": "Die Renovierung dauert zwei Wochen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-053",
+      "word": "Keller",
+      "article": "der",
+      "translation": {
+        "pt": "porão",
+        "en": "basement"
+      },
+      "category": "wohnen",
+      "example": "Der Keller ist dunkel.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-054",
+      "word": "Stockwerk",
+      "article": "das",
+      "translation": {
+        "pt": "andar",
+        "en": "floor/story"
+      },
+      "category": "wohnen",
+      "example": "Wir wohnen im dritten Stockwerk.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-055",
+      "word": "Geschirrspüler",
+      "article": "der",
+      "translation": {
+        "pt": "máquina de lavar louça",
+        "en": "dishwasher"
+      },
+      "category": "wohnen",
+      "example": "Der Geschirrspüler spart Zeit.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-056",
+      "word": "Dachboden",
+      "article": "der",
+      "translation": {
+        "pt": "sótão",
+        "en": "attic"
+      },
+      "category": "wohnen",
+      "example": "Der Dachboden ist staubig.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-057",
+      "word": "Zaun",
+      "article": "der",
+      "translation": {
+        "pt": "cerca",
+        "en": "fence"
+      },
+      "category": "wohnen",
+      "example": "Der Zaun ist aus Holz.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-058",
+      "word": "Terrasse",
+      "article": "die",
+      "translation": {
+        "pt": "terraço",
+        "en": "terrace"
+      },
+      "category": "wohnen",
+      "example": "Die Terrasse hat Blumen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-059",
+      "word": "Veranstaltung",
+      "article": "die",
+      "translation": {
+        "pt": "evento",
+        "en": "event"
+      },
+      "category": "freizeit",
+      "example": "Die Veranstaltung war erfolgreich.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-060",
+      "word": "Meisterschaft",
+      "article": "die",
+      "translation": {
+        "pt": "campeonato",
+        "en": "championship"
+      },
+      "category": "freizeit",
+      "example": "Die Meisterschaft beginnt morgen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-061",
+      "word": "Zuschauer",
+      "article": "der",
+      "translation": {
+        "pt": "espectador",
+        "en": "spectator"
+      },
+      "category": "freizeit",
+      "example": "Die Zuschauer klatschen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-062",
+      "word": "Erholung",
+      "article": "die",
+      "translation": {
+        "pt": "descanso/lazer",
+        "en": "recreation"
+      },
+      "category": "freizeit",
+      "example": "Erholung ist notwendig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-063",
+      "word": "Schlagzeug",
+      "article": "das",
+      "translation": {
+        "pt": "bateria (instrumento)",
+        "en": "drums"
+      },
+      "category": "freizeit",
+      "example": "Er spielt Schlagzeug.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-064",
+      "word": "Geige",
+      "article": "die",
+      "translation": {
+        "pt": "violino",
+        "en": "violin"
+      },
+      "category": "freizeit",
+      "example": "Sie spielt Geige seit fünf Jahren.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-065",
+      "word": "Klavier",
+      "article": "das",
+      "translation": {
+        "pt": "piano",
+        "en": "piano"
+      },
+      "category": "freizeit",
+      "example": "Das Klavier steht im Wohnzimmer.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-066",
+      "word": "Gitarre",
+      "article": "die",
+      "translation": {
+        "pt": "guitarra",
+        "en": "guitar"
+      },
+      "category": "freizeit",
+      "example": "Er übt Gitarre.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-067",
+      "word": "Galerie",
+      "article": "die",
+      "translation": {
+        "pt": "galeria",
+        "en": "gallery"
+      },
+      "category": "freizeit",
+      "example": "Die Galerie zeigt moderne Kunst.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-068",
+      "word": "Schiedsrichter",
+      "article": "der",
+      "translation": {
+        "pt": "árbitro",
+        "en": "referee"
+      },
+      "category": "freizeit",
+      "example": "Der Schiedsrichter pfeift.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-069",
+      "word": "Tischtennis",
+      "article": "das",
+      "translation": {
+        "pt": "tênis de mesa",
+        "en": "table tennis"
+      },
+      "category": "freizeit",
+      "example": "Tischtennis macht Spaß.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-070",
+      "word": "Leichtathletik",
+      "article": "die",
+      "translation": {
+        "pt": "atletismo",
+        "en": "athletics"
+      },
+      "category": "freizeit",
+      "example": "Leichtathletik ist mein Hobby.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-071",
+      "word": "Radfahren",
+      "article": "das",
+      "translation": {
+        "pt": "ciclismo",
+        "en": "cycling"
+      },
+      "category": "freizeit",
+      "example": "Radfahren hält fit.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-072",
+      "word": "Behandlung",
+      "article": "die",
+      "translation": {
+        "pt": "tratamento",
+        "en": "treatment"
+      },
+      "category": "gesundheit",
+      "example": "Die Behandlung war erfolgreich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-073",
+      "word": "Verletzung",
+      "article": "die",
+      "translation": {
+        "pt": "lesão",
+        "en": "injury"
+      },
+      "category": "gesundheit",
+      "example": "Die Verletzung ist nicht schlimm.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-074",
+      "word": "Impfung",
+      "article": "die",
+      "translation": {
+        "pt": "vacinação",
+        "en": "vaccination"
+      },
+      "category": "gesundheit",
+      "example": "Die Impfung war schnell.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-075",
+      "word": "Blutdruck",
+      "article": "der",
+      "translation": {
+        "pt": "pressão arterial",
+        "en": "blood pressure"
+      },
+      "category": "gesundheit",
+      "example": "Der Blutdruck ist normal.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-076",
+      "word": "Operation",
+      "article": "die",
+      "translation": {
+        "pt": "cirurgia",
+        "en": "surgery"
+      },
+      "category": "gesundheit",
+      "example": "Die Operation war erfolgreich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-077",
+      "word": "Verband",
+      "article": "der",
+      "translation": {
+        "pt": "curativo/bandagem",
+        "en": "bandage"
+      },
+      "category": "gesundheit",
+      "example": "Der Verband muss gewechselt werden.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-078",
+      "word": "Salbe",
+      "article": "die",
+      "translation": {
+        "pt": "pomada",
+        "en": "ointment"
+      },
+      "category": "gesundheit",
+      "example": "Die Salbe hilft gegen Schmerzen.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-079",
+      "word": "Tablette",
+      "article": "die",
+      "translation": {
+        "pt": "comprimido",
+        "en": "tablet/pill"
+      },
+      "category": "gesundheit",
+      "example": "Nehmen Sie die Tablette nach dem Essen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-080",
+      "word": "Spritze",
+      "article": "die",
+      "translation": {
+        "pt": "seringa/injeção",
+        "en": "syringe/injection"
+      },
+      "category": "gesundheit",
+      "example": "Die Spritze tut nicht weh.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-081",
+      "word": "Wunde",
+      "article": "die",
+      "translation": {
+        "pt": "ferida",
+        "en": "wound"
+      },
+      "category": "gesundheit",
+      "example": "Die Wunde heilt schnell.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-082",
+      "word": "Rabatt",
+      "article": "der",
+      "translation": {
+        "pt": "desconto",
+        "en": "discount"
+      },
+      "category": "einkaufen",
+      "example": "Es gibt 20 Prozent Rabatt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-083",
+      "word": "Umkleidekabine",
+      "article": "die",
+      "translation": {
+        "pt": "provador",
+        "en": "fitting room"
+      },
+      "category": "einkaufen",
+      "example": "Die Umkleidekabine ist dort.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-084",
+      "word": "Kassiererin",
+      "article": "die",
+      "translation": {
+        "pt": "caixa (pessoa)",
+        "en": "cashier"
+      },
+      "category": "einkaufen",
+      "example": "Die Kassiererin ist freundlich.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-085",
+      "word": "Verpackung",
+      "article": "die",
+      "translation": {
+        "pt": "embalagem",
+        "en": "packaging"
+      },
+      "category": "einkaufen",
+      "example": "Die Verpackung ist recycelbar.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-086",
+      "word": "Armband",
+      "article": "das",
+      "translation": {
+        "pt": "pulseira",
+        "en": "bracelet"
+      },
+      "category": "einkaufen",
+      "example": "Das Armband ist aus Gold.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-087",
+      "word": "Parfüm",
+      "article": "das",
+      "translation": {
+        "pt": "perfume",
+        "en": "perfume"
+      },
+      "category": "einkaufen",
+      "example": "Das Parfüm riecht gut.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-088",
+      "word": "Geldbörse",
+      "article": "die",
+      "translation": {
+        "pt": "carteira",
+        "en": "wallet"
+      },
+      "category": "einkaufen",
+      "example": "Die Geldbörse ist aus Leder.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-089",
+      "word": "Stiefel",
+      "article": "der",
+      "translation": {
+        "pt": "bota",
+        "en": "boot"
+      },
+      "category": "einkaufen",
+      "example": "Die Stiefel sind warm.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-090",
+      "word": "Sandalen",
+      "article": null,
+      "translation": {
+        "pt": "sandálias",
+        "en": "sandals"
+      },
+      "category": "einkaufen",
+      "example": "Die Sandalen sind bequem.",
+      "difficulty": 2,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-091",
+      "word": "Wissenschaft",
+      "article": "die",
+      "translation": {
+        "pt": "ciência",
+        "en": "science"
+      },
+      "category": "schule",
+      "example": "Die Wissenschaft ist faszinierend.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-092",
+      "word": "Forschung",
+      "article": "die",
+      "translation": {
+        "pt": "pesquisa",
+        "en": "research"
+      },
+      "category": "schule",
+      "example": "Die Forschung dauert Jahre.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-093",
+      "word": "Vortrag",
+      "article": "der",
+      "translation": {
+        "pt": "palestra",
+        "en": "lecture"
+      },
+      "category": "schule",
+      "example": "Der Vortrag war interessant.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-094",
+      "word": "Studium",
+      "article": "das",
+      "translation": {
+        "pt": "estudos (acadêmicos)",
+        "en": "studies"
+      },
+      "category": "schule",
+      "example": "Das Studium dauert vier Jahre.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-095",
+      "word": "Stipendium",
+      "article": "das",
+      "translation": {
+        "pt": "bolsa de estudos",
+        "en": "scholarship"
+      },
+      "category": "schule",
+      "example": "Er hat ein Stipendium bekommen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-096",
+      "word": "Abschluss",
+      "article": "der",
+      "translation": {
+        "pt": "diploma/conclusão",
+        "en": "degree/graduation"
+      },
+      "category": "schule",
+      "example": "Der Abschluss war hart.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-097",
+      "word": "Hausarbeit",
+      "article": "die",
+      "translation": {
+        "pt": "trabalho de casa",
+        "en": "homework/essay"
+      },
+      "category": "schule",
+      "example": "Die Hausarbeit muss fertig sein.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-098",
+      "word": "Nachmittag",
+      "article": "der",
+      "translation": {
+        "pt": "tarde",
+        "en": "afternoon"
+      },
+      "category": "schule",
+      "example": "Am Nachmittag lerne ich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-099",
+      "word": "Kenntnisse",
+      "article": null,
+      "translation": {
+        "pt": "conhecimentos",
+        "en": "knowledge"
+      },
+      "category": "schule",
+      "example": "Seine Kenntnisse sind beeindruckend.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-100",
+      "word": "Grammatik",
+      "article": "die",
+      "translation": {
+        "pt": "gramática",
+        "en": "grammar"
+      },
+      "category": "schule",
+      "example": "Die Grammatik ist schwer.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-101",
+      "word": "Aufsatz",
+      "article": "der",
+      "translation": {
+        "pt": "redação",
+        "en": "essay"
+      },
+      "category": "schule",
+      "example": "Der Aufsatz ist fertig.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-102",
+      "word": "Klimawandel",
+      "article": "der",
+      "translation": {
+        "pt": "mudança climática",
+        "en": "climate change"
+      },
+      "category": "natur",
+      "example": "Der Klimawandel ist ein Problem.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-103",
+      "word": "Naturschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção ambiental",
+        "en": "nature conservation"
+      },
+      "category": "natur",
+      "example": "Naturschutz ist wichtig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-104",
+      "word": "Verschmutzung",
+      "article": "die",
+      "translation": {
+        "pt": "poluição",
+        "en": "pollution"
+      },
+      "category": "natur",
+      "example": "Die Verschmutzung ist ein Problem.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-105",
+      "word": "Erdbeben",
+      "article": "das",
+      "translation": {
+        "pt": "terremoto",
+        "en": "earthquake"
+      },
+      "category": "natur",
+      "example": "Das Erdbeben war stark.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-106",
+      "word": "Überschwemmung",
+      "article": "die",
+      "translation": {
+        "pt": "inundação",
+        "en": "flood"
+      },
+      "category": "natur",
+      "example": "Die Überschwemmung hat Schäden verursacht.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-107",
+      "word": "Vorhersage",
+      "article": "die",
+      "translation": {
+        "pt": "previsão",
+        "en": "forecast"
+      },
+      "category": "natur",
+      "example": "Die Vorhersage sagt Regen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-108",
+      "word": "Jahreszeit",
+      "article": "die",
+      "translation": {
+        "pt": "estação do ano",
+        "en": "season"
+      },
+      "category": "natur",
+      "example": "Welche Jahreszeit magst du?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-109",
+      "word": "Schmetterling",
+      "article": "der",
+      "translation": {
+        "pt": "borboleta",
+        "en": "butterfly"
+      },
+      "category": "natur",
+      "example": "Der Schmetterling fliegt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-110",
+      "word": "Eichhörnchen",
+      "article": "das",
+      "translation": {
+        "pt": "esquilo",
+        "en": "squirrel"
+      },
+      "category": "natur",
+      "example": "Das Eichhörnchen sammelt Nüsse.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-111",
+      "word": "Frosch",
+      "article": "der",
+      "translation": {
+        "pt": "sapo",
+        "en": "frog"
+      },
+      "category": "natur",
+      "example": "Der Frosch springt ins Wasser.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-112",
+      "word": "Biber",
+      "article": "der",
+      "translation": {
+        "pt": "castor",
+        "en": "beaver"
+      },
+      "category": "natur",
+      "example": "Der Biber baut einen Damm.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-113",
+      "word": "Ameise",
+      "article": "die",
+      "translation": {
+        "pt": "formiga",
+        "en": "ant"
+      },
+      "category": "natur",
+      "example": "Die Ameise trägt ein Blatt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-114",
+      "word": "Biene",
+      "article": "die",
+      "translation": {
+        "pt": "abelha",
+        "en": "bee"
+      },
+      "category": "natur",
+      "example": "Die Biene sammelt Nektar.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-115",
+      "word": "Wespe",
+      "article": "die",
+      "translation": {
+        "pt": "vespa",
+        "en": "wasp"
+      },
+      "category": "natur",
+      "example": "Die Wespe sticht.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-116",
+      "word": "Spinne",
+      "article": "die",
+      "translation": {
+        "pt": "aranha",
+        "en": "spider"
+      },
+      "category": "natur",
+      "example": "Die Spinne baut ein Netz.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-117",
+      "word": "Regenbogen",
+      "article": "der",
+      "translation": {
+        "pt": "arco-íris",
+        "en": "rainbow"
+      },
+      "category": "natur",
+      "example": "Der Regenbogen hat sieben Farben.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-118",
+      "word": "Nebel",
+      "article": "der",
+      "translation": {
+        "pt": "nevoeiro",
+        "en": "fog"
+      },
+      "category": "natur",
+      "example": "Der Nebel ist dicht.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-119",
+      "word": "Hagel",
+      "article": "der",
+      "translation": {
+        "pt": "granizo",
+        "en": "hail"
+      },
+      "category": "natur",
+      "example": "Der Hagel hat die Ernte zerstört.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-120",
+      "word": "Blitz",
+      "article": "der",
+      "translation": {
+        "pt": "relâmpago",
+        "en": "lightning"
+      },
+      "category": "natur",
+      "example": "Der Blitz schlägt ein.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-121",
+      "word": "Donner",
+      "article": "der",
+      "translation": {
+        "pt": "trovão",
+        "en": "thunder"
+      },
+      "category": "natur",
+      "example": "Der Donner ist laut.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-122",
+      "word": "Reif",
+      "article": "der",
+      "translation": {
+        "pt": "geada",
+        "en": "frost"
+      },
+      "category": "natur",
+      "example": "Der Reif bedeckt das Gras.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-123",
+      "word": "Tau",
+      "article": "der",
+      "translation": {
+        "pt": "orvalho",
+        "en": "dew"
+      },
+      "category": "natur",
+      "example": "Der Tau glänzt im Sonnenlicht.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-124",
+      "word": "Busch",
+      "article": "der",
+      "translation": {
+        "pt": "arbusto",
+        "en": "bush"
+      },
+      "category": "natur",
+      "example": "Der Busch blüht im Frühling.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-125",
+      "word": "Mücke",
+      "article": "die",
+      "translation": {
+        "pt": "mosquito",
+        "en": "mosquito"
+      },
+      "category": "natur",
+      "example": "Die Mücke sticht.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-126",
+      "word": "Käfer",
+      "article": "der",
+      "translation": {
+        "pt": "besouro",
+        "en": "beetle"
+      },
+      "category": "natur",
+      "example": "Der Käfer krabbelt.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-127",
+      "word": "Schnecke",
+      "article": "die",
+      "translation": {
+        "pt": "caracol",
+        "en": "snail"
+      },
+      "category": "natur",
+      "example": "Die Schnecke ist langsam.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-128",
+      "word": "Adler",
+      "article": "der",
+      "translation": {
+        "pt": "águia",
+        "en": "eagle"
+      },
+      "category": "natur",
+      "example": "Der Adler fliegt hoch.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-129",
+      "word": "Wolf",
+      "article": "der",
+      "translation": {
+        "pt": "lobo",
+        "en": "wolf"
+      },
+      "category": "natur",
+      "example": "Der Wolf heult nachts.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-130",
+      "word": "Fuchs",
+      "article": "der",
+      "translation": {
+        "pt": "raposa",
+        "en": "fox"
+      },
+      "category": "natur",
+      "example": "Der Fuchs ist schlau.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-131",
+      "word": "Hirsch",
+      "article": "der",
+      "translation": {
+        "pt": "cervo",
+        "en": "deer"
+      },
+      "category": "natur",
+      "example": "Der Hirsch hat ein großes Geweih.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-132",
+      "word": "Elefant",
+      "article": "der",
+      "translation": {
+        "pt": "elefante",
+        "en": "elephant"
+      },
+      "category": "natur",
+      "example": "Der Elefant ist groß.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-133",
+      "word": "Löwe",
+      "article": "der",
+      "translation": {
+        "pt": "leão",
+        "en": "lion"
+      },
+      "category": "natur",
+      "example": "Der Löwe brüllt.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-134",
+      "word": "Affe",
+      "article": "der",
+      "translation": {
+        "pt": "macaco",
+        "en": "monkey"
+      },
+      "category": "natur",
+      "example": "Der Affe klettert auf den Baum.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-135",
+      "word": "Pinguin",
+      "article": "der",
+      "translation": {
+        "pt": "pinguim",
+        "en": "penguin"
+      },
+      "category": "natur",
+      "example": "Der Pinguin lebt in der Antarktis.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-136",
+      "word": "Delphin",
+      "article": "der",
+      "translation": {
+        "pt": "golfinho",
+        "en": "dolphin"
+      },
+      "category": "natur",
+      "example": "Der Delphin springt aus dem Wasser.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-137",
+      "word": "Wal",
+      "article": "der",
+      "translation": {
+        "pt": "baleia",
+        "en": "whale"
+      },
+      "category": "natur",
+      "example": "Der Wal ist riesig.",
+      "difficulty": 1,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-138",
+      "word": "Giraffe",
+      "article": "die",
+      "translation": {
+        "pt": "girafa",
+        "en": "giraffe"
+      },
+      "category": "natur",
+      "example": "Die Giraffe frisst Blätter.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-139",
+      "word": "Schildkröte",
+      "article": "die",
+      "translation": {
+        "pt": "tartaruga",
+        "en": "turtle"
+      },
+      "category": "natur",
+      "example": "Die Schildkröte ist langsam.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-140",
+      "word": "Meinungsfreiheit",
+      "article": "die",
+      "translation": {
+        "pt": "liberdade de expressão",
+        "en": "freedom of speech"
+      },
+      "category": "schule",
+      "example": "Die Meinungsfreiheit ist ein Grundrecht.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-141",
+      "word": "Gesichtspunkt",
+      "article": "der",
+      "translation": {
+        "pt": "ponto de vista",
+        "en": "point of view"
+      },
+      "category": "schule",
+      "example": "Aus welchem Gesichtspunkt?",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-142",
+      "word": "Zusammenfassung",
+      "article": "die",
+      "translation": {
+        "pt": "resumo",
+        "en": "summary"
+      },
+      "category": "schule",
+      "example": "Die Zusammenfassung ist kurz.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-143",
+      "word": "Verbesserung",
+      "article": "die",
+      "translation": {
+        "pt": "melhoria",
+        "en": "improvement"
+      },
+      "category": "arbeit",
+      "example": "Die Verbesserung ist nötig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-144",
+      "word": "Verantwortung",
+      "article": "die",
+      "translation": {
+        "pt": "responsabilidade",
+        "en": "responsibility"
+      },
+      "category": "arbeit",
+      "example": "Verantwortung ist wichtig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-145",
+      "word": "Leidenschaft",
+      "article": "die",
+      "translation": {
+        "pt": "paixão",
+        "en": "passion"
+      },
+      "category": "freizeit",
+      "example": "Musik ist seine Leidenschaft.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-146",
+      "word": "Gelegenheit",
+      "article": "die",
+      "translation": {
+        "pt": "oportunidade",
+        "en": "opportunity"
+      },
+      "category": "arbeit",
+      "example": "Die Gelegenheit ist günstig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-147",
+      "word": "Wettbewerb",
+      "article": "der",
+      "translation": {
+        "pt": "competição",
+        "en": "competition"
+      },
+      "category": "freizeit",
+      "example": "Der Wettbewerb war hart.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-148",
+      "word": "Stimmung",
+      "article": "die",
+      "translation": {
+        "pt": "humor/clima",
+        "en": "mood"
+      },
+      "category": "freizeit",
+      "example": "Die Stimmung war gut.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-149",
+      "word": "Eindruck",
+      "article": "der",
+      "translation": {
+        "pt": "impressão",
+        "en": "impression"
+      },
+      "category": "reisen",
+      "example": "Der erste Eindruck zählt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-150",
+      "word": "Erinnerung",
+      "article": "die",
+      "translation": {
+        "pt": "recordação",
+        "en": "memory"
+      },
+      "category": "reisen",
+      "example": "Das ist eine schöne Erinnerung.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-151",
+      "word": "Auswirkung",
+      "article": "die",
+      "translation": {
+        "pt": "impacto/efeito",
+        "en": "effect"
+      },
+      "category": "natur",
+      "example": "Die Auswirkungen sind sichtbar.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-152",
+      "word": "Herausforderung",
+      "article": "die",
+      "translation": {
+        "pt": "desafio",
+        "en": "challenge"
+      },
+      "category": "arbeit",
+      "example": "Die Herausforderung ist groß.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-153",
+      "word": "Entwicklung",
+      "article": "die",
+      "translation": {
+        "pt": "desenvolvimento",
+        "en": "development"
+      },
+      "category": "arbeit",
+      "example": "Die Entwicklung schreitet voran.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-154",
+      "word": "Zusätzlich",
+      "article": null,
+      "translation": {
+        "pt": "adicional",
+        "en": "additional"
+      },
+      "category": "einkaufen",
+      "example": "Zusätzlich brauchen wir Milch.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-155",
+      "word": "Anleitung",
+      "article": "die",
+      "translation": {
+        "pt": "instrução/manual",
+        "en": "instructions"
+      },
+      "category": "schule",
+      "example": "Die Anleitung ist klar.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-156",
+      "word": "Enttäuschung",
+      "article": "die",
+      "translation": {
+        "pt": "decepção",
+        "en": "disappointment"
+      },
+      "category": "familie",
+      "example": "Die Enttäuschung war groß.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-157",
+      "word": "Voraussetzung",
+      "article": "die",
+      "translation": {
+        "pt": "pré-requisito",
+        "en": "prerequisite"
+      },
+      "category": "arbeit",
+      "example": "Die Voraussetzung ist Erfahrung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-158",
+      "word": "Beurteilung",
+      "article": "die",
+      "translation": {
+        "pt": "avaliação",
+        "en": "assessment"
+      },
+      "category": "arbeit",
+      "example": "Die Beurteilung war positiv.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-159",
+      "word": "Aufmerksamkeit",
+      "article": "die",
+      "translation": {
+        "pt": "atenção",
+        "en": "attention"
+      },
+      "category": "schule",
+      "example": "Aufmerksamkeit ist nötig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-160",
+      "word": "Geduld",
+      "article": "die",
+      "translation": {
+        "pt": "paciência",
+        "en": "patience"
+      },
+      "category": "familie",
+      "example": "Geduld ist eine Tugend.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-161",
+      "word": "Gewohnheit",
+      "article": "die",
+      "translation": {
+        "pt": "hábito",
+        "en": "habit"
+      },
+      "category": "gesundheit",
+      "example": "Das ist eine schlechte Gewohnheit.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-162",
+      "word": "Bewegung",
+      "article": "die",
+      "translation": {
+        "pt": "movimento",
+        "en": "movement"
+      },
+      "category": "gesundheit",
+      "example": "Bewegung ist gesund.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-163",
+      "word": "Unterhaltung",
+      "article": "die",
+      "translation": {
+        "pt": "entretenimento",
+        "en": "entertainment"
+      },
+      "category": "freizeit",
+      "example": "Die Unterhaltung war lustig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-164",
+      "word": "Gleichgewicht",
+      "article": "das",
+      "translation": {
+        "pt": "equilíbrio",
+        "en": "balance"
+      },
+      "category": "gesundheit",
+      "example": "Das Gleichgewicht halten.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-165",
+      "word": "Gesellschaft",
+      "article": "die",
+      "translation": {
+        "pt": "sociedade",
+        "en": "society"
+      },
+      "category": "schule",
+      "example": "Die Gesellschaft verändert sich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-166",
+      "word": "Schwierigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "dificuldade",
+        "en": "difficulty"
+      },
+      "category": "schule",
+      "example": "Die Schwierigkeit nimmt zu.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-167",
+      "word": "Grundstück",
+      "article": "das",
+      "translation": {
+        "pt": "terreno",
+        "en": "plot of land"
+      },
+      "category": "wohnen",
+      "example": "Das Grundstück ist groß.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-168",
+      "word": "Eigenschaft",
+      "article": "die",
+      "translation": {
+        "pt": "característica",
+        "en": "characteristic"
+      },
+      "category": "schule",
+      "example": "Die Eigenschaft ist positiv.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-169",
+      "word": "Bügelesen",
+      "article": "das",
+      "translation": {
+        "pt": "ferro de passar",
+        "en": "iron"
+      },
+      "category": "wohnen",
+      "example": "Das Bügeleisen ist heiß.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-170",
+      "word": "Wäschetrockner",
+      "article": "der",
+      "translation": {
+        "pt": "secadora",
+        "en": "dryer"
+      },
+      "category": "wohnen",
+      "example": "Der Wäschetrockner ist voll.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-171",
+      "word": "Schraubenzieher",
+      "article": "der",
+      "translation": {
+        "pt": "chave de fenda",
+        "en": "screwdriver"
+      },
+      "category": "wohnen",
+      "example": "Der Schraubenzieher liegt im Werkzeugkasten.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-172",
+      "word": "Wasserkocher",
+      "article": "der",
+      "translation": {
+        "pt": "chaleira elétrica",
+        "en": "kettle"
+      },
+      "category": "wohnen",
+      "example": "Der Wasserkocher kocht schnell.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-173",
+      "word": "Gefrierschrank",
+      "article": "der",
+      "translation": {
+        "pt": "freezer",
+        "en": "freezer"
+      },
+      "category": "wohnen",
+      "example": "Der Gefrierschrank ist voll.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-174",
+      "word": "Mülltrennung",
+      "article": "die",
+      "translation": {
+        "pt": "separação de lixo",
+        "en": "waste separation"
+      },
+      "category": "wohnen",
+      "example": "Mülltrennung ist in Deutschland Pflicht.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-175",
+      "word": "Sommerfest",
+      "article": "das",
+      "translation": {
+        "pt": "festa de verão",
+        "en": "summer festival"
+      },
+      "category": "freizeit",
+      "example": "Das Sommerfest war lustig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-176",
+      "word": "Weihnachtsmarkt",
+      "article": "der",
+      "translation": {
+        "pt": "mercado de Natal",
+        "en": "Christmas market"
+      },
+      "category": "freizeit",
+      "example": "Der Weihnachtsmarkt hat Glühwein.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-177",
+      "word": "Volksfest",
+      "article": "das",
+      "translation": {
+        "pt": "festa popular",
+        "en": "folk festival"
+      },
+      "category": "freizeit",
+      "example": "Das Volksfest dauert zwei Wochen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-178",
+      "word": "Sportwagen",
+      "article": "der",
+      "translation": {
+        "pt": "carro esportivo",
+        "en": "sports car"
+      },
+      "category": "reisen",
+      "example": "Der Sportwagen ist schnell.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-179",
+      "word": "Fahrradweg",
+      "article": "der",
+      "translation": {
+        "pt": "ciclovia",
+        "en": "bike path"
+      },
+      "category": "reisen",
+      "example": "Der Fahrradweg ist sicher.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-180",
+      "word": "Fußgängerzone",
+      "article": "die",
+      "translation": {
+        "pt": "zona de pedestres",
+        "en": "pedestrian zone"
+      },
+      "category": "reisen",
+      "example": "Die Fußgängerzone ist belebt.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-181",
+      "word": "Druckerei",
+      "article": "die",
+      "translation": {
+        "pt": "gráfica",
+        "en": "printing shop"
+      },
+      "category": "arbeit",
+      "example": "Die Druckerei druckt Visitenkarten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-182",
+      "word": "Mehrwertsteuer",
+      "article": "die",
+      "translation": {
+        "pt": "IVA/imposto",
+        "en": "VAT"
+      },
+      "category": "einkaufen",
+      "example": "Die Mehrwertsteuer beträgt 19 Prozent.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-183",
+      "word": "Garantie",
+      "article": "die",
+      "translation": {
+        "pt": "garantia",
+        "en": "warranty"
+      },
+      "category": "einkaufen",
+      "example": "Die Garantie gilt zwei Jahre.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-184",
+      "word": "Lieferung",
+      "article": "die",
+      "translation": {
+        "pt": "entrega",
+        "en": "delivery"
+      },
+      "category": "einkaufen",
+      "example": "Die Lieferung kommt morgen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-185",
+      "word": "Beschwerde",
+      "article": "die",
+      "translation": {
+        "pt": "reclamação",
+        "en": "complaint"
+      },
+      "category": "einkaufen",
+      "example": "Ich möchte eine Beschwerde einreichen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-186",
+      "word": "Übergewicht",
+      "article": "das",
+      "translation": {
+        "pt": "sobrepeso",
+        "en": "overweight"
+      },
+      "category": "gesundheit",
+      "example": "Übergewicht ist ungesund.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-187",
+      "word": "Kreislauf",
+      "article": "der",
+      "translation": {
+        "pt": "circulação",
+        "en": "circulation"
+      },
+      "category": "gesundheit",
+      "example": "Der Kreislauf ist stabil.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-188",
+      "word": "Ernährungsberater",
+      "article": "der",
+      "translation": {
+        "pt": "nutricionista",
+        "en": "nutritionist"
+      },
+      "category": "gesundheit",
+      "example": "Der Ernährungsberater hilft mir.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-189",
+      "word": "Physiotherapie",
+      "article": "die",
+      "translation": {
+        "pt": "fisioterapia",
+        "en": "physiotherapy"
+      },
+      "category": "gesundheit",
+      "example": "Die Physiotherapie lindert Schmerzen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-190",
+      "word": "Kinderzimmer",
+      "article": "das",
+      "translation": {
+        "pt": "quarto de criança",
+        "en": "children's room"
+      },
+      "category": "wohnen",
+      "example": "Das Kinderzimmer ist bunt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-191",
+      "word": "Arbeitszimmer",
+      "article": "das",
+      "translation": {
+        "pt": "escritório/home office",
+        "en": "study room"
+      },
+      "category": "wohnen",
+      "example": "Das Arbeitszimmer ist ruhig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-192",
+      "word": "Gartenzaun",
+      "article": "der",
+      "translation": {
+        "pt": "cerca do jardim",
+        "en": "garden fence"
+      },
+      "category": "wohnen",
+      "example": "Der Gartenzaun ist neu.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-193",
+      "word": "Blumenstrauß",
+      "article": "der",
+      "translation": {
+        "pt": "buquê de flores",
+        "en": "bouquet"
+      },
+      "category": "natur",
+      "example": "Der Blumenstrauß ist schön.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-194",
+      "word": "Sonnenuntergang",
+      "article": "der",
+      "translation": {
+        "pt": "pôr do sol",
+        "en": "sunset"
+      },
+      "category": "natur",
+      "example": "Der Sonnenuntergang ist wunderschön.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-195",
+      "word": "Sonnenaufgang",
+      "article": "der",
+      "translation": {
+        "pt": "nascer do sol",
+        "en": "sunrise"
+      },
+      "category": "natur",
+      "example": "Der Sonnenaufgang war atemberaubend.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-196",
+      "word": "Vollmond",
+      "article": "der",
+      "translation": {
+        "pt": "lua cheia",
+        "en": "full moon"
+      },
+      "category": "natur",
+      "example": "Der Vollmond leuchtet.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-197",
+      "word": "Sternschnuppe",
+      "article": "die",
+      "translation": {
+        "pt": "estrela cadente",
+        "en": "shooting star"
+      },
+      "category": "natur",
+      "example": "Die Sternschnuppe war kurz.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-198",
+      "word": "Glatteis",
+      "article": "das",
+      "translation": {
+        "pt": "gelo na estrada",
+        "en": "black ice"
+      },
+      "category": "natur",
+      "example": "Vorsicht, Glatteis!",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-199",
+      "word": "Schneesturm",
+      "article": "der",
+      "translation": {
+        "pt": "tempestade de neve",
+        "en": "snowstorm"
+      },
+      "category": "natur",
+      "example": "Der Schneesturm war heftig.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-200",
+      "word": "Hitzewelle",
+      "article": "die",
+      "translation": {
+        "pt": "onda de calor",
+        "en": "heatwave"
+      },
+      "category": "natur",
+      "example": "Die Hitzewelle dauert an.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-201",
+      "word": "Trockenheit",
+      "article": "die",
+      "translation": {
+        "pt": "seca",
+        "en": "drought"
+      },
+      "category": "natur",
+      "example": "Die Trockenheit ist ein Problem.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-202",
+      "word": "Lebkuchen",
+      "article": "der",
+      "translation": {
+        "pt": "biscoito de gengibre",
+        "en": "gingerbread"
+      },
+      "category": "essen",
+      "example": "Lebkuchen gibt es zu Weihnachten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-203",
+      "word": "Zwetschge",
+      "article": "die",
+      "translation": {
+        "pt": "ameixa europeia",
+        "en": "damson"
+      },
+      "category": "essen",
+      "example": "Die Zwetschge wächst im Garten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-204",
+      "word": "Meerrettich",
+      "article": "der",
+      "translation": {
+        "pt": "raiz-forte",
+        "en": "horseradish"
+      },
+      "category": "essen",
+      "example": "Meerrettich ist scharf.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-205",
+      "word": "Rotkohl",
+      "article": "der",
+      "translation": {
+        "pt": "repolho roxo",
+        "en": "red cabbage"
+      },
+      "category": "essen",
+      "example": "Rotkohl passt gut zu Braten.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-206",
+      "word": "Sauerteig",
+      "article": "der",
+      "translation": {
+        "pt": "massa fermentada",
+        "en": "sourdough"
+      },
+      "category": "essen",
+      "example": "Sauerteigbrot ist lecker.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-207",
+      "word": "Nachtisch",
+      "article": "der",
+      "translation": {
+        "pt": "sobremesa",
+        "en": "dessert"
+      },
+      "category": "essen",
+      "example": "Zum Nachtisch gibt es Kuchen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-208",
+      "word": "Bratkartoffeln",
+      "article": null,
+      "translation": {
+        "pt": "batata frita",
+        "en": "fried potatoes"
+      },
+      "category": "essen",
+      "example": "Bratkartoffeln sind typisch deutsch.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-209",
+      "word": "Erfrischungsgetränk",
+      "article": "das",
+      "translation": {
+        "pt": "bebida refrescante",
+        "en": "soft drink"
+      },
+      "category": "essen",
+      "example": "Möchten Sie ein Erfrischungsgetränk?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-210",
+      "word": "Nacherziehung",
+      "article": "die",
+      "translation": {
+        "pt": "reeducação",
+        "en": "re-education"
+      },
+      "category": "familie",
+      "example": "Nacherziehung ist schwierig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-211",
+      "word": "Schwiegermutter",
+      "article": "die",
+      "translation": {
+        "pt": "sogra",
+        "en": "mother-in-law"
+      },
+      "category": "familie",
+      "example": "Meine Schwiegermutter kommt zu Besuch.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-212",
+      "word": "Schwiegervater",
+      "article": "der",
+      "translation": {
+        "pt": "sogro",
+        "en": "father-in-law"
+      },
+      "category": "familie",
+      "example": "Mein Schwiegervater ist nett.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-213",
+      "word": "Großfamilie",
+      "article": "die",
+      "translation": {
+        "pt": "família grande",
+        "en": "extended family"
+      },
+      "category": "familie",
+      "example": "Die Großfamilie trifft sich Weihnachten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-214",
+      "word": "Einzelkind",
+      "article": "das",
+      "translation": {
+        "pt": "filho único",
+        "en": "only child"
+      },
+      "category": "familie",
+      "example": "Ich bin ein Einzelkind.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-215",
+      "word": "Lebensversicherung",
+      "article": "die",
+      "translation": {
+        "pt": "seguro de vida",
+        "en": "life insurance"
+      },
+      "category": "arbeit",
+      "example": "Die Lebensversicherung ist wichtig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-216",
+      "word": "Selbstständig",
+      "article": null,
+      "translation": {
+        "pt": "autônomo",
+        "en": "self-employed"
+      },
+      "category": "arbeit",
+      "example": "Er ist selbstständig.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-217",
+      "word": "Wettervorhersage",
+      "article": "die",
+      "translation": {
+        "pt": "previsão do tempo",
+        "en": "weather forecast"
+      },
+      "category": "natur",
+      "example": "Die Wettervorhersage sagt Regen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-218",
+      "word": "Tageszeitung",
+      "article": "die",
+      "translation": {
+        "pt": "jornal diário",
+        "en": "daily newspaper"
+      },
+      "category": "freizeit",
+      "example": "Die Tageszeitung ist informativ.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-219",
+      "word": "Fußballplatz",
+      "article": "der",
+      "translation": {
+        "pt": "campo de futebol",
+        "en": "soccer field"
+      },
+      "category": "freizeit",
+      "example": "Der Fußballplatz ist nass.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-220",
+      "word": "Eislaufen",
+      "article": "das",
+      "translation": {
+        "pt": "patinação no gelo",
+        "en": "ice skating"
+      },
+      "category": "freizeit",
+      "example": "Eislaufen macht Spaß.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-221",
+      "word": "Kopfschmerztablette",
+      "article": "die",
+      "translation": {
+        "pt": "comprimido para dor de cabeça",
+        "en": "headache pill"
+      },
+      "category": "gesundheit",
+      "example": "Hast du eine Kopfschmerztablette?",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-222",
+      "word": "Sonnenbrand",
+      "article": "der",
+      "translation": {
+        "pt": "queimadura de sol",
+        "en": "sunburn"
+      },
+      "category": "gesundheit",
+      "example": "Der Sonnenbrand tut weh.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-223",
+      "word": "Halsschmerzen",
+      "article": null,
+      "translation": {
+        "pt": "dor de garganta",
+        "en": "sore throat"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe Halsschmerzen.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-224",
+      "word": "Bauchschmerzen",
+      "article": null,
+      "translation": {
+        "pt": "dor de barriga",
+        "en": "stomachache"
+      },
+      "category": "gesundheit",
+      "example": "Ich habe Bauchschmerzen.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-225",
+      "word": "Rückenschmerzen",
+      "article": null,
+      "translation": {
+        "pt": "dor nas costas",
+        "en": "back pain"
+      },
+      "category": "gesundheit",
+      "example": "Rückenschmerzen sind häufig.",
+      "difficulty": 4,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "b1-226",
+      "word": "Angestellte",
+      "article": "der/die",
+      "translation": {
+        "pt": "funcionário",
+        "en": "employee"
+      },
+      "category": "arbeit",
+      "example": "Die Angestellte arbeitet hart.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-227",
+      "word": "Bürgermeister",
+      "article": "der",
+      "translation": {
+        "pt": "prefeito",
+        "en": "mayor"
+      },
+      "category": "arbeit",
+      "example": "Der Bürgermeister hält eine Rede.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-228",
+      "word": "Standesamt",
+      "article": "das",
+      "translation": {
+        "pt": "cartório",
+        "en": "registry office"
+      },
+      "category": "familie",
+      "example": "Die Trauung ist im Standesamt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-229",
+      "word": "Getränkekarte",
+      "article": "die",
+      "translation": {
+        "pt": "cardápio de bebidas",
+        "en": "drinks menu"
+      },
+      "category": "essen",
+      "example": "Kann ich die Getränkekarte haben?",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-230",
+      "word": "Fleischerei",
+      "article": "die",
+      "translation": {
+        "pt": "açougue",
+        "en": "butchery"
+      },
+      "category": "einkaufen",
+      "example": "Die Fleischerei hat frisches Hackfleisch.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "b1-231",
+      "word": "Gemüsehändler",
+      "article": "der",
+      "translation": {
+        "pt": "vendedor de legumes",
+        "en": "greengrocer"
+      },
+      "category": "einkaufen",
+      "example": "Der Gemüsehändler hat frische Ware.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    }
+  ]
+}

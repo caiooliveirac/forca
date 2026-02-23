@@ -1,8 +1,34 @@
-import type { Word, Category, GameFilters } from '../types';
-import wortlisteData from '../data/wortliste-a2.json';
+import type { Word, Category, GameFilters, CEFRLevel } from '../types';
 import type { WortlisteData } from '../types';
 
-const data = wortlisteData as WortlisteData;
+// Import all level word lists
+import wortlisteA1 from '../data/wortliste-a1.json';
+import wortlisteA2 from '../data/wortliste-a2.json';
+import wortlisteB1 from '../data/wortliste-b1.json';
+import wortlisteB2 from '../data/wortliste-b2.json';
+import wortlisteC1 from '../data/wortliste-c1.json';
+
+const levelFiles: { level: CEFRLevel; data: WortlisteData }[] = [
+  { level: 'A1', data: wortlisteA1 as WortlisteData },
+  { level: 'A2', data: wortlisteA2 as WortlisteData },
+  { level: 'B1', data: wortlisteB1 as WortlisteData },
+  { level: 'B2', data: wortlisteB2 as WortlisteData },
+  { level: 'C1', data: wortlisteC1 as WortlisteData },
+];
+
+// Merge all words, tagging each with its level
+const allWords: Word[] = levelFiles.flatMap(({ level, data }) =>
+  data.words.map((w) => ({ ...w, level })),
+);
+
+// Merge categories (deduplicate by id)
+const allCategories: Category[] = Object.values(
+  Object.fromEntries(
+    levelFiles.flatMap(({ data }) => data.categories.map((c) => [c.id, c])),
+  ),
+);
+
+export const CEFR_LEVELS: CEFRLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
 
 const RECENT_WORDS_KEY = 'galgenspiel_recent_words';
 const RECENT_WORDS_MAX = 10;
@@ -24,30 +50,34 @@ export const lettersMatch = (input: string, target: string): boolean => {
 };
 
 export const getAllWords = (): Word[] => {
-  return data.words;
+  return allWords;
 };
 
 export const getAllCategories = (): Category[] => {
-  return data.categories;
+  return allCategories;
 };
 
 export const getCategoryById = (id: string): Category | undefined => {
-  return data.categories.find((c) => c.id === id);
+  return allCategories.find((c) => c.id === id);
 };
 
 export const getWordsByCategory = (categoryId: string): Word[] => {
-  return data.words.filter((w) => w.category === categoryId);
+  return allWords.filter((w) => w.category === categoryId);
 };
 
 export const getWordsByDifficulty = (difficulty: number): Word[] => {
-  return data.words.filter((w) => w.difficulty === difficulty);
+  return allWords.filter((w) => w.difficulty === difficulty);
 };
 
 export const getWordsByDifficultyRange = (
   min: number,
   max: number,
 ): Word[] => {
-  return data.words.filter((w) => w.difficulty >= min && w.difficulty <= max);
+  return allWords.filter((w) => w.difficulty >= min && w.difficulty <= max);
+};
+
+export const getWordsByLevel = (level: CEFRLevel): Word[] => {
+  return allWords.filter((w) => w.level === level);
 };
 
 const getRecentWordIds = (): string[] => {
@@ -74,6 +104,9 @@ const addRecentWordId = (id: string): void => {
 export const getFilteredWords = (filters?: GameFilters): Word[] => {
   let pool = getAllWords();
   if (filters) {
+    if (filters.levels.length > 0) {
+      pool = pool.filter((w) => filters.levels.includes(w.level));
+    }
     if (filters.difficulties.length > 0) {
       pool = pool.filter((w) => filters.difficulties.includes(w.difficulty));
     }

@@ -1,3 +1,5 @@
+export type CEFRLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
+
 export interface Word {
   id: string;
   word: string;
@@ -10,6 +12,7 @@ export interface Word {
   example: string;
   difficulty: 1 | 2 | 3 | 4 | 5;
   tags: string[];
+  level: CEFRLevel;
 }
 
 export interface Category {
@@ -64,6 +67,7 @@ export interface WortlisteData {
 // ===== Filters =====
 
 export interface GameFilters {
+  levels: CEFRLevel[];       // empty = all
   difficulties: number[];   // empty = all
   categories: string[];     // empty = all
 }

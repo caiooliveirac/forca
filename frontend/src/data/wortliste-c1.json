@@ -1,0 +1,2013 @@
+{
+  "metadata": {
+    "level": "C1",
+    "source": "Goethe-Institut Wortliste C1",
+    "sourceUrl": "https://www.goethe.de/",
+    "totalWords": 130,
+    "lastUpdated": "2026-02-23"
+  },
+  "categories": [
+    {
+      "id": "essen",
+      "name": "Essen & Trinken",
+      "icon": "🍽️"
+    },
+    {
+      "id": "familie",
+      "name": "Familie & Freunde",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "arbeit",
+      "name": "Arbeit & Beruf",
+      "icon": "💼"
+    },
+    {
+      "id": "reisen",
+      "name": "Reisen & Verkehr",
+      "icon": "✈️"
+    },
+    {
+      "id": "wohnen",
+      "name": "Wohnen & Haushalt",
+      "icon": "🏠"
+    },
+    {
+      "id": "freizeit",
+      "name": "Freizeit & Hobby",
+      "icon": "⚽"
+    },
+    {
+      "id": "gesundheit",
+      "name": "Gesundheit & Körper",
+      "icon": "🏥"
+    },
+    {
+      "id": "einkaufen",
+      "name": "Einkaufen & Kleidung",
+      "icon": "🛒"
+    },
+    {
+      "id": "schule",
+      "name": "Schule & Bildung",
+      "icon": "📚"
+    },
+    {
+      "id": "natur",
+      "name": "Natur & Wetter",
+      "icon": "🌿"
+    }
+  ],
+  "words": [
+    {
+      "id": "c1-001",
+      "word": "Spezialität",
+      "article": "die",
+      "translation": {
+        "pt": "especialidade",
+        "en": "specialty"
+      },
+      "category": "essen",
+      "example": "Das ist eine lokale Spezialität.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-002",
+      "word": "Gastronomie",
+      "article": "die",
+      "translation": {
+        "pt": "gastronomia",
+        "en": "gastronomy"
+      },
+      "category": "essen",
+      "example": "Die Gastronomie boomt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-003",
+      "word": "Delikatesse",
+      "article": "die",
+      "translation": {
+        "pt": "iguaria",
+        "en": "delicacy"
+      },
+      "category": "essen",
+      "example": "Diese Delikatesse ist selten.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-004",
+      "word": "Genussmittel",
+      "article": "das",
+      "translation": {
+        "pt": "produto de prazer",
+        "en": "stimulant"
+      },
+      "category": "essen",
+      "example": "Kaffee ist ein Genussmittel.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-005",
+      "word": "Mangelernährung",
+      "article": "die",
+      "translation": {
+        "pt": "desnutrição",
+        "en": "malnutrition"
+      },
+      "category": "essen",
+      "example": "Mangelernährung ist ein globales Problem.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-006",
+      "word": "Anbaugebiet",
+      "article": "das",
+      "translation": {
+        "pt": "região de cultivo",
+        "en": "growing region"
+      },
+      "category": "essen",
+      "example": "Das Anbaugebiet ist bekannt für Wein.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-007",
+      "word": "Generationenkonflikt",
+      "article": "der",
+      "translation": {
+        "pt": "conflito de gerações",
+        "en": "generational conflict"
+      },
+      "category": "familie",
+      "example": "Der Generationenkonflikt ist unvermeidlich.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-008",
+      "word": "Familienplanung",
+      "article": "die",
+      "translation": {
+        "pt": "planejamento familiar",
+        "en": "family planning"
+      },
+      "category": "familie",
+      "example": "Familienplanung ist eine persönliche Entscheidung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-009",
+      "word": "Sorgerechtstreit",
+      "article": "der",
+      "translation": {
+        "pt": "disputa de guarda",
+        "en": "custody dispute"
+      },
+      "category": "familie",
+      "example": "Der Sorgerechtstreit war langwierig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-010",
+      "word": "Patchworkfamilie",
+      "article": "die",
+      "translation": {
+        "pt": "família reconstituída",
+        "en": "blended family"
+      },
+      "category": "familie",
+      "example": "Patchworkfamilien sind heute normal.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-011",
+      "word": "Lebensgemeinschaft",
+      "article": "die",
+      "translation": {
+        "pt": "união estável",
+        "en": "domestic partnership"
+      },
+      "category": "familie",
+      "example": "Sie leben in einer Lebensgemeinschaft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-012",
+      "word": "Emanzipation",
+      "article": "die",
+      "translation": {
+        "pt": "emancipação",
+        "en": "emancipation"
+      },
+      "category": "familie",
+      "example": "Die Emanzipation hat vieles verändert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-013",
+      "word": "Gleichberechtigung",
+      "article": "die",
+      "translation": {
+        "pt": "igualdade de direitos",
+        "en": "equal rights"
+      },
+      "category": "familie",
+      "example": "Gleichberechtigung ist ein Grundrecht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-014",
+      "word": "Betriebsvereinbarung",
+      "article": "die",
+      "translation": {
+        "pt": "acordo coletivo",
+        "en": "company agreement"
+      },
+      "category": "arbeit",
+      "example": "Die Betriebsvereinbarung regelt die Arbeitszeit.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-015",
+      "word": "Tarifverhandlung",
+      "article": "die",
+      "translation": {
+        "pt": "negociação salarial",
+        "en": "wage negotiation"
+      },
+      "category": "arbeit",
+      "example": "Die Tarifverhandlungen sind gescheitert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-016",
+      "word": "Insolvenz",
+      "article": "die",
+      "translation": {
+        "pt": "falência",
+        "en": "insolvency"
+      },
+      "category": "arbeit",
+      "example": "Die Firma hat Insolvenz angemeldet.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-017",
+      "word": "Freiberufler",
+      "article": "der",
+      "translation": {
+        "pt": "profissional liberal",
+        "en": "freelancer"
+      },
+      "category": "arbeit",
+      "example": "Er arbeitet als Freiberufler.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-018",
+      "word": "Personalabbau",
+      "article": "der",
+      "translation": {
+        "pt": "redução de pessoal",
+        "en": "staff reduction"
+      },
+      "category": "arbeit",
+      "example": "Der Personalabbau betrifft 200 Stellen.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-019",
+      "word": "Fachkräftemangel",
+      "article": "der",
+      "translation": {
+        "pt": "falta de mão de obra qualificada",
+        "en": "skilled labor shortage"
+      },
+      "category": "arbeit",
+      "example": "Der Fachkräftemangel ist ein großes Problem.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-020",
+      "word": "Burnout",
+      "article": "das",
+      "translation": {
+        "pt": "esgotamento profissional",
+        "en": "burnout"
+      },
+      "category": "arbeit",
+      "example": "Burnout wird oft unterschätzt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-021",
+      "word": "Unternehmenskultur",
+      "article": "die",
+      "translation": {
+        "pt": "cultura organizacional",
+        "en": "corporate culture"
+      },
+      "category": "arbeit",
+      "example": "Die Unternehmenskultur ist offen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-022",
+      "word": "Existenzgründung",
+      "article": "die",
+      "translation": {
+        "pt": "abertura de negócio",
+        "en": "business startup"
+      },
+      "category": "arbeit",
+      "example": "Die Existenzgründung erfordert Mut.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-023",
+      "word": "Aktienmarkt",
+      "article": "der",
+      "translation": {
+        "pt": "mercado de ações",
+        "en": "stock market"
+      },
+      "category": "arbeit",
+      "example": "Der Aktienmarkt schwankt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-024",
+      "word": "Globalisierung",
+      "article": "die",
+      "translation": {
+        "pt": "globalização",
+        "en": "globalization"
+      },
+      "category": "arbeit",
+      "example": "Die Globalisierung verändert die Wirtschaft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-025",
+      "word": "Kapitalismus",
+      "article": "der",
+      "translation": {
+        "pt": "capitalismo",
+        "en": "capitalism"
+      },
+      "category": "arbeit",
+      "example": "Der Kapitalismus hat Vor- und Nachteile.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-026",
+      "word": "Monopol",
+      "article": "das",
+      "translation": {
+        "pt": "monopólio",
+        "en": "monopoly"
+      },
+      "category": "arbeit",
+      "example": "Das Monopol wurde gebrochen.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-027",
+      "word": "Korruption",
+      "article": "die",
+      "translation": {
+        "pt": "corrupção",
+        "en": "corruption"
+      },
+      "category": "arbeit",
+      "example": "Korruption schadet der Gesellschaft.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-028",
+      "word": "Bürokratie",
+      "article": "die",
+      "translation": {
+        "pt": "burocracia",
+        "en": "bureaucracy"
+      },
+      "category": "arbeit",
+      "example": "Die Bürokratie verlangsamt Prozesse.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-029",
+      "word": "Privatisierung",
+      "article": "die",
+      "translation": {
+        "pt": "privatização",
+        "en": "privatization"
+      },
+      "category": "arbeit",
+      "example": "Die Privatisierung ist umstritten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-030",
+      "word": "Fernweh",
+      "article": "das",
+      "translation": {
+        "pt": "vontade de viajar",
+        "en": "wanderlust"
+      },
+      "category": "reisen",
+      "example": "Ich habe Fernweh.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-031",
+      "word": "Reiseliteratur",
+      "article": "die",
+      "translation": {
+        "pt": "literatura de viagem",
+        "en": "travel literature"
+      },
+      "category": "reisen",
+      "example": "Reiseliteratur inspiriert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-032",
+      "word": "Grenzüberschreitung",
+      "article": "die",
+      "translation": {
+        "pt": "travessia de fronteira",
+        "en": "border crossing"
+      },
+      "category": "reisen",
+      "example": "Die Grenzüberschreitung war unkompliziert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-033",
+      "word": "Individualreise",
+      "article": "die",
+      "translation": {
+        "pt": "viagem individual",
+        "en": "individual trip"
+      },
+      "category": "reisen",
+      "example": "Eine Individualreise bietet Freiheit.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-034",
+      "word": "Weltanschauung",
+      "article": "die",
+      "translation": {
+        "pt": "visão de mundo",
+        "en": "worldview"
+      },
+      "category": "reisen",
+      "example": "Reisen erweitert die Weltanschauung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-035",
+      "word": "Kulturaustausch",
+      "article": "der",
+      "translation": {
+        "pt": "intercâmbio cultural",
+        "en": "cultural exchange"
+      },
+      "category": "reisen",
+      "example": "Kulturaustausch fördert Verständnis.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-036",
+      "word": "Völkerverständigung",
+      "article": "die",
+      "translation": {
+        "pt": "entendimento entre os povos",
+        "en": "international understanding"
+      },
+      "category": "reisen",
+      "example": "Völkerverständigung ist wichtig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-037",
+      "word": "Gentrifizierung",
+      "article": "die",
+      "translation": {
+        "pt": "gentrificação",
+        "en": "gentrification"
+      },
+      "category": "wohnen",
+      "example": "Die Gentrifizierung verändert Viertel.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-038",
+      "word": "Wohnungsnot",
+      "article": "die",
+      "translation": {
+        "pt": "crise habitacional",
+        "en": "housing shortage"
+      },
+      "category": "wohnen",
+      "example": "Die Wohnungsnot in Großstädten steigt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-039",
+      "word": "Denkmalschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção de patrimônio",
+        "en": "heritage conservation"
+      },
+      "category": "wohnen",
+      "example": "Das Gebäude steht unter Denkmalschutz.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-040",
+      "word": "Energieeffizienz",
+      "article": "die",
+      "translation": {
+        "pt": "eficiência energética",
+        "en": "energy efficiency"
+      },
+      "category": "wohnen",
+      "example": "Energieeffizienz spart Kosten.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-041",
+      "word": "Baugenehmigung",
+      "article": "die",
+      "translation": {
+        "pt": "licença de construção",
+        "en": "building permit"
+      },
+      "category": "wohnen",
+      "example": "Die Baugenehmigung wurde erteilt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-042",
+      "word": "Stadtplanung",
+      "article": "die",
+      "translation": {
+        "pt": "planejamento urbano",
+        "en": "urban planning"
+      },
+      "category": "wohnen",
+      "example": "Die Stadtplanung berücksichtigt die Umwelt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-043",
+      "word": "Infrastruktur",
+      "article": "die",
+      "translation": {
+        "pt": "infraestrutura",
+        "en": "infrastructure"
+      },
+      "category": "wohnen",
+      "example": "Die Infrastruktur muss verbessert werden.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-044",
+      "word": "Zeitvertreib",
+      "article": "der",
+      "translation": {
+        "pt": "passatempo",
+        "en": "pastime"
+      },
+      "category": "freizeit",
+      "example": "Lesen ist ein schöner Zeitvertreib.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-045",
+      "word": "Kreativität",
+      "article": "die",
+      "translation": {
+        "pt": "criatividade",
+        "en": "creativity"
+      },
+      "category": "freizeit",
+      "example": "Kreativität ist erlernbar.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-046",
+      "word": "Freiwilligenarbeit",
+      "article": "die",
+      "translation": {
+        "pt": "trabalho voluntário",
+        "en": "volunteer work"
+      },
+      "category": "freizeit",
+      "example": "Freiwilligenarbeit bereichert das Leben.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-047",
+      "word": "Kulturerbe",
+      "article": "das",
+      "translation": {
+        "pt": "patrimônio cultural",
+        "en": "cultural heritage"
+      },
+      "category": "freizeit",
+      "example": "Das Kulturerbe muss bewahrt werden.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-048",
+      "word": "Achtsamkeit",
+      "article": "die",
+      "translation": {
+        "pt": "atenção plena",
+        "en": "mindfulness"
+      },
+      "category": "freizeit",
+      "example": "Achtsamkeit reduziert Stress.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-049",
+      "word": "Selbstverwirklichung",
+      "article": "die",
+      "translation": {
+        "pt": "autorrealização",
+        "en": "self-realization"
+      },
+      "category": "freizeit",
+      "example": "Kunst dient der Selbstverwirklichung.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-050",
+      "word": "Meisterwerk",
+      "article": "das",
+      "translation": {
+        "pt": "obra-prima",
+        "en": "masterpiece"
+      },
+      "category": "freizeit",
+      "example": "Das Gemälde ist ein Meisterwerk.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-051",
+      "word": "Sinfonieorchester",
+      "article": "das",
+      "translation": {
+        "pt": "orquestra sinfônica",
+        "en": "symphony orchestra"
+      },
+      "category": "freizeit",
+      "example": "Das Sinfonieorchester spielt heute.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-052",
+      "word": "Psychosomatisch",
+      "article": null,
+      "translation": {
+        "pt": "psicossomático",
+        "en": "psychosomatic"
+      },
+      "category": "gesundheit",
+      "example": "Viele Beschwerden sind psychosomatisch.",
+      "difficulty": 5,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "c1-053",
+      "word": "Rehabilitierung",
+      "article": "die",
+      "translation": {
+        "pt": "reabilitação",
+        "en": "rehabilitation"
+      },
+      "category": "gesundheit",
+      "example": "Die Rehabilitierung dauert sechs Wochen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-054",
+      "word": "Organspende",
+      "article": "die",
+      "translation": {
+        "pt": "doação de órgãos",
+        "en": "organ donation"
+      },
+      "category": "gesundheit",
+      "example": "Organspende rettet Leben.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-055",
+      "word": "Gesundheitswesen",
+      "article": "das",
+      "translation": {
+        "pt": "sistema de saúde",
+        "en": "healthcare system"
+      },
+      "category": "gesundheit",
+      "example": "Das Gesundheitswesen braucht Reformen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-056",
+      "word": "Suchterkrankung",
+      "article": "die",
+      "translation": {
+        "pt": "dependência/vício",
+        "en": "addiction"
+      },
+      "category": "gesundheit",
+      "example": "Die Suchterkrankung ist behandelbar.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-057",
+      "word": "Immunsystem",
+      "article": "das",
+      "translation": {
+        "pt": "sistema imunológico",
+        "en": "immune system"
+      },
+      "category": "gesundheit",
+      "example": "Das Immunsystem muss stark sein.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-058",
+      "word": "Vorsorgeuntersuchung",
+      "article": "die",
+      "translation": {
+        "pt": "exame preventivo",
+        "en": "preventive checkup"
+      },
+      "category": "gesundheit",
+      "example": "Die Vorsorgeuntersuchung ist kostenlos.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-059",
+      "word": "Palliativmedizin",
+      "article": "die",
+      "translation": {
+        "pt": "medicina paliativa",
+        "en": "palliative medicine"
+      },
+      "category": "gesundheit",
+      "example": "Die Palliativmedizin lindert Schmerzen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-060",
+      "word": "Sterbehilfe",
+      "article": "die",
+      "translation": {
+        "pt": "eutanásia",
+        "en": "euthanasia"
+      },
+      "category": "gesundheit",
+      "example": "Sterbehilfe ist ein ethisches Thema.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-061",
+      "word": "Epidemie",
+      "article": "die",
+      "translation": {
+        "pt": "epidemia",
+        "en": "epidemic"
+      },
+      "category": "gesundheit",
+      "example": "Die Epidemie breitete sich schnell aus.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-062",
+      "word": "Pandemie",
+      "article": "die",
+      "translation": {
+        "pt": "pandemia",
+        "en": "pandemic"
+      },
+      "category": "gesundheit",
+      "example": "Die Pandemie betraf die ganze Welt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-063",
+      "word": "Nachhaltigkeit",
+      "article": "die",
+      "translation": {
+        "pt": "sustentabilidade",
+        "en": "sustainability"
+      },
+      "category": "einkaufen",
+      "example": "Nachhaltigkeit wird wichtiger.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-064",
+      "word": "Marktwirtschaft",
+      "article": "die",
+      "translation": {
+        "pt": "economia de mercado",
+        "en": "market economy"
+      },
+      "category": "einkaufen",
+      "example": "Die Marktwirtschaft reguliert sich selbst.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-065",
+      "word": "Verbraucherschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção ao consumidor",
+        "en": "consumer protection"
+      },
+      "category": "einkaufen",
+      "example": "Der Verbraucherschutz ist wichtig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-066",
+      "word": "Preisvergleich",
+      "article": "der",
+      "translation": {
+        "pt": "comparação de preços",
+        "en": "price comparison"
+      },
+      "category": "einkaufen",
+      "example": "Ein Preisvergleich lohnt sich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-067",
+      "word": "Subvention",
+      "article": "die",
+      "translation": {
+        "pt": "subvenção",
+        "en": "subsidy"
+      },
+      "category": "einkaufen",
+      "example": "Die Subvention wurde gestrichen.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-068",
+      "word": "Inflation",
+      "article": "die",
+      "translation": {
+        "pt": "inflação",
+        "en": "inflation"
+      },
+      "category": "einkaufen",
+      "example": "Die Inflation steigt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-069",
+      "word": "Kaufkraft",
+      "article": "die",
+      "translation": {
+        "pt": "poder de compra",
+        "en": "purchasing power"
+      },
+      "category": "einkaufen",
+      "example": "Die Kaufkraft sinkt.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-070",
+      "word": "Bildungspolitik",
+      "article": "die",
+      "translation": {
+        "pt": "política educacional",
+        "en": "education policy"
+      },
+      "category": "schule",
+      "example": "Die Bildungspolitik wird diskutiert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-071",
+      "word": "Habilitierung",
+      "article": "die",
+      "translation": {
+        "pt": "habilitação (acadêmica)",
+        "en": "habilitation"
+      },
+      "category": "schule",
+      "example": "Die Habilitierung folgt der Promotion.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-072",
+      "word": "Hochschulzugang",
+      "article": "der",
+      "translation": {
+        "pt": "acesso ao ensino superior",
+        "en": "university access"
+      },
+      "category": "schule",
+      "example": "Der Hochschulzugang ist geregelt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-073",
+      "word": "Bildungssystem",
+      "article": "das",
+      "translation": {
+        "pt": "sistema educacional",
+        "en": "education system"
+      },
+      "category": "schule",
+      "example": "Das Bildungssystem muss reformiert werden.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-074",
+      "word": "Erkenntnistheorie",
+      "article": "die",
+      "translation": {
+        "pt": "epistemologia",
+        "en": "epistemology"
+      },
+      "category": "schule",
+      "example": "Die Erkenntnistheorie fragt nach dem Wissen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-075",
+      "word": "Interdisziplinär",
+      "article": null,
+      "translation": {
+        "pt": "interdisciplinar",
+        "en": "interdisciplinary"
+      },
+      "category": "schule",
+      "example": "Die Forschung ist interdisziplinär.",
+      "difficulty": 5,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "c1-076",
+      "word": "Paradigmenwechsel",
+      "article": "der",
+      "translation": {
+        "pt": "mudança de paradigma",
+        "en": "paradigm shift"
+      },
+      "category": "schule",
+      "example": "Ein Paradigmenwechsel ist nötig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-077",
+      "word": "Wissenstransfer",
+      "article": "der",
+      "translation": {
+        "pt": "transferência de conhecimento",
+        "en": "knowledge transfer"
+      },
+      "category": "schule",
+      "example": "Der Wissenstransfer ist wichtig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-078",
+      "word": "Grundlagenforschung",
+      "article": "die",
+      "translation": {
+        "pt": "pesquisa básica",
+        "en": "basic research"
+      },
+      "category": "schule",
+      "example": "Grundlagenforschung braucht Geduld.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-079",
+      "word": "Ökosystem",
+      "article": "das",
+      "translation": {
+        "pt": "ecossistema",
+        "en": "ecosystem"
+      },
+      "category": "natur",
+      "example": "Das Ökosystem ist empfindlich.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-080",
+      "word": "Schadstoffe",
+      "article": null,
+      "translation": {
+        "pt": "substâncias nocivas",
+        "en": "pollutants"
+      },
+      "category": "natur",
+      "example": "Schadstoffe belasten die Umwelt.",
+      "difficulty": 3,
+      "tags": [
+        "andere"
+      ]
+    },
+    {
+      "id": "c1-081",
+      "word": "Klimaneutralität",
+      "article": "die",
+      "translation": {
+        "pt": "neutralidade climática",
+        "en": "climate neutrality"
+      },
+      "category": "natur",
+      "example": "Klimaneutralität ist das Ziel.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-082",
+      "word": "Photovoltaik",
+      "article": "die",
+      "translation": {
+        "pt": "fotovoltaica",
+        "en": "photovoltaics"
+      },
+      "category": "natur",
+      "example": "Photovoltaik erzeugt Strom aus Sonne.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-083",
+      "word": "Windkraftanlage",
+      "article": "die",
+      "translation": {
+        "pt": "turbina eólica",
+        "en": "wind turbine"
+      },
+      "category": "natur",
+      "example": "Die Windkraftanlage erzeugt Strom.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-084",
+      "word": "Ressourcenknappheit",
+      "article": "die",
+      "translation": {
+        "pt": "escassez de recursos",
+        "en": "resource scarcity"
+      },
+      "category": "natur",
+      "example": "Ressourcenknappheit erfordert Umdenken.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-085",
+      "word": "Biodiversität",
+      "article": "die",
+      "translation": {
+        "pt": "biodiversidade",
+        "en": "biodiversity"
+      },
+      "category": "natur",
+      "example": "Die Biodiversität nimmt ab.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-086",
+      "word": "Artenschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção das espécies",
+        "en": "species protection"
+      },
+      "category": "natur",
+      "example": "Artenschutz ist ein globales Thema.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-087",
+      "word": "Entwaldung",
+      "article": "die",
+      "translation": {
+        "pt": "desmatamento",
+        "en": "deforestation"
+      },
+      "category": "natur",
+      "example": "Die Entwaldung schreitet voran.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-088",
+      "word": "Kohlenstoffdioxid",
+      "article": "das",
+      "translation": {
+        "pt": "dióxido de carbono",
+        "en": "carbon dioxide"
+      },
+      "category": "natur",
+      "example": "Kohlenstoffdioxid erwärmt die Atmosphäre.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-089",
+      "word": "Grundwasser",
+      "article": "das",
+      "translation": {
+        "pt": "lençol freático",
+        "en": "groundwater"
+      },
+      "category": "natur",
+      "example": "Das Grundwasser sinkt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-090",
+      "word": "Strahlenschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção contra radiação",
+        "en": "radiation protection"
+      },
+      "category": "natur",
+      "example": "Strahlenschutz ist in Kernkraftwerken wichtig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-091",
+      "word": "Atomkraftwerk",
+      "article": "das",
+      "translation": {
+        "pt": "usina nuclear",
+        "en": "nuclear power plant"
+      },
+      "category": "natur",
+      "example": "Das Atomkraftwerk wird abgeschaltet.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-092",
+      "word": "Lebensraum",
+      "article": "der",
+      "translation": {
+        "pt": "habitat",
+        "en": "habitat"
+      },
+      "category": "natur",
+      "example": "Der Lebensraum der Tiere schrumpft.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-093",
+      "word": "Nahrungskette",
+      "article": "die",
+      "translation": {
+        "pt": "cadeia alimentar",
+        "en": "food chain"
+      },
+      "category": "natur",
+      "example": "Die Nahrungskette ist fragil.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-094",
+      "word": "Biosphäre",
+      "article": "die",
+      "translation": {
+        "pt": "biosfera",
+        "en": "biosphere"
+      },
+      "category": "natur",
+      "example": "Die Biosphäre ist bedroht.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-095",
+      "word": "Sauerstoff",
+      "article": "der",
+      "translation": {
+        "pt": "oxigênio",
+        "en": "oxygen"
+      },
+      "category": "natur",
+      "example": "Pflanzen produzieren Sauerstoff.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-096",
+      "word": "Stickstoff",
+      "article": "der",
+      "translation": {
+        "pt": "nitrogênio",
+        "en": "nitrogen"
+      },
+      "category": "natur",
+      "example": "Stickstoff ist im Dünger enthalten.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-097",
+      "word": "Wasserstoff",
+      "article": "der",
+      "translation": {
+        "pt": "hidrogênio",
+        "en": "hydrogen"
+      },
+      "category": "natur",
+      "example": "Wasserstoff ist ein leichtes Gas.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-098",
+      "word": "Integrationspolitik",
+      "article": "die",
+      "translation": {
+        "pt": "política de integração",
+        "en": "integration policy"
+      },
+      "category": "arbeit",
+      "example": "Die Integrationspolitik wird debattiert.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-099",
+      "word": "Sozialhilfe",
+      "article": "die",
+      "translation": {
+        "pt": "assistência social",
+        "en": "social welfare"
+      },
+      "category": "arbeit",
+      "example": "Die Sozialhilfe ist ein Sicherheitsnetz.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-100",
+      "word": "Rechtsprechung",
+      "article": "die",
+      "translation": {
+        "pt": "jurisprudência",
+        "en": "jurisdiction"
+      },
+      "category": "arbeit",
+      "example": "Die Rechtsprechung ist eindeutig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-101",
+      "word": "Volkswirtschaft",
+      "article": "die",
+      "translation": {
+        "pt": "economia nacional",
+        "en": "national economy"
+      },
+      "category": "arbeit",
+      "example": "Die Volkswirtschaft wächst.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-102",
+      "word": "Betriebswirtschaft",
+      "article": "die",
+      "translation": {
+        "pt": "administração de empresas",
+        "en": "business administration"
+      },
+      "category": "arbeit",
+      "example": "Er studiert Betriebswirtschaft.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-103",
+      "word": "Zeitgeist",
+      "article": "der",
+      "translation": {
+        "pt": "espírito do tempo",
+        "en": "zeitgeist"
+      },
+      "category": "freizeit",
+      "example": "Das Kunstwerk spiegelt den Zeitgeist.",
+      "difficulty": 2,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-104",
+      "word": "Weltliteratur",
+      "article": "die",
+      "translation": {
+        "pt": "literatura mundial",
+        "en": "world literature"
+      },
+      "category": "freizeit",
+      "example": "Goethe gehört zur Weltliteratur.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-105",
+      "word": "Gedankenfreiheit",
+      "article": "die",
+      "translation": {
+        "pt": "liberdade de pensamento",
+        "en": "freedom of thought"
+      },
+      "category": "schule",
+      "example": "Gedankenfreiheit ist fundamental.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-106",
+      "word": "Eigenverantwortung",
+      "article": "die",
+      "translation": {
+        "pt": "responsabilidade pessoal",
+        "en": "personal responsibility"
+      },
+      "category": "familie",
+      "example": "Eigenverantwortung ist wichtig.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-107",
+      "word": "Selbstbestimmung",
+      "article": "die",
+      "translation": {
+        "pt": "autodeterminação",
+        "en": "self-determination"
+      },
+      "category": "familie",
+      "example": "Selbstbestimmung ist ein Menschenrecht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-108",
+      "word": "Menschenwürde",
+      "article": "die",
+      "translation": {
+        "pt": "dignidade humana",
+        "en": "human dignity"
+      },
+      "category": "familie",
+      "example": "Die Menschenwürde ist unantastbar.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-109",
+      "word": "Wechselwirkung",
+      "article": "die",
+      "translation": {
+        "pt": "interação",
+        "en": "interaction"
+      },
+      "category": "natur",
+      "example": "Die Wechselwirkung ist komplex.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-110",
+      "word": "Umweltbewusstsein",
+      "article": "das",
+      "translation": {
+        "pt": "consciência ambiental",
+        "en": "environmental awareness"
+      },
+      "category": "natur",
+      "example": "Das Umweltbewusstsein wächst.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-111",
+      "word": "Grundversorgung",
+      "article": "die",
+      "translation": {
+        "pt": "abastecimento básico",
+        "en": "basic supply"
+      },
+      "category": "gesundheit",
+      "example": "Die Grundversorgung ist gesichert.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-112",
+      "word": "Pflegeversicherung",
+      "article": "die",
+      "translation": {
+        "pt": "seguro de cuidados",
+        "en": "nursing insurance"
+      },
+      "category": "gesundheit",
+      "example": "Die Pflegeversicherung ist Pflicht.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-113",
+      "word": "Bevölkerungswachstum",
+      "article": "das",
+      "translation": {
+        "pt": "crescimento populacional",
+        "en": "population growth"
+      },
+      "category": "wohnen",
+      "example": "Das Bevölkerungswachstum stellt Herausforderungen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-114",
+      "word": "Verwaltungsgebühr",
+      "article": "die",
+      "translation": {
+        "pt": "taxa administrativa",
+        "en": "administrative fee"
+      },
+      "category": "einkaufen",
+      "example": "Die Verwaltungsgebühr beträgt fünf Euro.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-115",
+      "word": "Datenschutz",
+      "article": "der",
+      "translation": {
+        "pt": "proteção de dados",
+        "en": "data protection"
+      },
+      "category": "einkaufen",
+      "example": "Datenschutz ist ein wichtiges Thema.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-116",
+      "word": "Grenzübertritt",
+      "article": "der",
+      "translation": {
+        "pt": "passagem de fronteira",
+        "en": "border crossing"
+      },
+      "category": "reisen",
+      "example": "Der Grenzübertritt war problemlos.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-117",
+      "word": "Vielvölkerstaat",
+      "article": "der",
+      "translation": {
+        "pt": "estado multinacional",
+        "en": "multinational state"
+      },
+      "category": "reisen",
+      "example": "Österreich-Ungarn war ein Vielvölkerstaat.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-118",
+      "word": "Kreislaufwirtschaft",
+      "article": "die",
+      "translation": {
+        "pt": "economia circular",
+        "en": "circular economy"
+      },
+      "category": "natur",
+      "example": "Die Kreislaufwirtschaft spart Ressourcen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-119",
+      "word": "Überwachungsstaat",
+      "article": "der",
+      "translation": {
+        "pt": "estado de vigilância",
+        "en": "surveillance state"
+      },
+      "category": "arbeit",
+      "example": "Ein Überwachungsstaat bedroht die Freiheit.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-120",
+      "word": "Zivilgesellschaft",
+      "article": "die",
+      "translation": {
+        "pt": "sociedade civil",
+        "en": "civil society"
+      },
+      "category": "arbeit",
+      "example": "Die Zivilgesellschaft engagiert sich.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-121",
+      "word": "Pressefreiheit",
+      "article": "die",
+      "translation": {
+        "pt": "liberdade de imprensa",
+        "en": "press freedom"
+      },
+      "category": "freizeit",
+      "example": "Die Pressefreiheit muss geschützt werden.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-122",
+      "word": "Chancengleichheit",
+      "article": "die",
+      "translation": {
+        "pt": "igualdade de oportunidades",
+        "en": "equal opportunity"
+      },
+      "category": "schule",
+      "example": "Chancengleichheit beginnt in der Schule.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-123",
+      "word": "Gewaltenteilung",
+      "article": "die",
+      "translation": {
+        "pt": "separação de poderes",
+        "en": "separation of powers"
+      },
+      "category": "schule",
+      "example": "Die Gewaltenteilung ist ein Grundprinzip.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-124",
+      "word": "Wahlberechtigung",
+      "article": "die",
+      "translation": {
+        "pt": "direito de voto",
+        "en": "right to vote"
+      },
+      "category": "arbeit",
+      "example": "Die Wahlberechtigung beginnt mit 18.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-125",
+      "word": "Meinungsvielfalt",
+      "article": "die",
+      "translation": {
+        "pt": "pluralidade de opiniões",
+        "en": "diversity of opinion"
+      },
+      "category": "freizeit",
+      "example": "Die Meinungsvielfalt ist wichtig.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-126",
+      "word": "Geisteswissenschaft",
+      "article": "die",
+      "translation": {
+        "pt": "ciências humanas",
+        "en": "humanities"
+      },
+      "category": "schule",
+      "example": "Die Geisteswissenschaft analysiert Kulturen.",
+      "difficulty": 5,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-127",
+      "word": "Naturwissenschaft",
+      "article": "die",
+      "translation": {
+        "pt": "ciências naturais",
+        "en": "natural sciences"
+      },
+      "category": "schule",
+      "example": "Die Naturwissenschaft sucht Antworten.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-128",
+      "word": "Sprachkompetenz",
+      "article": "die",
+      "translation": {
+        "pt": "competência linguística",
+        "en": "language competence"
+      },
+      "category": "schule",
+      "example": "Die Sprachkompetenz wächst mit Übung.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-129",
+      "word": "Quellenangabe",
+      "article": "die",
+      "translation": {
+        "pt": "referência bibliográfica",
+        "en": "citation"
+      },
+      "category": "schule",
+      "example": "Die Quellenangabe fehlt.",
+      "difficulty": 3,
+      "tags": [
+        "substantiv"
+      ]
+    },
+    {
+      "id": "c1-130",
+      "word": "Versuchsreihe",
+      "article": "die",
+      "translation": {
+        "pt": "série de experiências",
+        "en": "series of experiments"
+      },
+      "category": "schule",
+      "example": "Die Versuchsreihe wurde durchgeführt.",
+      "difficulty": 4,
+      "tags": [
+        "substantiv"
+      ]
+    }
+  ]
+}

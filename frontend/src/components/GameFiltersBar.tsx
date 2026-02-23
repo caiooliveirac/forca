@@ -1,17 +1,22 @@
 import { useState, useEffect, useMemo } from 'react';
-import type { GameFilters as GameFiltersType, Category } from '../types';
-import { getAllCategories, getFilteredWords } from '../utils/wordUtils';
+import type { GameFilters as GameFiltersType, Category, CEFRLevel } from '../types';
+import { getAllCategories, getFilteredWords, CEFR_LEVELS } from '../utils/wordUtils';
 
 const FILTERS_KEY = 'galgenspiel-filters';
 
 const loadFilters = (): GameFiltersType => {
   try {
     const stored = localStorage.getItem(FILTERS_KEY);
-    if (stored) return JSON.parse(stored) as GameFiltersType;
+    if (stored) {
+      const parsed = JSON.parse(stored) as GameFiltersType;
+      // Migration: add levels if missing from old stored data
+      if (!parsed.levels) parsed.levels = [];
+      return parsed;
+    }
   } catch {
     // ignore
   }
-  return { difficulties: [], categories: [] };
+  return { levels: [], difficulties: [], categories: [] };
 };
 
 const saveFilters = (filters: GameFiltersType): void => {
@@ -66,6 +71,15 @@ export const GameFiltersBar = ({
     onChange({ ...filters, difficulties: newDiffs });
   };
 
+  const toggleLevel = (lvl: CEFRLevel) => {
+    if (disabled) return;
+    const current = filters.levels;
+    const newLevels = current.includes(lvl)
+      ? current.filter((l) => l !== lvl)
+      : [...current, lvl];
+    onChange({ ...filters, levels: newLevels });
+  };
+
   const toggleCategory = (id: string) => {
     if (disabled) return;
     const current = filters.categories;
@@ -77,11 +91,13 @@ export const GameFiltersBar = ({
 
   const clearAll = () => {
     if (disabled) return;
-    onChange({ difficulties: [], categories: [] });
+    onChange({ levels: [], difficulties: [], categories: [] });
   };
 
   const hasActiveFilters =
-    filters.difficulties.length > 0 || filters.categories.length > 0;
+    filters.levels.length > 0 ||
+    filters.difficulties.length > 0 ||
+    filters.categories.length > 0;
 
   return (
     <div className="w-full max-w-6xl mx-auto px-3 md:px-6">
@@ -92,7 +108,40 @@ export const GameFiltersBar = ({
           ${disabled ? 'opacity-50 pointer-events-none' : ''}
         `}
       >
-        {/* Row 1: Difficulty */}
+        {/* Row 1: CEFR Level */}
+        <div className="flex items-center gap-2 flex-wrap">
+          <span className="text-xs text-chalk-dim font-body shrink-0">
+            Niveau:
+          </span>
+          <div className="flex gap-1 flex-wrap">
+            {CEFR_LEVELS.map((lvl) => {
+              const selected = filters.levels.includes(lvl);
+              const active =
+                filters.levels.length === 0 || selected;
+              return (
+                <button
+                  key={lvl}
+                  onClick={() => toggleLevel(lvl)}
+                  title={`CEFR ${lvl}`}
+                  className={`
+                    px-2.5 py-0.5 rounded text-xs font-body font-semibold transition-all duration-150
+                    ${
+                      selected
+                        ? 'bg-emerald-400/20 text-emerald-300 border border-emerald-400/40'
+                        : active
+                          ? 'bg-white/5 text-chalk-dim border border-transparent hover:bg-white/10'
+                          : 'bg-white/5 text-chalk-dim/40 border border-transparent hover:bg-white/10'
+                    }
+                  `}
+                >
+                  {lvl}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Row 2: Difficulty */}
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-xs text-chalk-dim font-body shrink-0">
             Schwierigkeit:
@@ -126,7 +175,7 @@ export const GameFiltersBar = ({
           </div>
         </div>
 
-        {/* Row 2: Categories */}
+        {/* Row 3: Categories */}
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-xs text-chalk-dim font-body shrink-0">
             Kategorie:
