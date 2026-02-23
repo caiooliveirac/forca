@@ -1,0 +1,35 @@
+# Override para servidores onde o Nginx principal roda em Docker
+# (ex: repo-nginx-1 usando uma rede Docker compartilhada).
+#
+# Uso:
+#   docker compose -f docker-compose.prod.yml \
+#                  -f docker-compose.prod.override.docker-nginx.yml \
+#                  up -d --build
+#
+# O que muda em relação ao base (docker-compose.prod.yml):
+# - Backend e frontend se conectam à rede externa (SHARED_NETWORK_NAME)
+#   para serem acessíveis pelo container nginx principal.
+# - O nginx principal precisa de upstreams apontando para:
+#     forca-frontend:80   (frontend estático)
+#     forca-backend:3001  (API)
+# - Backend não precisa mais de ports expostas em 127.0.0.1 porque o
+#   proxy reverso já está na mesma rede Docker.
+#
+# Variáveis de ambiente opcionais (padrões sensatos já definidos):
+#   SHARED_NETWORK_NAME — nome da rede Docker compartilhada com o nginx
+#                         (default: perguntas_default)
+
+services:
+  backend:
+    networks:
+      - galgenspiel-internal
+      - shared_proxy
+
+  frontend:
+    networks:
+      - shared_proxy
+
+networks:
+  shared_proxy:
+    external: true
+    name: ${SHARED_NETWORK_NAME:-perguntas_default}

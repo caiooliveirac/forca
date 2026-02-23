@@ -2,6 +2,10 @@
 
 ## Arquitetura de Produção
 
+Há dois modelos de deploy, dependendo de como o Nginx está configurado no servidor:
+
+### Modelo A: Nginx no host
+
 ```
 Internet → Nginx (host) → /forca/     → arquivos estáticos (frontend/dist)
                         → /forca/api/ → 127.0.0.1:3077 → container backend
@@ -13,6 +17,21 @@ Internet → Nginx (host) → /forca/     → arquivos estáticos (frontend/dist
 - O **PostgreSQL** roda em Docker sem portas expostas (rede interna Docker)
 - O Nginx do host faz reverse proxy de `/forca/api/` para o backend
 
+### Modelo B: Nginx em Docker (rede compartilhada)
+
+```
+Internet → Cloudflare → Nginx (container, ex: repo-nginx-1)
+                          → /forca/     → forca-frontend:80  (container)
+                          → /forca/api/ → forca-backend:3001 (container)
+                                          → forca-db (rede interna)
+```
+
+- O **frontend** roda como container Nginx servindo os arquivos estáticos
+- O **backend** e o **frontend** se conectam a uma rede Docker compartilhada
+  com o container Nginx principal (ex: `perguntas_default`)
+- O Nginx principal resolve `forca-frontend` e `forca-backend` via DNS Docker
+- Usa o override: `docker-compose.prod.override.docker-nginx.yml`
+
 ---
 
 ## Dev vs Prod — Qual compose usar
@@ -20,7 +39,8 @@ Internet → Nginx (host) → /forca/     → arquivos estáticos (frontend/dist
 | Ambiente | Comando | O que faz |
 |----------|---------|-----------|
 | Dev | `docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d` | DB + backend (hot reload) + frontend (Vite dev server) |
-| Prod | `docker compose -f docker-compose.prod.yml up -d --build` | DB + backend apenas. Frontend é build estático. |
+| Prod (nginx host) | `docker compose -f docker-compose.prod.yml up -d --build` | DB + backend + frontend build. Copiar estáticos para nginx. |
+| Prod (nginx Docker) | `docker compose -f docker-compose.prod.yml -f docker-compose.prod.override.docker-nginx.yml up -d --build` | DB + backend + frontend. Nginx acessa via rede Docker. |
 
 ---
 
@@ -66,15 +86,15 @@ cp .env.example .env
 
 Editar `.env` com senhas fortes:
 ```bash
-# Gerar senhas
-openssl rand -base64 32   # → DB_PASSWORD
-openssl rand -base64 48   # → JWT_SECRET
+# Gerar senhas — IMPORTANTE: usar hex para DB_PASSWORD (URL-safe)
+openssl rand -hex 24     # → DB_PASSWORD (sem /, +, = que quebram DATABASE_URL)
+openssl rand -base64 48  # → JWT_SECRET (qualquer char é OK aqui)
 ```
 
 ```dotenv
 DB_NAME=galgenspiel
 DB_USER=galgen
-DB_PASSWORD=<senha-gerada>
+DB_PASSWORD=<senha-hex-gerada>
 JWT_SECRET=<outra-senha-gerada>
 CORS_ORIGIN=https://seudominio.com
 BACKEND_PORT=3077
@@ -84,20 +104,27 @@ BACKEND_PORT=3077
 
 ## Passo 2: Build do Frontend
 
+### Modelo A (nginx no host):
 ```bash
 cd /opt/galgenspiel/frontend
 npm ci --production=false
-VITE_API_URL=/forca/api npm run build
+VITE_API_URL=/forca VITE_BASE=/forca/ npm run build
 ```
 
-> **Importante:** `VITE_API_URL=/forca/api` faz com que o frontend use path relativo.
-> O Nginx do host resolve `/forca/api/` → `127.0.0.1:3077/api/`.
+> **Importante:** `VITE_API_URL=/forca` define o prefixo das chamadas API.
+> As rotas do frontend usam `/api/auth/...`, `/api/game/...` que se concatenam
+> ao baseURL, gerando `/forca/api/auth/...` etc.
+> `VITE_BASE=/forca/` configura o base path do Vite para assets.
 
 Copiar para diretório servido pelo Nginx:
 ```bash
 sudo mkdir -p /var/www/galgenspiel
 sudo cp -r dist/* /var/www/galgenspiel/
 ```
+
+### Modelo B (nginx em Docker):
+O build é feito automaticamente pelo Docker Compose (args no Dockerfile).
+Não é necessário copiar arquivos — o container `forca-frontend` serve diretamente.
 
 ---
 
@@ -133,13 +160,83 @@ Testar e recarregar:
 sudo nginx -t && sudo nginx -s reload
 ```
 
+### Opção D: Nginx rodando em Docker (rede compartilhada)
+
+Quando o Nginx principal já é um container Docker (ex: `repo-nginx-1`), use
+o override para conectar backend e frontend à mesma rede:
+
+1. Adicionar upstreams e location blocks na config do Nginx principal:
+```nginx
+# No bloco http (ou arquivo de upstreams):
+upstream app_forca_frontend {
+    server forca-frontend:80;
+    keepalive 32;
+}
+
+upstream app_forca_backend {
+    server forca-backend:3001;
+    keepalive 32;
+}
+
+# No server block HTTPS:
+location = /forca {
+    return 301 /forca/;
+}
+
+location /forca/api/ {
+    rewrite ^/forca/api/?(.*)$ /api/$1 break;
+    proxy_pass http://app_forca_backend;
+    proxy_http_version 1.1;
+    proxy_set_header Connection "";
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_connect_timeout 5s;
+    proxy_send_timeout 30s;
+    proxy_read_timeout 30s;
+    proxy_redirect off;
+}
+
+location /forca/ {
+    rewrite ^/forca/(.*)$ /$1 break;
+    proxy_pass http://app_forca_frontend;
+    proxy_http_version 1.1;
+    proxy_set_header Connection "";
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_connect_timeout 5s;
+    proxy_send_timeout 60s;
+    proxy_read_timeout 60s;
+    proxy_redirect off;
+}
+```
+
+2. Conectar o Nginx principal à rede compartilhada (se ainda não estiver).
+
+3. Testar e recarregar o Nginx dentro do container:
+```bash
+docker exec <nginx-container> nginx -t && docker exec <nginx-container> nginx -s reload
+```
+
 ---
 
 ## Passo 4: Subir os Containers
 
+### Modelo A (nginx no host):
 ```bash
 cd /opt/galgenspiel
 docker compose -f docker-compose.prod.yml up -d --build
+```
+
+### Modelo B (nginx em Docker):
+```bash
+cd /opt/galgenspiel
+docker compose -f docker-compose.prod.yml \
+               -f docker-compose.prod.override.docker-nginx.yml \
+               up -d --build
 ```
 
 Verificar:
@@ -166,9 +263,9 @@ O script faz: `git pull` → `npm build` → copia estáticos → rebuild contai
 
 ## Checklist Pré-Deploy
 
-- [ ] `.env` preenchido com senhas fortes
+- [ ] `.env` preenchido com senhas fortes (DB_PASSWORD em **hex**, sem `/+=`)
 - [ ] Porta 3077 livre: `ss -tlnp | grep 3077`
-- [ ] `/var/www/galgenspiel` criado
+- [ ] `/var/www/galgenspiel` criado (modelo A) ou rede compartilhada existe (modelo B)
 - [ ] Repo clonado em `/opt/galgenspiel`
 - [ ] `nginx -t` passa sem erro
 - [ ] Docker e docker compose instalados
@@ -201,13 +298,13 @@ O script faz: `git pull` → `npm build` → copia estáticos → rebuild contai
 
 ```
 galgenspiel/
-├── docker-compose.yml          ← base (dev, expõe portas)
-├── docker-compose.dev.yml      ← override dev (hot reload, Vite)
-├── docker-compose.prod.yml     ← produção (rede isolada, 127.0.0.1 only)
-├── deploy.sh                   ← script de deploy automatizado
-├── .env                        ← variáveis (não commitar)
-├── .env.example                ← template de variáveis
-├── nginx.conf                  ← nginx do docker-compose.yml (dev com nginx container)
+├── docker-compose.yml                            ← base (dev, expõe portas)
+├── docker-compose.dev.yml                        ← override dev (hot reload, Vite)
+├── docker-compose.prod.yml                       ← produção base (DB + backend + frontend)
+├── docker-compose.prod.override.docker-nginx.yml ← override: nginx em Docker (rede compartilhada)
+├── deploy.sh                                     ← script de deploy automatizado
+├── .env                                          ← variáveis (não commitar)
+├── .env.example                                  ← template de variáveis
 ├── nginx/
 │   ├── galgenspiel-location.conf   ← Opção A/B: location blocks para nginx do host
 │   └── galgenspiel-subdomain.conf  ← Opção C: server block para subdomínio

@@ -1,13 +1,20 @@
-# docker-compose.prod.yml — Produção (servidor com Nginx existente)
+# docker-compose.prod.yml — Produção (base)
 # Uso: docker compose -f docker-compose.prod.yml up -d --build
 #
 # NÃO expõe portas ao mundo. O backend escuta APENAS em
 # 127.0.0.1:${BACKEND_PORT} e o Nginx do host faz reverse proxy.
 # O frontend é servido como arquivos estáticos pelo Nginx do host.
+#
+# Para servidores onde o Nginx principal roda em Docker (ex: repo-nginx-1
+# em rede compartilhada), use o override:
+#   docker compose -f docker-compose.prod.yml \
+#                  -f docker-compose.prod.override.docker-nginx.yml \
+#                  up -d --build
 
 services:
   db:
     image: postgres:16-alpine
+    container_name: forca-db
     restart: unless-stopped
     environment:
       POSTGRES_DB: ${DB_NAME}
@@ -27,6 +34,7 @@ services:
 
   backend:
     build: ./backend
+    container_name: forca-backend
     restart: unless-stopped
     environment:
       DATABASE_URL: postgresql://${DB_USER}:${DB_PASSWORD}@db:5432/${DB_NAME}
@@ -35,14 +43,27 @@ services:
       NODE_ENV: production
     ports:
       - "127.0.0.1:${BACKEND_PORT:-3077}:3001"
-      # 127.0.0.1 = só localhost pode acessar
-      # Ninguém de fora alcança essa porta diretamente
-      # O nginx do host faz o proxy reverso
     depends_on:
       db:
         condition: service_healthy
     networks:
       - galgenspiel-internal
+
+  # Frontend: build estático servido pelo Nginx do host.
+  # O build gera os arquivos em /usr/share/nginx/html dentro da imagem.
+  # Em modo "nginx no host", copie manualmente para /var/www/galgenspiel/:
+  #   docker cp forca-frontend:/usr/share/nginx/html/. /var/www/galgenspiel/
+  # Em modo "nginx em Docker" (override), o container é proxy_pass direto.
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: ${VITE_API_URL:-/forca}
+        VITE_BASE: ${VITE_BASE:-/forca/}
+    container_name: forca-frontend
+    restart: unless-stopped
+    # Sem ports: em modo nginx-no-host, usa docker cp; em modo override, nginx
+    # alcança via rede Docker.
 
 volumes:
   pgdata:
