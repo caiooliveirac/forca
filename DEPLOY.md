@@ -2,7 +2,7 @@
 
 ## Arquitetura de Produção
 
-Há dois modelos de deploy, dependendo de como o Nginx está configurado no servidor:
+Há dois modelos de deploy. O padrao atual e Nginx no host; o modo em Docker fica como fallback legado.
 
 ### Modelo A: Nginx no host
 
@@ -17,7 +17,7 @@ Internet → Nginx (host) → /forca/     → arquivos estáticos (frontend/dist
 - O **PostgreSQL** roda em Docker sem portas expostas (rede interna Docker)
 - O Nginx do host faz reverse proxy de `/forca/api/` para o backend
 
-### Modelo B: Nginx em Docker (rede compartilhada)
+### Modelo B: Nginx em Docker (fallback legado)
 
 ```
 Internet → Cloudflare → Nginx (container, ex: repo-nginx-1)
@@ -40,7 +40,7 @@ Internet → Cloudflare → Nginx (container, ex: repo-nginx-1)
 |----------|---------|-----------|
 | Dev | `docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d` | DB + backend (hot reload) + frontend (Vite dev server) |
 | Prod (nginx host) | `docker compose -f docker-compose.prod.yml up -d --build` | DB + backend + frontend build. Copiar estáticos para nginx. |
-| Prod (nginx Docker) | `docker compose -f docker-compose.prod.yml -f docker-compose.prod.override.docker-nginx.yml up -d --build` | DB + backend + frontend. Nginx acessa via rede Docker. |
+| Prod (nginx Docker - legado) | `docker compose -f docker-compose.prod.yml -f docker-compose.prod.override.docker-nginx.yml up -d --build` | DB + backend + frontend. Usar apenas quando o gateway ativo for containerizado. |
 
 ---
 
@@ -160,9 +160,9 @@ Testar e recarregar:
 sudo nginx -t && sudo nginx -s reload
 ```
 
-### Opção D: Nginx rodando em Docker (rede compartilhada)
+### Opção D: Nginx rodando em Docker (fallback legado)
 
-Quando o Nginx principal já é um container Docker (ex: `repo-nginx-1`), use
+Quando o gateway ativo for explicitamente um container Docker (ex: `repo-nginx-1`), use
 o override para conectar backend e frontend à mesma rede:
 
 1. Adicionar upstreams e location blocks na config do Nginx principal:
